@@ -1,0 +1,386 @@
+{
+    "15.0251": {
+        "id": "15.0251",
+        "total-units": 9,
+        "prereqs": "14.01 or 15.0111",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.0341": {
+        "id": "15.0341",
+        "total-units": 9,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.037": {
+        "id": "15.037",
+        "total-units": 12,
+        "prereqs": "14.01 or 15.0111",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "HS",
+        "gir_attribute": ""
+    },
+    "15.039": {
+        "id": "15.039",
+        "total-units": 12,
+        "prereqs": "14.01",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "HS",
+        "gir_attribute": ""
+    },
+    "15.053": {
+        "id": "15.053",
+        "total-units": 12,
+        "prereqs": "1.00, 1.000, 6.0001, or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "REST"
+    },
+    "15.0711": {
+        "id": "15.0711",
+        "total-units": 12,
+        "prereqs": "15.053 and 15.0791",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.075": {
+        "id": "15.075",
+        "total-units": 12,
+        "prereqs": "6.041B or 15.0791",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "15.076": {
+        "id": "15.076",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.2391": {
+        "id": "15.2391",
+        "total-units": 6,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.276": {
+        "id": "15.276",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.279": {
+        "id": "15.279",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.305": {
+        "id": "15.305",
+        "total-units": 9,
+        "prereqs": "Permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.373": {
+        "id": "15.373",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.3781": {
+        "id": "15.3781",
+        "total-units": 12,
+        "prereqs": "15.3901 or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.3901": {
+        "id": "15.3901",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.3941": {
+        "id": "15.3941",
+        "total-units": 9,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.3991": {
+        "id": "15.3991",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.417": {
+        "id": "15.417",
+        "total-units": 15,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "15.4371": {
+        "id": "15.4371",
+        "total-units": 9,
+        "prereqs": "15.417",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.4451": {
+        "id": "15.4451",
+        "total-units": 9,
+        "prereqs": "15.501; [15.418]",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.501": {
+        "id": "15.501",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.5181": {
+        "id": "15.5181",
+        "total-units": 9,
+        "prereqs": "15.501",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.6181": {
+        "id": "15.6181",
+        "total-units": 6,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.6221": {
+        "id": "15.6221",
+        "total-units": 6,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.7611": {
+        "id": "15.7611",
+        "total-units": 9,
+        "prereqs": "6.041B, 15.0791, or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.772": {
+        "id": "15.772",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.8141": {
+        "id": "15.8141",
+        "total-units": 9,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.8471": {
+        "id": "15.8471",
+        "total-units": 9,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.8731": {
+        "id": "15.8731",
+        "total-units": 9,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.9001": {
+        "id": "15.9001",
+        "total-units": 9,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.950": {
+        "id": "15.950",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.951": {
+        "id": "15.951",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.952": {
+        "id": "15.952",
+        "total-units": 1,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.EPE": {
+        "id": "15.EPE",
+        "total-units": 1,
+        "prereqs": "2.EPW or permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.UR": {
+        "id": "15.UR",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "15.URG": {
+        "id": "15.URG",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    }
+}

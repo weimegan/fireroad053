@@ -1,0 +1,783 @@
+{
+    "6.0001": {
+        "id": "6.0001",
+        "total-units": 6,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "RST2"
+    },
+    "6.0002": {
+        "id": "6.0002",
+        "total-units": 6,
+        "prereqs": "6.0001 or permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "RST2"
+    },
+    "6.002": {
+        "id": "6.002",
+        "total-units": 12,
+        "prereqs": "GIR:PHY2; [2.087 or 18.03]",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "REST"
+    },
+    "6.003": {
+        "id": "6.003",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1 and 6.0001",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "REST"
+    },
+    "6.004": {
+        "id": "6.004",
+        "total-units": 12,
+        "prereqs": "GIR:PHY2 and 6.0001",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "REST"
+    },
+    "6.006": {
+        "id": "6.006",
+        "total-units": 12,
+        "prereqs": "6.042 and (6.0001 or [6.009])",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.009": {
+        "id": "6.009",
+        "total-units": 12,
+        "prereqs": "6.0001",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "6.011": {
+        "id": "6.011",
+        "total-units": 12,
+        "prereqs": "6.003 and (6.008, 6.041, or 18.600)",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.012": {
+        "id": "6.012",
+        "total-units": 12,
+        "prereqs": "6.002",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.013": {
+        "id": "6.013",
+        "total-units": 12,
+        "prereqs": "GIR:CAL2 and GIR:PHY2",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.022": {
+        "id": "6.022",
+        "total-units": 12,
+        "prereqs": "GIR:PHY2, 18.03, or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.023": {
+        "id": "6.023",
+        "total-units": 12,
+        "prereqs": "GIR:BIOL, GIR:PHY2, and 18.03",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.024": {
+        "id": "6.024",
+        "total-units": 12,
+        "prereqs": "GIR:BIOL, (2.370 or 20.110), and (3.016B or 18.03)",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.027": {
+        "id": "6.027",
+        "total-units": 12,
+        "prereqs": "GIR:BIOL, 18.03, or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.03": {
+        "id": "6.03",
+        "total-units": 12,
+        "prereqs": "GIR:CAL2 and GIR:PHY2",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "6.031": {
+        "id": "6.031",
+        "total-units": 15,
+        "prereqs": "6.009",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.033": {
+        "id": "6.033",
+        "total-units": 12,
+        "prereqs": "6.004 and 6.009",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.035": {
+        "id": "6.035",
+        "total-units": 12,
+        "prereqs": "6.004 and 6.031",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.036": {
+        "id": "6.036",
+        "total-units": 12,
+        "prereqs": "GIR:CAL2 and (6.0001 or 6.01)",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.041": {
+        "id": "6.041",
+        "total-units": 12,
+        "prereqs": "GIR:CAL2",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "REST"
+    },
+    "6.042": {
+        "id": "6.042",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "REST"
+    },
+    "6.045": {
+        "id": "6.045",
+        "total-units": 12,
+        "prereqs": "6.042",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.046": {
+        "id": "6.046",
+        "total-units": 12,
+        "prereqs": "6.006",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.049": {
+        "id": "6.049",
+        "total-units": 12,
+        "prereqs": "(6.0001 and 7.03) or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.070": {
+        "id": "6.070",
+        "total-units": 6,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.073": {
+        "id": "6.073",
+        "total-units": 12,
+        "prereqs": "6.01, CMS.301, or CMS.608",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "HA",
+        "gir_attribute": ""
+    },
+    "6.08": {
+        "id": "6.08",
+        "total-units": 12,
+        "prereqs": "6.0001; [GIR:PHY2]",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "6.100": {
+        "id": "6.100",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.101": {
+        "id": "6.101",
+        "total-units": 12,
+        "prereqs": "6.002",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "6.115": {
+        "id": "6.115",
+        "total-units": 12,
+        "prereqs": "6.002, 6.003, or 6.004",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "6.1151": {
+        "id": "6.1151",
+        "total-units": 15,
+        "prereqs": "6.002, 6.003, or 6.004",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.129": {
+        "id": "6.129",
+        "total-units": 12,
+        "prereqs": "GIR:BIOL and GIR:CAL2",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "6.141": {
+        "id": "6.141",
+        "total-units": 12,
+        "prereqs": "((1.00 or 6.0001) and (2.003, 6.006, 6.009, or 16.06)) or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "6.152": {
+        "id": "6.152",
+        "total-units": 12,
+        "prereqs": "GIR:CAL2, GIR:CHEM, GIR:PHY2, or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.163": {
+        "id": "6.163",
+        "total-units": 12,
+        "prereqs": "GIR:PHY2 or permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "LAB"
+    },
+    "6.207": {
+        "id": "6.207",
+        "total-units": 12,
+        "prereqs": "6.041 or 14.30",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "HS",
+        "gir_attribute": ""
+    },
+    "6.302": {
+        "id": "6.302",
+        "total-units": 12,
+        "prereqs": "GIR:PHY2 and (2.087 or 18.03)",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.401": {
+        "id": "6.401",
+        "total-units": 12,
+        "prereqs": "6.0001 and (6.008, 6.041, or 18.600)",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.402": {
+        "id": "6.402",
+        "total-units": 6,
+        "prereqs": "GIR:CAL2 and 6.0001; [1.024, 2.161, 3.100, or 22.042]",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.419": {
+        "id": "6.419",
+        "total-units": 12,
+        "prereqs": "((2.087, 6.0002, 6.01, 18.03, or 18.06) and (6.008, 6.041, 14.30, 16.09, or 18.05)) or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.802": {
+        "id": "6.802",
+        "total-units": 12,
+        "prereqs": "(7.05 and (6.0002 or 6.01)) or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.806": {
+        "id": "6.806",
+        "total-units": 12,
+        "prereqs": "6.046 or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.808": {
+        "id": "6.808",
+        "total-units": 12,
+        "prereqs": "6.033 or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.809": {
+        "id": "6.809",
+        "total-units": 12,
+        "prereqs": "(6.009 and 21M.301) or permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "HA",
+        "gir_attribute": ""
+    },
+    "6.812": {
+        "id": "6.812",
+        "total-units": 12,
+        "prereqs": "6.003 or 6.004",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.814": {
+        "id": "6.814",
+        "total-units": 12,
+        "prereqs": "(6.033 and (6.006 or 6.046)) or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.819": {
+        "id": "6.819",
+        "total-units": 12,
+        "prereqs": "18.06 and (6.041B or 6.042)",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.902": {
+        "id": "6.902",
+        "total-units": 6,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.9021": {
+        "id": "6.9021",
+        "total-units": 3,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.904": {
+        "id": "6.904",
+        "total-units": 6,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.9041": {
+        "id": "6.9041",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.905": {
+        "id": "6.905",
+        "total-units": 12,
+        "prereqs": "6.034 or permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.910": {
+        "id": "6.910",
+        "total-units": 0,
+        "prereqs": "Permission of instructor",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.911": {
+        "id": "6.911",
+        "total-units": 3,
+        "prereqs": "[6.912]; or permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.912": {
+        "id": "6.912",
+        "total-units": 3,
+        "prereqs": "[6.911]; or permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.913": {
+        "id": "6.913",
+        "total-units": 6,
+        "prereqs": "6.902, 6.911, 6.912, or permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.920": {
+        "id": "6.920",
+        "total-units": 1,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.921": {
+        "id": "6.921",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.922": {
+        "id": "6.922",
+        "total-units": 12,
+        "prereqs": "6.921",
+        "semester": [
+            "Fall",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.EPE": {
+        "id": "6.EPE",
+        "total-units": 1,
+        "prereqs": "2.EPW or permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S00": {
+        "id": "6.S00",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S062": {
+        "id": "6.S062",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S063": {
+        "id": "6.S063",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S078": {
+        "id": "6.S078",
+        "total-units": 0,
+        "prereqs": "Permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S080": {
+        "id": "6.S080",
+        "total-units": 0,
+        "prereqs": "Permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S082": {
+        "id": "6.S082",
+        "total-units": 0,
+        "prereqs": "Permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S083": {
+        "id": "6.S083",
+        "total-units": 0,
+        "prereqs": "Permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S099": {
+        "id": "6.S099",
+        "total-units": 0,
+        "prereqs": "Permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.S911": {
+        "id": "6.S911",
+        "total-units": 0,
+        "prereqs": "Permission of instructor",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.UAP": {
+        "id": "6.UAP",
+        "total-units": 6,
+        "prereqs": "6.UAT",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.UAR": {
+        "id": "6.UAR",
+        "total-units": 6,
+        "prereqs": "6.UR and permission of instructor",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.UAT": {
+        "id": "6.UAT",
+        "total-units": 9,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    },
+    "6.UR": {
+        "id": "6.UR",
+        "total-units": 0,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Summer",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": ""
+    }
+}
