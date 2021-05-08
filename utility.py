@@ -19,8 +19,12 @@ def generate_unif_utility_dist(num_students, num_classes, a=1, b=10):
 
 def convert_to_csv(arr, path=None):
     if path is None:
-        np.savetxt('utility.csv', arr, delimiter=",")
+        np.savetxt('data/utility.csv', arr, delimiter=",")
     else:
         np.savetxt(path, arr, delimiter=",")
 
-print(generate_unif_utility_dist(3, 2))
+unif_dist = generate_unif_utility_dist(6, 30)
+convert_to_csv(unif_dist, 'data/utility_unif.csv')
+
+norm_dist = generate_normal_utility_dist(6, 30)
+convert_to_csv(norm_dist, 'data/utility_norm.csv')
