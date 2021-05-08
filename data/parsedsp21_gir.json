@@ -1,0 +1,152 @@
+{
+    "18.01": {
+        "id": "18.01",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "CAL1"
+    },
+    "18.02": {
+        "id": "18.02",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "CAL2"
+    },
+    "18.02A": {
+        "id": "18.02A",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1",
+        "semester": [
+            "Fall",
+            "IAP",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "CAL2"
+    },
+    "3.091": {
+        "id": "3.091",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "CHEM"
+    },
+    "5.111": {
+        "id": "5.111",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "CHEM"
+    },
+    "8.011": {
+        "id": "8.011",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "PHY1"
+    },
+    "8.02": {
+        "id": "8.02",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1 and GIR:PHY1",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "PHY2"
+    },
+    "8.022": {
+        "id": "8.022",
+        "total-units": 12,
+        "prereqs": "GIR:PHY1; [GIR:CAL2]",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "PHY2"
+    },
+    "CC.802": {
+        "id": "CC.802",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1 and GIR:PHY1; [CC.010, CC.011, or CC.A10]",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "PHY2"
+    },
+    "CC.8022": {
+        "id": "CC.8022",
+        "total-units": 12,
+        "prereqs": "GIR:PHY1; [GIR:CAL2]",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "PHY2"
+    },
+    "ES.1802": {
+        "id": "ES.1802",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "CAL2"
+    },
+    "ES.5111": {
+        "id": "ES.5111",
+        "total-units": 12,
+        "prereqs": "",
+        "semester": [
+            "Fall",
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "CHEM"
+    },
+    "ES.802": {
+        "id": "ES.802",
+        "total-units": 12,
+        "prereqs": "GIR:CAL1 and GIR:PHY1",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "PHY2"
+    },
+    "ES.8022": {
+        "id": "ES.8022",
+        "total-units": 12,
+        "prereqs": "GIR:PHY1; [GIR:CAL2]",
+        "semester": [
+            "Spring"
+        ],
+        "hass_attribute": "",
+        "gir_attribute": "PHY2"
+    }
+}
