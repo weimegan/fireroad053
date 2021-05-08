@@ -1,5 +1,5 @@
-{
-    "18.01": {
+[
+    {
         "id": "18.01",
         "total-units": 12,
         "prereqs": "",
@@ -8,9 +8,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "CAL1"
+        "gir_attribute": "CAL1",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11,F2"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "MW2"
+                ]
+            ]
+        }
     },
-    "18.02": {
+    {
         "id": "18.02",
         "total-units": 12,
         "prereqs": "GIR:CAL1",
@@ -19,9 +31,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "CAL2"
+        "gir_attribute": "CAL2",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11,F2"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "MW3"
+                ]
+            ]
+        }
     },
-    "18.02A": {
+    {
         "id": "18.02A",
         "total-units": 12,
         "prereqs": "GIR:CAL1",
@@ -31,9 +55,26 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "CAL2"
+        "gir_attribute": "CAL2",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11,F2",
+                    "(BEGINS",
+                    "APR",
+                    "5)"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "3.091": {
+    {
         "id": "3.091",
         "total-units": 12,
         "prereqs": "",
@@ -42,9 +83,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "CHEM"
+        "gir_attribute": "CHEM",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "TR4"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MWF11"
+                ]
+            ]
+        }
     },
-    "5.111": {
+    {
         "id": "5.111",
         "total-units": 12,
         "prereqs": "",
@@ -53,9 +106,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "CHEM"
+        "gir_attribute": "CHEM",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "TR1"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MWF12"
+                ]
+            ]
+        }
     },
-    "8.011": {
+    {
         "id": "8.011",
         "total-units": 12,
         "prereqs": "",
@@ -63,9 +128,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "PHY1"
+        "gir_attribute": "PHY1",
+        "sections": {
+            "LabSession": [
+                [
+                    "F10"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW12-2"
+                ]
+            ]
+        }
     },
-    "8.02": {
+    {
         "id": "8.02",
         "total-units": 12,
         "prereqs": "GIR:CAL1 and GIR:PHY1",
@@ -74,9 +151,16 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "PHY2"
+        "gir_attribute": "PHY2",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TRF10"
+                ]
+            ]
+        }
     },
-    "8.022": {
+    {
         "id": "8.022",
         "total-units": 12,
         "prereqs": "GIR:PHY1; [GIR:CAL2]",
@@ -85,9 +169,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "PHY2"
+        "gir_attribute": "PHY2",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "TR11"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW2.30-4"
+                ]
+            ]
+        }
     },
-    "CC.802": {
+    {
         "id": "CC.802",
         "total-units": 12,
         "prereqs": "GIR:CAL1 and GIR:PHY1; [CC.010, CC.011, or CC.A10]",
@@ -95,9 +191,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "PHY2"
+        "gir_attribute": "PHY2",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "TR1"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "CC.8022": {
+    {
         "id": "CC.8022",
         "total-units": 12,
         "prereqs": "GIR:PHY1; [GIR:CAL2]",
@@ -105,9 +213,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "PHY2"
+        "gir_attribute": "PHY2",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "TR2"
+                ]
+            ]
+        }
     },
-    "ES.1802": {
+    {
         "id": "ES.1802",
         "total-units": 12,
         "prereqs": "GIR:CAL1",
@@ -116,9 +236,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "CAL2"
+        "gir_attribute": "CAL2",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTWR1"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ]
+        }
     },
-    "ES.5111": {
+    {
         "id": "ES.5111",
         "total-units": 12,
         "prereqs": "",
@@ -127,9 +259,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "CHEM"
+        "gir_attribute": "CHEM",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F12"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MTWR12"
+                ]
+            ]
+        }
     },
-    "ES.802": {
+    {
         "id": "ES.802",
         "total-units": 12,
         "prereqs": "GIR:CAL1 and GIR:PHY1",
@@ -137,9 +281,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "PHY2"
+        "gir_attribute": "PHY2",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTWR3"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ]
+        }
     },
-    "ES.8022": {
+    {
         "id": "ES.8022",
         "total-units": 12,
         "prereqs": "GIR:PHY1; [GIR:CAL2]",
@@ -147,6 +303,18 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "PHY2"
+        "gir_attribute": "PHY2",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTWR2"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ]
+        }
     }
-}
+]

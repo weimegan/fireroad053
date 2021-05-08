@@ -6,6 +6,7 @@ f = open('sp21classes.json')
 data = json.load(f)['items']
 gir = {"BIO", "CHEM", "CAL1", "CAL2", "PHY1", "PHY2"}
 
+
 # filter for id, total-units, prereqs, offering, semester, hass_attribute, gir_attribute, sections
 def filter_classes(data):
     class_set = set()
@@ -26,7 +27,8 @@ def filter_classes(data):
                 # create dictionary of recitation : time(s) / lab : time(s) / lecture : time(s)
                 if 'type' not in output[sec]['sections']:
                     output[sec]['sections'][d['type']] = []
-                output[sec]['sections'][d['type']].append(d['timeAndPlace']) # TODO: parse timeAndPlace
+                class_time = parse_time(d['timeAndPlace'])
+                output[sec]['sections'][d['type']].append(class_time) # TODO: parse timeAndPlace
     return output
 
 def parse_class(class_dict):
@@ -40,9 +42,9 @@ def parse_class(class_dict):
     return d
 
 def parse_time(s):
-    s = s.split(' ')[0] # extract time from timeAndPlace
+    s = s.split(' ')[:-1] # extract time from timeAndPlace
     if s == 'TBD':
-        return None
+        return ""
     else:
         return s
 
@@ -55,20 +57,20 @@ def filter_by_course(n):
                 output.append(d)
     return output
 
-def filter_gir():
+def filter_gir(data):
     output = []
     for d in data:
-        if 'gir_attribute' in d:
-            if d['gir_attribute'] in gir:
-                output.append(d)
+        if 'gir_attribute' in data[d]:
+            if data[d]['gir_attribute'] in gir:
+                output.append(data[d])
     return output
 
-def filter_hass():
+def filter_hass(data):
     output = []
     for d in data:
-        if 'hass_attribute' in d:
-            if len(d['hass_attribute']) > 0:
-                output.append(d)
+        if 'hass_attribute' in data[d]:
+            if len(data[d]['hass_attribute']) > 0:
+                output.append(data[d])
     return output
 
 def write_json_parsed():
@@ -84,14 +86,14 @@ def write_json_parsed_course(n):
         json.dump(new_dict, output_file)
 
 def write_json_parsed_gir():
-    d = filter_gir()
-    new_dict = filter_classes(d)
+    d = filter_classes(data)
+    new_dict = filter_gir(d)
     with open('data/parsedsp21_gir.json', 'w') as output_file:
         json.dump(new_dict, output_file)
 
 def write_json_parsed_hass():
-    d = filter_hass()
-    new_dict = filter_classes(d)
+    d = filter_classes(data)
+    new_dict = filter_hass(d)
     with open('data/parsedsp21_hass.json', 'w') as output_file:
         json.dump(new_dict, output_file)
 

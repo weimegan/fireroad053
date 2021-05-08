@@ -1,5 +1,5 @@
-{
-    "1.801": {
+[
+    {
         "id": "1.801",
         "total-units": 12,
         "prereqs": "",
@@ -7,9 +7,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "11.001": {
+    {
         "id": "11.001",
         "total-units": 12,
         "prereqs": "",
@@ -17,9 +24,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "11.005": {
+    {
         "id": "11.005",
         "total-units": 12,
         "prereqs": "",
@@ -27,9 +41,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "11.006": {
+    {
         "id": "11.006",
         "total-units": 12,
         "prereqs": "",
@@ -37,9 +58,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2-3.30"
+                ]
+            ]
+        }
     },
-    "11.021": {
+    {
         "id": "11.021",
         "total-units": 12,
         "prereqs": "",
@@ -47,9 +75,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "11.027": {
+    {
         "id": "11.027",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -57,9 +92,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR4"
+                ]
+            ]
+        }
     },
-    "11.123": {
+    {
         "id": "11.123",
         "total-units": 9,
         "prereqs": "",
@@ -67,9 +109,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "11.125": {
+    {
         "id": "11.125",
         "total-units": 12,
         "prereqs": "",
@@ -77,9 +126,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "11.127": {
+    {
         "id": "11.127",
         "total-units": 12,
         "prereqs": "",
@@ -87,9 +150,23 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "11.131": {
+    {
         "id": "11.131",
         "total-units": 12,
         "prereqs": "CMS.592",
@@ -97,9 +174,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR4-5.30"
+                ]
+            ]
+        }
     },
-    "11.139": {
+    {
         "id": "11.139",
         "total-units": 9,
         "prereqs": "",
@@ -107,9 +191,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3.30-5"
+                ]
+            ]
+        }
     },
-    "12.011": {
+    {
         "id": "12.011",
         "total-units": 9,
         "prereqs": "GIR:CHEM or GIR:PHY1",
@@ -117,9 +208,19 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "12.386": {
+    {
         "id": "12.386",
         "total-units": 12,
         "prereqs": "",
@@ -127,9 +228,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "14.01": {
+    {
         "id": "14.01",
         "total-units": 12,
         "prereqs": "",
@@ -138,9 +246,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F9"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TBD"
+                ]
+            ]
+        }
     },
-    "14.02": {
+    {
         "id": "14.02",
         "total-units": 12,
         "prereqs": "",
@@ -149,9 +269,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW2"
+                ]
+            ]
+        }
     },
-    "14.03": {
+    {
         "id": "14.03",
         "total-units": 12,
         "prereqs": "14.01 or permission of instructor",
@@ -160,9 +292,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F10"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW9-10.30"
+                ]
+            ]
+        }
     },
-    "14.15": {
+    {
         "id": "14.15",
         "total-units": 12,
         "prereqs": "6.041 or 14.30",
@@ -170,9 +314,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ]
+        }
     },
-    "14.18": {
+    {
         "id": "14.18",
         "total-units": 12,
         "prereqs": "14.04, 14.12, 14.15, or 14.19",
@@ -180,9 +336,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2.30-4"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "TBD"
+                ]
+            ]
+        }
     },
-    "14.20": {
+    {
         "id": "14.20",
         "total-units": 12,
         "prereqs": "14.01",
@@ -190,9 +358,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "14.26": {
+    {
         "id": "14.26",
         "total-units": 12,
         "prereqs": "14.01",
@@ -200,9 +380,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F11"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR10.30-12"
+                ]
+            ]
+        }
     },
-    "14.33": {
+    {
         "id": "14.33",
         "total-units": 12,
         "prereqs": "14.32 and (14.01 or 14.02)",
@@ -211,9 +403,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2.30-4"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "TBD"
+                ]
+            ]
+        }
     },
-    "14.42": {
+    {
         "id": "14.42",
         "total-units": 12,
         "prereqs": "14.01",
@@ -221,9 +425,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F3"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR9-10.30"
+                ]
+            ]
+        }
     },
-    "14.44": {
+    {
         "id": "14.44",
         "total-units": 12,
         "prereqs": "14.01 or 15.0111",
@@ -231,9 +447,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ]
+        }
     },
-    "14.70": {
+    {
         "id": "14.70",
         "total-units": 12,
         "prereqs": "",
@@ -241,9 +469,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M9.30-11"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "W9.30-11"
+                ]
+            ]
+        }
     },
-    "14.75": {
+    {
         "id": "14.75",
         "total-units": 12,
         "prereqs": "14.01",
@@ -251,9 +491,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "F1"
+                ]
+            ]
+        }
     },
-    "14.76": {
+    {
         "id": "14.76",
         "total-units": 12,
         "prereqs": "14.01",
@@ -261,9 +513,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F9"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW9-10.30"
+                ]
+            ]
+        }
     },
-    "15.037": {
+    {
         "id": "15.037",
         "total-units": 12,
         "prereqs": "14.01 or 15.0111",
@@ -271,9 +535,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "15.039": {
+    {
         "id": "15.039",
         "total-units": 12,
         "prereqs": "14.01",
@@ -281,9 +557,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR10.30-12"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "F11"
+                ]
+            ]
+        }
     },
-    "17.007": {
+    {
         "id": "17.007",
         "total-units": 12,
         "prereqs": "",
@@ -291,9 +579,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "17.04": {
+    {
         "id": "17.04",
         "total-units": 12,
         "prereqs": "",
@@ -301,9 +596,21 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "R3-5"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "T3-5"
+                ]
+            ]
+        }
     },
-    "17.181": {
+    {
         "id": "17.181",
         "total-units": 12,
         "prereqs": "",
@@ -311,9 +618,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "W1-3"
+                ]
+            ]
+        }
     },
-    "17.261": {
+    {
         "id": "17.261",
         "total-units": 12,
         "prereqs": "17.251 or permission of instructor",
@@ -321,9 +642,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M3-5"
+                ]
+            ]
+        }
     },
-    "17.275": {
+    {
         "id": "17.275",
         "total-units": 12,
         "prereqs": "",
@@ -331,9 +659,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W1-3"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "17.307": {
+    {
         "id": "17.307",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -342,9 +684,20 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED",
+                    "*TO",
+                    "BE"
+                ]
+            ]
+        }
     },
-    "17.309": {
+    {
         "id": "17.309",
         "total-units": 12,
         "prereqs": "",
@@ -352,9 +705,24 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1.30-3"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "R",
+                    "EVE",
+                    "(7.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "17.315": {
+    {
         "id": "17.315",
         "total-units": 12,
         "prereqs": "",
@@ -362,9 +730,25 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED",
+                    "*TO",
+                    "BE"
+                ]
+            ]
+        }
     },
-    "17.389": {
+    {
         "id": "17.389",
         "total-units": 12,
         "prereqs": "",
@@ -372,9 +756,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T1-3"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "17.393": {
+    {
         "id": "17.393",
         "total-units": 12,
         "prereqs": "",
@@ -382,9 +780,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "17.445": {
+    {
         "id": "17.445",
         "total-units": 12,
         "prereqs": "",
@@ -392,9 +797,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "M1-3"
+                ]
+            ]
+        }
     },
-    "17.473": {
+    {
         "id": "17.473",
         "total-units": 12,
         "prereqs": "",
@@ -402,9 +821,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "M1-3"
+                ]
+            ]
+        }
     },
-    "17.483": {
+    {
         "id": "17.483",
         "total-units": 12,
         "prereqs": "Freshmen need permission of instructor",
@@ -412,9 +845,24 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7",
+                    "PM)"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "T1-3"
+                ]
+            ]
+        }
     },
-    "17.511": {
+    {
         "id": "17.511",
         "total-units": 12,
         "prereqs": "",
@@ -422,9 +870,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "17.55": {
+    {
         "id": "17.55",
         "total-units": 12,
         "prereqs": "",
@@ -432,9 +887,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "17.569": {
+    {
         "id": "17.569",
         "total-units": 12,
         "prereqs": "",
@@ -442,9 +904,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T11-1,R12"
+                ]
+            ]
+        }
     },
-    "17.57": {
+    {
         "id": "17.57",
         "total-units": 12,
         "prereqs": "",
@@ -452,9 +921,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "17.591": {
+    {
         "id": "17.591",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -462,9 +938,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M11-1"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "17.811": {
+    {
         "id": "17.811",
         "total-units": 12,
         "prereqs": "",
@@ -472,9 +962,25 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED",
+                    "*TO",
+                    "BE"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "T1-3"
+                ]
+            ]
+        }
     },
-    "21A.01": {
+    {
         "id": "21A.01",
         "total-units": 12,
         "prereqs": "",
@@ -482,9 +988,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR10-11.30"
+                ]
+            ]
+        }
     },
-    "21A.130": {
+    {
         "id": "21A.130",
         "total-units": 12,
         "prereqs": "",
@@ -492,9 +1005,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21A.137": {
+    {
         "id": "21A.137",
         "total-units": 12,
         "prereqs": "",
@@ -502,9 +1022,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21A.151": {
+    {
         "id": "21A.151",
         "total-units": 12,
         "prereqs": "",
@@ -512,9 +1039,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "21A.157": {
+    {
         "id": "21A.157",
         "total-units": 12,
         "prereqs": "",
@@ -522,9 +1056,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "21A.407": {
+    {
         "id": "21A.407",
         "total-units": 12,
         "prereqs": "",
@@ -532,9 +1073,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "F1-4"
+                ]
+            ]
+        }
     },
-    "21A.500": {
+    {
         "id": "21A.500",
         "total-units": 9,
         "prereqs": "",
@@ -543,9 +1091,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "F11-1"
+                ]
+            ]
+        }
     },
-    "21A.505": {
+    {
         "id": "21A.505",
         "total-units": 12,
         "prereqs": "",
@@ -553,9 +1108,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21A.511": {
+    {
         "id": "21A.511",
         "total-units": 12,
         "prereqs": "",
@@ -563,9 +1125,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11.30-1"
+                ]
+            ]
+        }
     },
-    "21G.028": {
+    {
         "id": "21G.028",
         "total-units": 12,
         "prereqs": "",
@@ -573,9 +1142,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21G.036": {
+    {
         "id": "21G.036",
         "total-units": 12,
         "prereqs": "",
@@ -583,9 +1159,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21G.038": {
+    {
         "id": "21G.038",
         "total-units": 12,
         "prereqs": "",
@@ -594,9 +1180,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3.30-5"
+                ]
+            ]
+        }
     },
-    "21G.040": {
+    {
         "id": "21G.040",
         "total-units": 12,
         "prereqs": "",
@@ -604,9 +1197,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21G.054": {
+    {
         "id": "21G.054",
         "total-units": 12,
         "prereqs": "",
@@ -614,9 +1217,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9-10.30"
+                ]
+            ]
+        }
     },
-    "21G.057": {
+    {
         "id": "21G.057",
         "total-units": 12,
         "prereqs": "",
@@ -624,9 +1234,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "F1-4"
+                ]
+            ]
+        }
     },
-    "21G.077": {
+    {
         "id": "21G.077",
         "total-units": 12,
         "prereqs": "",
@@ -634,9 +1251,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21G.084": {
+    {
         "id": "21G.084",
         "total-units": 12,
         "prereqs": "",
@@ -644,9 +1268,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21G.086": {
+    {
         "id": "21G.086",
         "total-units": 12,
         "prereqs": "",
@@ -654,9 +1285,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "21G.094": {
+    {
         "id": "21G.094",
         "total-units": 12,
         "prereqs": "",
@@ -664,9 +1302,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "21G.102": {
+    {
         "id": "21G.102",
         "total-units": 12,
         "prereqs": "21G.101 or permission of instructor",
@@ -674,9 +1319,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF1"
+                ]
+            ]
+        }
     },
-    "21G.104": {
+    {
         "id": "21G.104",
         "total-units": 12,
         "prereqs": "21G.103 or permission of instructor",
@@ -684,9 +1336,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF2"
+                ]
+            ]
+        }
     },
-    "21G.106": {
+    {
         "id": "21G.106",
         "total-units": 12,
         "prereqs": "21G.105 or permission of instructor",
@@ -694,9 +1353,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF11"
+                ]
+            ]
+        }
     },
-    "21G.108": {
+    {
         "id": "21G.108",
         "total-units": 12,
         "prereqs": "21G.107 or permission of instructor",
@@ -704,9 +1370,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF3"
+                ]
+            ]
+        }
     },
-    "21G.110": {
+    {
         "id": "21G.110",
         "total-units": 12,
         "prereqs": "21G.109 or permission of instructor",
@@ -714,9 +1387,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF11"
+                ]
+            ]
+        }
     },
-    "21G.120": {
+    {
         "id": "21G.120",
         "total-units": 12,
         "prereqs": "21G.106, 21G.113, or permission of instructor",
@@ -724,9 +1404,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF2"
+                ]
+            ]
+        }
     },
-    "21G.190": {
+    {
         "id": "21G.190",
         "total-units": 13,
         "prereqs": "21G.105, 21G.110, or permission of instructor",
@@ -734,9 +1421,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21G.194": {
+    {
         "id": "21G.194",
         "total-units": 13,
         "prereqs": "21G.105, 21G.110, or permission of instructor",
@@ -744,9 +1441,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3.30-5"
+                ]
+            ]
+        }
     },
-    "21G.220": {
+    {
         "id": "21G.220",
         "total-units": 12,
         "prereqs": "",
@@ -755,9 +1459,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR8-9.30"
+                ]
+            ]
+        }
     },
-    "21G.222": {
+    {
         "id": "21G.222",
         "total-units": 12,
         "prereqs": "",
@@ -766,9 +1477,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW7.30-9"
+                ]
+            ]
+        }
     },
-    "21G.223": {
+    {
         "id": "21G.223",
         "total-units": 12,
         "prereqs": "",
@@ -777,9 +1495,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "21G.226": {
+    {
         "id": "21G.226",
         "total-units": 12,
         "prereqs": "",
@@ -788,9 +1513,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9-10.30"
+                ]
+            ]
+        }
     },
-    "21G.228": {
+    {
         "id": "21G.228",
         "total-units": 12,
         "prereqs": "",
@@ -799,9 +1531,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW12.30-2"
+                ]
+            ]
+        }
     },
-    "21G.233": {
+    {
         "id": "21G.233",
         "total-units": 12,
         "prereqs": "",
@@ -810,9 +1549,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11.30-1"
+                ]
+            ]
+        }
     },
-    "21G.240": {
+    {
         "id": "21G.240",
         "total-units": 12,
         "prereqs": "21G.222 or other CI-H/CI-HW subject",
@@ -820,9 +1566,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9-10.30"
+                ]
+            ]
+        }
     },
-    "21G.301": {
+    {
         "id": "21G.301",
         "total-units": 12,
         "prereqs": "",
@@ -832,9 +1585,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF3"
+                ]
+            ]
+        }
     },
-    "21G.302": {
+    {
         "id": "21G.302",
         "total-units": 12,
         "prereqs": "21G.301 or permission of instructor",
@@ -843,9 +1603,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF11"
+                ]
+            ]
+        }
     },
-    "21G.303": {
+    {
         "id": "21G.303",
         "total-units": 12,
         "prereqs": "21G.302 or permission of instructor",
@@ -854,9 +1621,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF11"
+                ]
+            ]
+        }
     },
-    "21G.304": {
+    {
         "id": "21G.304",
         "total-units": 12,
         "prereqs": "21G.303 or permission of instructor",
@@ -865,9 +1639,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF3"
+                ]
+            ]
+        }
     },
-    "21G.310": {
+    {
         "id": "21G.310",
         "total-units": 12,
         "prereqs": "21G.304 or permission of instructor",
@@ -875,9 +1656,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF2"
+                ]
+            ]
+        }
     },
-    "21G.315": {
+    {
         "id": "21G.315",
         "total-units": 12,
         "prereqs": "21G.304 or permission of instructor",
@@ -885,9 +1673,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR12.30-2"
+                ]
+            ]
+        }
     },
-    "21G.321": {
+    {
         "id": "21G.321",
         "total-units": 12,
         "prereqs": "One intermediate subject in French",
@@ -895,9 +1690,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21G.328": {
+    {
         "id": "21G.328",
         "total-units": 13,
         "prereqs": "21G.304 or permission of instructor",
@@ -905,9 +1707,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21G.342": {
+    {
         "id": "21G.342",
         "total-units": 12,
         "prereqs": "21G.304 or permission of instructor",
@@ -915,9 +1724,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "21G.401": {
+    {
         "id": "21G.401",
         "total-units": 12,
         "prereqs": "",
@@ -927,9 +1743,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF1"
+                ]
+            ]
+        }
     },
-    "21G.402": {
+    {
         "id": "21G.402",
         "total-units": 12,
         "prereqs": "21G.401 or permission of instructor",
@@ -938,9 +1761,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF1"
+                ]
+            ]
+        }
     },
-    "21G.403": {
+    {
         "id": "21G.403",
         "total-units": 12,
         "prereqs": "21G.402 or permission of instructor",
@@ -949,9 +1779,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF12"
+                ]
+            ]
+        }
     },
-    "21G.404": {
+    {
         "id": "21G.404",
         "total-units": 12,
         "prereqs": "21G.403 or permission of instructor",
@@ -960,9 +1797,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF12"
+                ]
+            ]
+        }
     },
-    "21G.410": {
+    {
         "id": "21G.410",
         "total-units": 12,
         "prereqs": "21G.404",
@@ -970,9 +1814,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21G.420": {
+    {
         "id": "21G.420",
         "total-units": 12,
         "prereqs": "21G.404 or permission of instructor",
@@ -980,9 +1831,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-9",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21G.502": {
+    {
         "id": "21G.502",
         "total-units": 12,
         "prereqs": "21G.501 or (placement test and permission of instructor)",
@@ -990,9 +1851,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF9"
+                ]
+            ]
+        }
     },
-    "21G.504": {
+    {
         "id": "21G.504",
         "total-units": 12,
         "prereqs": "21G.503 or (placement test and permission of instructor)",
@@ -1000,9 +1868,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF1"
+                ]
+            ]
+        }
     },
-    "21G.506": {
+    {
         "id": "21G.506",
         "total-units": 12,
         "prereqs": "21G.505 or (placement test and permission of instructor)",
@@ -1010,9 +1885,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21G.594": {
+    {
         "id": "21G.594",
         "total-units": 13,
         "prereqs": "21G.504 or permission of instructor",
@@ -1020,9 +1902,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "21G.612": {
+    {
         "id": "21G.612",
         "total-units": 12,
         "prereqs": "21G.611 or permission of instructor",
@@ -1030,9 +1919,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF2"
+                ]
+            ]
+        }
     },
-    "21G.614": {
+    {
         "id": "21G.614",
         "total-units": 12,
         "prereqs": "21G.613 and permission of instructor",
@@ -1040,9 +1936,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF4"
+                ]
+            ]
+        }
     },
-    "21G.618": {
+    {
         "id": "21G.618",
         "total-units": 13,
         "prereqs": "21G.614 or permission of instructor",
@@ -1050,9 +1953,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21G.701": {
+    {
         "id": "21G.701",
         "total-units": 12,
         "prereqs": "",
@@ -1062,9 +1972,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTWR12"
+                ]
+            ]
+        }
     },
-    "21G.702": {
+    {
         "id": "21G.702",
         "total-units": 12,
         "prereqs": "21G.701 or permission of instructor",
@@ -1073,9 +1990,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTWR11"
+                ]
+            ]
+        }
     },
-    "21G.703": {
+    {
         "id": "21G.703",
         "total-units": 12,
         "prereqs": "21G.702 or permission of instructor",
@@ -1084,9 +2008,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTWR12"
+                ]
+            ]
+        }
     },
-    "21G.704": {
+    {
         "id": "21G.704",
         "total-units": 12,
         "prereqs": "21G.703 or permission of instructor",
@@ -1095,9 +2026,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTWR12"
+                ]
+            ]
+        }
     },
-    "21G.711": {
+    {
         "id": "21G.711",
         "total-units": 12,
         "prereqs": "21G.704 or permission of instructor",
@@ -1105,9 +2043,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3-4.30"
+                ]
+            ]
+        }
     },
-    "21G.713": {
+    {
         "id": "21G.713",
         "total-units": 12,
         "prereqs": "21G.704 or permission of instructor",
@@ -1115,9 +2060,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21G.714": {
+    {
         "id": "21G.714",
         "total-units": 12,
         "prereqs": "Fluency in a Spanish dialect or permission of instructor",
@@ -1125,9 +2077,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "21G.736": {
+    {
         "id": "21G.736",
         "total-units": 12,
         "prereqs": "One intermediate subject in Spanish or permission of instructor",
@@ -1135,9 +2094,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "R",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21G.740": {
+    {
         "id": "21G.740",
         "total-units": 12,
         "prereqs": "One intermediate subject in Spanish or permission of instructor",
@@ -1145,9 +2114,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "21G.784": {
+    {
         "id": "21G.784",
         "total-units": 13,
         "prereqs": "21G.704 or permission of instructor",
@@ -1155,9 +2131,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21G.802": {
+    {
         "id": "21G.802",
         "total-units": 12,
         "prereqs": "21G.801 or permission of instructor",
@@ -1165,9 +2148,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF12"
+                ]
+            ]
+        }
     },
-    "21G.804": {
+    {
         "id": "21G.804",
         "total-units": 12,
         "prereqs": "21G.803 or permission of instructor",
@@ -1175,9 +2165,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF1"
+                ]
+            ]
+        }
     },
-    "21G.902": {
+    {
         "id": "21G.902",
         "total-units": 12,
         "prereqs": "21G.901 or permission of instructor",
@@ -1185,9 +2182,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF12"
+                ]
+            ]
+        }
     },
-    "21G.904": {
+    {
         "id": "21G.904",
         "total-units": 12,
         "prereqs": "21G.903 or permission of instructor",
@@ -1195,9 +2199,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MTRF4"
+                ]
+            ]
+        }
     },
-    "21H.102": {
+    {
         "id": "21H.102",
         "total-units": 12,
         "prereqs": "",
@@ -1205,9 +2216,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1.30-3"
+                ]
+            ]
+        }
     },
-    "21H.106": {
+    {
         "id": "21H.106",
         "total-units": 12,
         "prereqs": "",
@@ -1215,9 +2233,16 @@
             "Spring"
         ],
         "hass_attribute": "HA,HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T2-5"
+                ]
+            ]
+        }
     },
-    "21H.108": {
+    {
         "id": "21H.108",
         "total-units": 12,
         "prereqs": "",
@@ -1225,9 +2250,26 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-9",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21H.132": {
+    {
         "id": "21H.132",
         "total-units": 12,
         "prereqs": "",
@@ -1235,9 +2277,21 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW12"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "R12"
+                ]
+            ]
+        }
     },
-    "21H.134": {
+    {
         "id": "21H.134",
         "total-units": 12,
         "prereqs": "",
@@ -1245,9 +2299,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M9.30-11"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "W9.30-11"
+                ]
+            ]
+        }
     },
-    "21H.152": {
+    {
         "id": "21H.152",
         "total-units": 12,
         "prereqs": "",
@@ -1255,9 +2321,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3.30-5"
+                ]
+            ]
+        }
     },
-    "21H.154": {
+    {
         "id": "21H.154",
         "total-units": 12,
         "prereqs": "",
@@ -1265,9 +2338,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR12-1.30"
+                ]
+            ]
+        }
     },
-    "21H.161": {
+    {
         "id": "21H.161",
         "total-units": 12,
         "prereqs": "",
@@ -1275,9 +2355,21 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "R1"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW2"
+                ]
+            ]
+        }
     },
-    "21H.165": {
+    {
         "id": "21H.165",
         "total-units": 12,
         "prereqs": "",
@@ -1285,9 +2377,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "21H.170": {
+    {
         "id": "21H.170",
         "total-units": 12,
         "prereqs": "",
@@ -1295,9 +2394,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21H.185": {
+    {
         "id": "21H.185",
         "total-units": 12,
         "prereqs": "",
@@ -1305,9 +2411,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "21H.186": {
+    {
         "id": "21H.186",
         "total-units": 12,
         "prereqs": "",
@@ -1315,9 +2428,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21H.187": {
+    {
         "id": "21H.187",
         "total-units": 12,
         "prereqs": "",
@@ -1325,9 +2448,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21H.205": {
+    {
         "id": "21H.205",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -1335,9 +2465,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21H.227": {
+    {
         "id": "21H.227",
         "total-units": 12,
         "prereqs": "",
@@ -1345,9 +2485,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2.30-4"
+                ]
+            ]
+        }
     },
-    "21H.228": {
+    {
         "id": "21H.228",
         "total-units": 12,
         "prereqs": "",
@@ -1355,9 +2502,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "R",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21H.240": {
+    {
         "id": "21H.240",
         "total-units": 12,
         "prereqs": "",
@@ -1365,9 +2522,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "21H.241": {
+    {
         "id": "21H.241",
         "total-units": 12,
         "prereqs": "",
@@ -1375,9 +2539,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9-10.30"
+                ]
+            ]
+        }
     },
-    "21H.245": {
+    {
         "id": "21H.245",
         "total-units": 12,
         "prereqs": "",
@@ -1385,9 +2556,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "21H.263": {
+    {
         "id": "21H.263",
         "total-units": 12,
         "prereqs": "",
@@ -1395,9 +2573,23 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "W2-4"
+                ]
+            ]
+        }
     },
-    "21H.266": {
+    {
         "id": "21H.266",
         "total-units": 12,
         "prereqs": "",
@@ -1405,9 +2597,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "21H.319": {
+    {
         "id": "21H.319",
         "total-units": 12,
         "prereqs": "",
@@ -1416,9 +2615,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "21H.330": {
+    {
         "id": "21H.330",
         "total-units": 12,
         "prereqs": "",
@@ -1426,9 +2632,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21H.336": {
+    {
         "id": "21H.336",
         "total-units": 12,
         "prereqs": "",
@@ -1436,9 +2649,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "21H.343": {
+    {
         "id": "21H.343",
         "total-units": 12,
         "prereqs": "",
@@ -1447,9 +2667,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "21H.358": {
+    {
         "id": "21H.358",
         "total-units": 12,
         "prereqs": "",
@@ -1457,9 +2684,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W11-1"
+                ]
+            ]
+        }
     },
-    "21H.388": {
+    {
         "id": "21H.388",
         "total-units": 12,
         "prereqs": "",
@@ -1467,9 +2701,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21L.000": {
+    {
         "id": "21L.000",
         "total-units": 12,
         "prereqs": "",
@@ -1478,9 +2722,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "21L.001": {
+    {
         "id": "21L.001",
         "total-units": 12,
         "prereqs": "",
@@ -1488,9 +2739,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21L.004": {
+    {
         "id": "21L.004",
         "total-units": 12,
         "prereqs": "",
@@ -1499,9 +2757,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21L.006": {
+    {
         "id": "21L.006",
         "total-units": 12,
         "prereqs": "",
@@ -1509,9 +2777,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "21L.007": {
+    {
         "id": "21L.007",
         "total-units": 12,
         "prereqs": "",
@@ -1519,9 +2794,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "21L.008": {
+    {
         "id": "21L.008",
         "total-units": 12,
         "prereqs": "",
@@ -1529,9 +2811,16 @@
             "Spring"
         ],
         "hass_attribute": "HA,HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T2-5"
+                ]
+            ]
+        }
     },
-    "21L.011": {
+    {
         "id": "21L.011",
         "total-units": 12,
         "prereqs": "",
@@ -1540,9 +2829,29 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "R3"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "T3.30-5"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21L.019": {
+    {
         "id": "21L.019",
         "total-units": 12,
         "prereqs": "",
@@ -1551,9 +2860,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3.30-5"
+                ]
+            ]
+        }
     },
-    "21L.021": {
+    {
         "id": "21L.021",
         "total-units": 12,
         "prereqs": "",
@@ -1561,9 +2877,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "21L.431": {
+    {
         "id": "21L.431",
         "total-units": 12,
         "prereqs": "",
@@ -1571,9 +2894,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21L.433": {
+    {
         "id": "21L.433",
         "total-units": 12,
         "prereqs": "21L.011 or permission of instructor",
@@ -1581,9 +2911,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21L.434": {
+    {
         "id": "21L.434",
         "total-units": 12,
         "prereqs": "",
@@ -1592,9 +2932,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "21L.455": {
+    {
         "id": "21L.455",
         "total-units": 12,
         "prereqs": "",
@@ -1602,9 +2949,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "21L.457": {
+    {
         "id": "21L.457",
         "total-units": 12,
         "prereqs": "",
@@ -1612,9 +2966,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "21L.480": {
+    {
         "id": "21L.480",
         "total-units": 12,
         "prereqs": "",
@@ -1622,9 +2983,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "21L.486": {
+    {
         "id": "21L.486",
         "total-units": 12,
         "prereqs": "One subject in Literature",
@@ -1632,9 +3000,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21L.487": {
+    {
         "id": "21L.487",
         "total-units": 12,
         "prereqs": "One subject in Literature",
@@ -1642,9 +3017,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21L.490": {
+    {
         "id": "21L.490",
         "total-units": 12,
         "prereqs": "",
@@ -1652,9 +3037,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "21L.512": {
+    {
         "id": "21L.512",
         "total-units": 12,
         "prereqs": "One subject in Literature and permission of instructor",
@@ -1662,9 +3054,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "21L.640": {
+    {
         "id": "21L.640",
         "total-units": 12,
         "prereqs": "One intermediate subject in Spanish or permission of instructor",
@@ -1672,9 +3071,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "21L.702": {
+    {
         "id": "21L.702",
         "total-units": 12,
         "prereqs": "Two subjects in Literature",
@@ -1683,9 +3089,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21L.705": {
+    {
         "id": "21L.705",
         "total-units": 12,
         "prereqs": "Two subjects in Literature",
@@ -1694,9 +3107,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "21L.706": {
+    {
         "id": "21L.706",
         "total-units": 12,
         "prereqs": "(21L.011 and one subject in Literature or Comparative Media Studies) or permission of instructor",
@@ -1705,9 +3125,23 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "21L.707": {
+    {
         "id": "21L.707",
         "total-units": 12,
         "prereqs": "Two subjects in Literature or permission of instructor",
@@ -1715,9 +3149,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21M.011": {
+    {
         "id": "21M.011",
         "total-units": 12,
         "prereqs": "",
@@ -1726,9 +3167,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "MF12.30"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "W3.30-5"
+                ]
+            ]
+        }
     },
-    "21M.030": {
+    {
         "id": "21M.030",
         "total-units": 12,
         "prereqs": "",
@@ -1737,9 +3190,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "21M.051": {
+    {
         "id": "21M.051",
         "total-units": 12,
         "prereqs": "",
@@ -1748,9 +3208,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "F3"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "21M.065": {
+    {
         "id": "21M.065",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -1759,9 +3231,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR12.30-2"
+                ]
+            ]
+        }
     },
-    "21M.080": {
+    {
         "id": "21M.080",
         "total-units": 12,
         "prereqs": "",
@@ -1770,9 +3249,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2-3.30"
+                ]
+            ]
+        }
     },
-    "21M.215": {
+    {
         "id": "21M.215",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -1780,9 +3266,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "21M.226": {
+    {
         "id": "21M.226",
         "total-units": 12,
         "prereqs": "",
@@ -1791,9 +3284,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21M.235": {
+    {
         "id": "21M.235",
         "total-units": 12,
         "prereqs": "21M.301 or permission of instructor",
@@ -1801,9 +3301,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "21M.250": {
+    {
         "id": "21M.250",
         "total-units": 12,
         "prereqs": "21M.301 or permission of instructor",
@@ -1811,9 +3318,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21M.273": {
+    {
         "id": "21M.273",
         "total-units": 12,
         "prereqs": "",
@@ -1821,9 +3335,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW12.30-2"
+                ]
+            ]
+        }
     },
-    "21M.293": {
+    {
         "id": "21M.293",
         "total-units": 12,
         "prereqs": "",
@@ -1831,9 +3352,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "21M.295": {
+    {
         "id": "21M.295",
         "total-units": 12,
         "prereqs": "",
@@ -1841,9 +3369,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR12.30-2"
+                ]
+            ]
+        }
     },
-    "21M.299": {
+    {
         "id": "21M.299",
         "total-units": 12,
         "prereqs": "21M.030 or permission of instructor",
@@ -1851,9 +3386,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR12.30-2"
+                ]
+            ]
+        }
     },
-    "21M.301": {
+    {
         "id": "21M.301",
         "total-units": 12,
         "prereqs": "",
@@ -1862,9 +3404,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "F4"
+                ]
+            ]
+        }
     },
-    "21M.302": {
+    {
         "id": "21M.302",
         "total-units": 12,
         "prereqs": "21M.301 or permission of instructor",
@@ -1873,9 +3427,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "F4"
+                ]
+            ]
+        }
     },
-    "21M.303": {
+    {
         "id": "21M.303",
         "total-units": 12,
         "prereqs": "21M.302",
@@ -1884,9 +3450,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "R4"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW3.30-5"
+                ]
+            ]
+        }
     },
-    "21M.304": {
+    {
         "id": "21M.304",
         "total-units": 12,
         "prereqs": "21M.303",
@@ -1894,9 +3472,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "F4"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR12.30-2"
+                ]
+            ]
+        }
     },
-    "21M.340": {
+    {
         "id": "21M.340",
         "total-units": 12,
         "prereqs": "21M.051, 21M.226, or permission of instructor",
@@ -1905,9 +3495,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "21M.351": {
+    {
         "id": "21M.351",
         "total-units": 12,
         "prereqs": "21M.304, 21M.310, or permission of instructor",
@@ -1915,9 +3512,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2-3.30"
+                ]
+            ]
+        }
     },
-    "21M.359": {
+    {
         "id": "21M.359",
         "total-units": 12,
         "prereqs": "21M.051 or permission of instructor",
@@ -1925,9 +3529,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "21M.361": {
+    {
         "id": "21M.361",
         "total-units": 12,
         "prereqs": "",
@@ -1936,9 +3547,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "21M.362": {
+    {
         "id": "21M.362",
         "total-units": 12,
         "prereqs": "21M.361 or permission of instructor",
@@ -1946,9 +3564,27 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7.30-9",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21M.370": {
+    {
         "id": "21M.370",
         "total-units": 12,
         "prereqs": "",
@@ -1956,9 +3592,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW12.30-2"
+                ]
+            ]
+        }
     },
-    "21M.385": {
+    {
         "id": "21M.385",
         "total-units": 12,
         "prereqs": "(6.009 and 21M.301) or permission of instructor",
@@ -1967,9 +3610,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "21M.387": {
+    {
         "id": "21M.387",
         "total-units": 12,
         "prereqs": "6.003, 6.01, and 21M.051",
@@ -1977,9 +3627,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21M.480": {
+    {
         "id": "21M.480",
         "total-units": 9,
         "prereqs": "",
@@ -1988,9 +3645,24 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "MTWRF2-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(5-7",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21M.500": {
+    {
         "id": "21M.500",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -1998,9 +3670,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "F2-5"
+                ]
+            ]
+        }
     },
-    "21M.600": {
+    {
         "id": "21M.600",
         "total-units": 9,
         "prereqs": "",
@@ -2009,9 +3688,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "MTWRF9-12"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR1-3"
+                ]
+            ]
+        }
     },
-    "21M.601": {
+    {
         "id": "21M.601",
         "total-units": 9,
         "prereqs": "",
@@ -2020,9 +3711,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21M.605": {
+    {
         "id": "21M.605",
         "total-units": 9,
         "prereqs": "",
@@ -2031,9 +3732,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-1"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "MTWRF2-5"
+                ]
+            ]
+        }
     },
-    "21M.606": {
+    {
         "id": "21M.606",
         "total-units": 12,
         "prereqs": "",
@@ -2042,9 +3755,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-1"
+                ]
+            ]
+        }
     },
-    "21M.607": {
+    {
         "id": "21M.607",
         "total-units": 12,
         "prereqs": "",
@@ -2052,9 +3772,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21M.608": {
+    {
         "id": "21M.608",
         "total-units": 12,
         "prereqs": "",
@@ -2063,9 +3793,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W2-5"
+                ]
+            ]
+        }
     },
-    "21M.623": {
+    {
         "id": "21M.623",
         "total-units": 12,
         "prereqs": "",
@@ -2074,9 +3811,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-1"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "MTWRF9-12"
+                ]
+            ]
+        }
     },
-    "21M.645": {
+    {
         "id": "21M.645",
         "total-units": 12,
         "prereqs": "",
@@ -2085,9 +3834,27 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "MTWRF",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21M.702": {
+    {
         "id": "21M.702",
         "total-units": 12,
         "prereqs": "",
@@ -2095,9 +3862,24 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "MTWRF9-12"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21M.705": {
+    {
         "id": "21M.705",
         "total-units": 12,
         "prereqs": "21M.600 or permission of instructor",
@@ -2105,9 +3887,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-3"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "MTWRF2-5"
+                ]
+            ]
+        }
     },
-    "21M.710": {
+    {
         "id": "21M.710",
         "total-units": 12,
         "prereqs": "",
@@ -2116,9 +3910,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M2-5"
+                ]
+            ]
+        }
     },
-    "21M.712": {
+    {
         "id": "21M.712",
         "total-units": 12,
         "prereqs": "",
@@ -2126,9 +3927,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "MTWRF2-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR3-5"
+                ]
+            ]
+        }
     },
-    "21M.733": {
+    {
         "id": "21M.733",
         "total-units": 12,
         "prereqs": "",
@@ -2136,9 +3949,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR",
+                    "EVE",
+                    "(7-9",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21M.735": {
+    {
         "id": "21M.735",
         "total-units": 12,
         "prereqs": "21M.606 or permission of instructor",
@@ -2146,9 +3969,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21M.790": {
+    {
         "id": "21M.790",
         "total-units": 12,
         "prereqs": "21M.600 and (21M.710 or permission of instructor)",
@@ -2156,9 +3989,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "MTWRF9-12"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR11-1"
+                ]
+            ]
+        }
     },
-    "21M.840": {
+    {
         "id": "21M.840",
         "total-units": 12,
         "prereqs": "",
@@ -2166,9 +4011,24 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "MTWRF",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR3-5"
+                ]
+            ]
+        }
     },
-    "21M.846": {
+    {
         "id": "21M.846",
         "total-units": 12,
         "prereqs": "",
@@ -2176,9 +4036,17 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR",
+                    "3-4:30"
+                ]
+            ]
+        }
     },
-    "21M.848": {
+    {
         "id": "21M.848",
         "total-units": 12,
         "prereqs": "21M.690 and permission of instructor",
@@ -2186,9 +4054,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21W.011": {
+    {
         "id": "21W.011",
         "total-units": 12,
         "prereqs": "",
@@ -2197,9 +4075,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21W.022": {
+    {
         "id": "21W.022",
         "total-units": 12,
         "prereqs": "",
@@ -2208,9 +4096,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3-4.30"
+                ]
+            ]
+        }
     },
-    "21W.031": {
+    {
         "id": "21W.031",
         "total-units": 12,
         "prereqs": "",
@@ -2219,9 +4114,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR12.30-2"
+                ]
+            ]
+        }
     },
-    "21W.035": {
+    {
         "id": "21W.035",
         "total-units": 12,
         "prereqs": "",
@@ -2230,9 +4132,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21W.041": {
+    {
         "id": "21W.041",
         "total-units": 12,
         "prereqs": "",
@@ -2241,9 +4150,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "21W.741": {
+    {
         "id": "21W.741",
         "total-units": 12,
         "prereqs": "",
@@ -2251,9 +4167,16 @@
             "Spring"
         ],
         "hass_attribute": "HA,HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T2-5"
+                ]
+            ]
+        }
     },
-    "21W.747": {
+    {
         "id": "21W.747",
         "total-units": 12,
         "prereqs": "",
@@ -2262,9 +4185,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "21W.755": {
+    {
         "id": "21W.755",
         "total-units": 12,
         "prereqs": "",
@@ -2273,9 +4203,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21W.758": {
+    {
         "id": "21W.758",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -2283,9 +4220,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "21W.762": {
+    {
         "id": "21W.762",
         "total-units": 12,
         "prereqs": "",
@@ -2294,9 +4238,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21W.770": {
+    {
         "id": "21W.770",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -2304,9 +4258,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21W.771": {
+    {
         "id": "21W.771",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -2315,9 +4276,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21W.774": {
+    {
         "id": "21W.774",
         "total-units": 12,
         "prereqs": "",
@@ -2325,9 +4296,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21W.775": {
+    {
         "id": "21W.775",
         "total-units": 12,
         "prereqs": "",
@@ -2335,9 +4316,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21W.776": {
+    {
         "id": "21W.776",
         "total-units": 12,
         "prereqs": "",
@@ -2346,9 +4334,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W2-5"
+                ]
+            ]
+        }
     },
-    "21W.777": {
+    {
         "id": "21W.777",
         "total-units": 12,
         "prereqs": "",
@@ -2356,9 +4351,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "21W.778": {
+    {
         "id": "21W.778",
         "total-units": 12,
         "prereqs": "",
@@ -2366,9 +4368,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3-4.30"
+                ]
+            ]
+        }
     },
-    "21W.788": {
+    {
         "id": "21W.788",
         "total-units": 12,
         "prereqs": "",
@@ -2376,9 +4385,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "21W.791": {
+    {
         "id": "21W.791",
         "total-units": 12,
         "prereqs": "",
@@ -2386,9 +4405,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "24.013": {
+    {
         "id": "24.013",
         "total-units": 12,
         "prereqs": "",
@@ -2396,9 +4422,21 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F1"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW2"
+                ]
+            ]
+        }
     },
-    "24.09": {
+    {
         "id": "24.09",
         "total-units": 12,
         "prereqs": "",
@@ -2406,9 +4444,21 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F11"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW11"
+                ]
+            ]
+        }
     },
-    "24.118": {
+    {
         "id": "24.118",
         "total-units": 12,
         "prereqs": "",
@@ -2416,9 +4466,21 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F10"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TBD"
+                ]
+            ]
+        }
     },
-    "24.201": {
+    {
         "id": "24.201",
         "total-units": 12,
         "prereqs": "One philosophy subject or permission of instructor",
@@ -2426,9 +4488,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "24.211": {
+    {
         "id": "24.211",
         "total-units": 12,
         "prereqs": "One philosophy subject",
@@ -2436,9 +4505,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "24.212": {
+    {
         "id": "24.212",
         "total-units": 12,
         "prereqs": "",
@@ -2446,9 +4522,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "24.215": {
+    {
         "id": "24.215",
         "total-units": 12,
         "prereqs": "One philosophy subject",
@@ -2457,9 +4540,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2.30-4"
+                ]
+            ]
+        }
     },
-    "24.221": {
+    {
         "id": "24.221",
         "total-units": 12,
         "prereqs": "One philosophy subject",
@@ -2468,9 +4558,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW10-11.30"
+                ]
+            ]
+        }
     },
-    "24.231": {
+    {
         "id": "24.231",
         "total-units": 12,
         "prereqs": "One philosophy subject",
@@ -2478,9 +4575,21 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F1"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW1"
+                ]
+            ]
+        }
     },
-    "24.237": {
+    {
         "id": "24.237",
         "total-units": 12,
         "prereqs": "",
@@ -2488,9 +4597,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "24.241": {
+    {
         "id": "24.241",
         "total-units": 12,
         "prereqs": "",
@@ -2498,9 +4614,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "R10-11.30"
+                ]
+            ]
+        }
     },
-    "24.251": {
+    {
         "id": "24.251",
         "total-units": 12,
         "prereqs": "One philosophy subject",
@@ -2508,9 +4631,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11.30-1"
+                ]
+            ]
+        }
     },
-    "24.253": {
+    {
         "id": "24.253",
         "total-units": 12,
         "prereqs": "One philosophy subject or permission of instructor",
@@ -2518,9 +4648,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "24.900": {
+    {
         "id": "24.900",
         "total-units": 12,
         "prereqs": "",
@@ -2529,9 +4666,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F11"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "24.903": {
+    {
         "id": "24.903",
         "total-units": 12,
         "prereqs": "24.900 or 24.9000",
@@ -2539,9 +4688,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "24.904": {
+    {
         "id": "24.904",
         "total-units": 12,
         "prereqs": "24.900, 24.9000, or permission of instructor",
@@ -2549,9 +4705,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "24.908": {
+    {
         "id": "24.908",
         "total-units": 12,
         "prereqs": "",
@@ -2559,9 +4729,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W12-3"
+                ]
+            ]
+        }
     },
-    "24.912": {
+    {
         "id": "24.912",
         "total-units": 12,
         "prereqs": "",
@@ -2569,9 +4746,16 @@
             "Spring"
         ],
         "hass_attribute": "HA,HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T2-5"
+                ]
+            ]
+        }
     },
-    "24.914": {
+    {
         "id": "24.914",
         "total-units": 12,
         "prereqs": "24.900 or 24.9000",
@@ -2579,9 +4763,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "24.918": {
+    {
         "id": "24.918",
         "total-units": 12,
         "prereqs": "(24.901, 24.902, and 24.903) or permission of instructor",
@@ -2589,9 +4780,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "3.094": {
+    {
         "id": "3.094",
         "total-units": 9,
         "prereqs": "",
@@ -2599,9 +4797,24 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR4"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "3.095": {
+    {
         "id": "3.095",
         "total-units": 9,
         "prereqs": "",
@@ -2609,9 +4822,25 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW",
+                    "1-2PM"
+                ]
+            ]
+        }
     },
-    "3.985": {
+    {
         "id": "3.985",
         "total-units": 9,
         "prereqs": "GIR:CHEM or GIR:PHY1",
@@ -2619,9 +4848,19 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "3.987": {
+    {
         "id": "3.987",
         "total-units": 12,
         "prereqs": "",
@@ -2629,9 +4868,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3-4.30"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "F3-4.30"
+                ]
+            ]
+        }
     },
-    "3.993": {
+    {
         "id": "3.993",
         "total-units": 9,
         "prereqs": "",
@@ -2639,9 +4890,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "4.021": {
+    {
         "id": "4.021",
         "total-units": 12,
         "prereqs": "",
@@ -2650,9 +4908,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "MTWRF2-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW2-5"
+                ]
+            ]
+        }
     },
-    "4.110": {
+    {
         "id": "4.110",
         "total-units": 12,
         "prereqs": "",
@@ -2660,9 +4930,24 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M10-12"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-9",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "4.250": {
+    {
         "id": "4.250",
         "total-units": 12,
         "prereqs": "",
@@ -2670,9 +4955,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "4.301": {
+    {
         "id": "4.301",
         "total-units": 12,
         "prereqs": "",
@@ -2681,9 +4973,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-5"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "R9-12"
+                ]
+            ]
+        }
     },
-    "4.314": {
+    {
         "id": "4.314",
         "total-units": 12,
         "prereqs": "4.301, 4.302, or permission of instructor",
@@ -2692,9 +4996,23 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-12.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "4.320": {
+    {
         "id": "4.320",
         "total-units": 12,
         "prereqs": "",
@@ -2702,9 +5020,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9-12"
+                ]
+            ]
+        }
     },
-    "4.341": {
+    {
         "id": "4.341",
         "total-units": 12,
         "prereqs": "",
@@ -2713,9 +5038,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-5"
+                ]
+            ]
+        }
     },
-    "4.344": {
+    {
         "id": "4.344",
         "total-units": 12,
         "prereqs": "4.341 or permission of instructor",
@@ -2724,9 +5056,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T9.30-12.30"
+                ]
+            ]
+        }
     },
-    "4.354": {
+    {
         "id": "4.354",
         "total-units": 12,
         "prereqs": "",
@@ -2735,9 +5074,24 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-12.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "4.356": {
+    {
         "id": "4.356",
         "total-units": 12,
         "prereqs": "4.301, 4.302, 4.354, or permission of instructor",
@@ -2745,9 +5099,19 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TW",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "4.368": {
+    {
         "id": "4.368",
         "total-units": 12,
         "prereqs": "4.301 or 4.302",
@@ -2755,9 +5119,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-12.30"
+                ]
+            ]
+        }
     },
-    "4.373": {
+    {
         "id": "4.373",
         "total-units": 12,
         "prereqs": "4.301, 4.302, or permission of instructor",
@@ -2765,9 +5136,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-12.30"
+                ]
+            ]
+        }
     },
-    "4.602": {
+    {
         "id": "4.602",
         "total-units": 12,
         "prereqs": "",
@@ -2775,9 +5153,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "W12"
+                ]
+            ]
+        }
     },
-    "4.605": {
+    {
         "id": "4.605",
         "total-units": 12,
         "prereqs": "",
@@ -2785,9 +5175,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F11"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "4.609": {
+    {
         "id": "4.609",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -2795,9 +5197,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "F2-5"
+                ]
+            ]
+        }
     },
-    "4.657": {
+    {
         "id": "4.657",
         "total-units": 12,
         "prereqs": "",
@@ -2805,9 +5214,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "W9"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "5.24": {
+    {
         "id": "5.24",
         "total-units": 9,
         "prereqs": "GIR:CHEM or GIR:PHY1",
@@ -2815,9 +5236,19 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "6.073": {
+    {
         "id": "6.073",
         "total-units": 12,
         "prereqs": "6.01, CMS.301, or CMS.608",
@@ -2825,9 +5256,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T2-5"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "R2-5"
+                ]
+            ]
+        }
     },
-    "6.207": {
+    {
         "id": "6.207",
         "total-units": 12,
         "prereqs": "6.041 or 14.30",
@@ -2835,9 +5278,21 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F2"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "6.809": {
+    {
         "id": "6.809",
         "total-units": 12,
         "prereqs": "(6.009 and 21M.301) or permission of instructor",
@@ -2846,9 +5301,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ]
+        }
     },
-    "9.00": {
+    {
         "id": "9.00",
         "total-units": 12,
         "prereqs": "",
@@ -2856,9 +5318,24 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "R",
+                    "EVE",
+                    "(7",
+                    "PM)"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "CC.111": {
+    {
         "id": "CC.111",
         "total-units": 12,
         "prereqs": "",
@@ -2866,9 +5343,21 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "T3-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "R3-5"
+                ]
+            ]
+        }
     },
-    "CC.120": {
+    {
         "id": "CC.120",
         "total-units": 12,
         "prereqs": "",
@@ -2877,9 +5366,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "CMS.100": {
+    {
         "id": "CMS.100",
         "total-units": 12,
         "prereqs": "",
@@ -2888,9 +5384,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR10-11.30"
+                ]
+            ]
+        }
     },
-    "CMS.150": {
+    {
         "id": "CMS.150",
         "total-units": 12,
         "prereqs": "",
@@ -2898,9 +5401,16 @@
             "Spring"
         ],
         "hass_attribute": "HA,HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T2-5"
+                ]
+            ]
+        }
     },
-    "CMS.301": {
+    {
         "id": "CMS.301",
         "total-units": 12,
         "prereqs": "",
@@ -2908,9 +5418,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "CMS.334": {
+    {
         "id": "CMS.334",
         "total-units": 12,
         "prereqs": "",
@@ -2918,9 +5435,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "CMS.339": {
+    {
         "id": "CMS.339",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -2928,9 +5455,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M12-3"
+                ]
+            ]
+        }
     },
-    "CMS.356": {
+    {
         "id": "CMS.356",
         "total-units": 12,
         "prereqs": "",
@@ -2938,9 +5472,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW",
+                    "EVE",
+                    "(7-8.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "CMS.361": {
+    {
         "id": "CMS.361",
         "total-units": 12,
         "prereqs": "",
@@ -2948,9 +5492,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR10.30-12"
+                ]
+            ]
+        }
     },
-    "CMS.375": {
+    {
         "id": "CMS.375",
         "total-units": 12,
         "prereqs": "",
@@ -2958,9 +5509,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "CMS.400": {
+    {
         "id": "CMS.400",
         "total-units": 12,
         "prereqs": "One subject in Comparative Media Studies or permission of instructor",
@@ -2968,9 +5529,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "CMS.405": {
+    {
         "id": "CMS.405",
         "total-units": 12,
         "prereqs": "21L.011 or CMS.100",
@@ -2978,9 +5546,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2-3.30"
+                ]
+            ]
+        }
     },
-    "CMS.587": {
+    {
         "id": "CMS.587",
         "total-units": 12,
         "prereqs": "",
@@ -2988,9 +5563,23 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "CMS.590": {
+    {
         "id": "CMS.590",
         "total-units": 12,
         "prereqs": "",
@@ -2998,9 +5587,23 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "CMS.593": {
+    {
         "id": "CMS.593",
         "total-units": 12,
         "prereqs": "CMS.592",
@@ -3008,9 +5611,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR4-5.30"
+                ]
+            ]
+        }
     },
-    "CMS.611": {
+    {
         "id": "CMS.611",
         "total-units": 12,
         "prereqs": "6.01, CMS.301, or CMS.608",
@@ -3018,9 +5628,21 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T2-5"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "R2-5"
+                ]
+            ]
+        }
     },
-    "CMS.614": {
+    {
         "id": "CMS.614",
         "total-units": 12,
         "prereqs": "",
@@ -3028,9 +5650,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "CMS.615": {
+    {
         "id": "CMS.615",
         "total-units": 12,
         "prereqs": "",
@@ -3038,9 +5667,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW10.30-12"
+                ]
+            ]
+        }
     },
-    "CMS.621": {
+    {
         "id": "CMS.621",
         "total-units": 12,
         "prereqs": "",
@@ -3048,9 +5684,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9-10.30"
+                ]
+            ]
+        }
     },
-    "CMS.636": {
+    {
         "id": "CMS.636",
         "total-units": 12,
         "prereqs": "",
@@ -3058,9 +5701,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     },
-    "CMS.701": {
+    {
         "id": "CMS.701",
         "total-units": 12,
         "prereqs": "CMS.100",
@@ -3069,9 +5719,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W2-5"
+                ]
+            ]
+        }
     },
-    "EC.310": {
+    {
         "id": "EC.310",
         "total-units": 9,
         "prereqs": "",
@@ -3079,9 +5736,16 @@
             "Spring"
         ],
         "hass_attribute": "HE",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "R2-5"
+                ]
+            ]
+        }
     },
-    "ES.9112": {
+    {
         "id": "ES.9112",
         "total-units": 12,
         "prereqs": "",
@@ -3089,9 +5753,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MF2-3.30"
+                ]
+            ]
+        }
     },
-    "IDS.055": {
+    {
         "id": "IDS.055",
         "total-units": 12,
         "prereqs": "",
@@ -3099,9 +5770,24 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1.30-3"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "R",
+                    "EVE",
+                    "(7.30",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "IDS.060": {
+    {
         "id": "IDS.060",
         "total-units": 12,
         "prereqs": "",
@@ -3109,9 +5795,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR3.30-5"
+                ]
+            ]
+        }
     },
-    "MAS.241": {
+    {
         "id": "MAS.241",
         "total-units": 9,
         "prereqs": "",
@@ -3119,9 +5812,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T1-4"
+                ]
+            ]
+        }
     },
-    "SP.360": {
+    {
         "id": "SP.360",
         "total-units": 12,
         "prereqs": "",
@@ -3129,9 +5829,16 @@
             "Spring"
         ],
         "hass_attribute": "HA",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-5"
+                ]
+            ]
+        }
     },
-    "STS.004": {
+    {
         "id": "STS.004",
         "total-units": 12,
         "prereqs": "",
@@ -3139,9 +5846,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW2.30-4"
+                ]
+            ]
+        }
     },
-    "STS.011": {
+    {
         "id": "STS.011",
         "total-units": 12,
         "prereqs": "",
@@ -3149,9 +5863,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ]
+        }
     },
-    "STS.012": {
+    {
         "id": "STS.012",
         "total-units": 12,
         "prereqs": "",
@@ -3159,9 +5880,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR1-2.30"
+                ]
+            ]
+        }
     },
-    "STS.022": {
+    {
         "id": "STS.022",
         "total-units": 12,
         "prereqs": "",
@@ -3169,9 +5897,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "F1-4"
+                ]
+            ]
+        }
     },
-    "STS.023": {
+    {
         "id": "STS.023",
         "total-units": 12,
         "prereqs": "",
@@ -3179,9 +5914,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "STS.027": {
+    {
         "id": "STS.027",
         "total-units": 12,
         "prereqs": "Permission of instructor",
@@ -3189,9 +5931,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "STS.030": {
+    {
         "id": "STS.030",
         "total-units": 12,
         "prereqs": "",
@@ -3199,9 +5951,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "STS.031": {
+    {
         "id": "STS.031",
         "total-units": 12,
         "prereqs": "",
@@ -3209,9 +5968,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW1-2.30"
+                ]
+            ]
+        }
     },
-    "STS.047": {
+    {
         "id": "STS.047",
         "total-units": 12,
         "prereqs": "",
@@ -3219,9 +5985,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "STS.048": {
+    {
         "id": "STS.048",
         "total-units": 12,
         "prereqs": "",
@@ -3229,9 +6002,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "STS.065": {
+    {
         "id": "STS.065",
         "total-units": 12,
         "prereqs": "",
@@ -3239,9 +6022,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2.30-4"
+                ]
+            ]
+        }
     },
-    "STS.075": {
+    {
         "id": "STS.075",
         "total-units": 9,
         "prereqs": "",
@@ -3250,9 +6040,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "F11-1"
+                ]
+            ]
+        }
     },
-    "STS.082": {
+    {
         "id": "STS.082",
         "total-units": 12,
         "prereqs": "",
@@ -3260,9 +6057,24 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "R",
+                    "EVE",
+                    "(7.30",
+                    "PM)"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW1.30-3"
+                ]
+            ]
+        }
     },
-    "WGS.101": {
+    {
         "id": "WGS.101",
         "total-units": 12,
         "prereqs": "",
@@ -3271,9 +6083,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW3-4.30"
+                ]
+            ]
+        }
     },
-    "WGS.110": {
+    {
         "id": "WGS.110",
         "total-units": 12,
         "prereqs": "",
@@ -3281,9 +6100,26 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-9",
+                    "PM)"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "WGS.151": {
+    {
         "id": "WGS.151",
         "total-units": 12,
         "prereqs": "",
@@ -3291,9 +6127,26 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(8-10",
+                    "PM)"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "WGS.181": {
+    {
         "id": "WGS.181",
         "total-units": 12,
         "prereqs": "",
@@ -3301,9 +6154,19 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "WGS.190": {
+    {
         "id": "WGS.190",
         "total-units": 12,
         "prereqs": "",
@@ -3311,9 +6174,16 @@
             "Spring"
         ],
         "hass_attribute": "HA,HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "T2-5"
+                ]
+            ]
+        }
     },
-    "WGS.220": {
+    {
         "id": "WGS.220",
         "total-units": 12,
         "prereqs": "",
@@ -3321,9 +6191,23 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W2-4"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ]
+        }
     },
-    "WGS.224": {
+    {
         "id": "WGS.224",
         "total-units": 12,
         "prereqs": "",
@@ -3331,9 +6215,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "W10-1"
+                ]
+            ]
+        }
     },
-    "WGS.226": {
+    {
         "id": "WGS.226",
         "total-units": 12,
         "prereqs": "",
@@ -3341,9 +6232,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR9.30-11"
+                ]
+            ]
+        }
     },
-    "WGS.229": {
+    {
         "id": "WGS.229",
         "total-units": 12,
         "prereqs": "",
@@ -3351,9 +6249,19 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "R",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "WGS.245": {
+    {
         "id": "WGS.245",
         "total-units": 12,
         "prereqs": "",
@@ -3361,9 +6269,16 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW9.30-11"
+                ]
+            ]
+        }
     },
-    "WGS.275": {
+    {
         "id": "WGS.275",
         "total-units": 12,
         "prereqs": "",
@@ -3371,9 +6286,16 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "F1-4"
+                ]
+            ]
+        }
     },
-    "WGS.301": {
+    {
         "id": "WGS.301",
         "total-units": 12,
         "prereqs": "",
@@ -3381,6 +6303,13 @@
             "Spring"
         ],
         "hass_attribute": "HH",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR2-3.30"
+                ]
+            ]
+        }
     }
-}
+]
