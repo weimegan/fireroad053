@@ -44,7 +44,7 @@ def parse_time(s):
     if s == 'TBD':
         return None
     else:
-        pass
+        return s
 
 # n (string): course number
 def filter_by_course(n):
