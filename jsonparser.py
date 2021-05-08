@@ -49,12 +49,12 @@ def parse_time(s):
         return s
 
 # n (string): course number
-def filter_by_course(n):
+def filter_by_course(n, data):
     output = []
     for d in data:
-        if 'course' in d:
-            if d['course'] == n:
-                output.append(d)
+        course_num = d.split('.')[0]
+        if course_num == n:
+                output.append(data[d])
     return output
 
 def filter_gir(data):
@@ -80,8 +80,8 @@ def write_json_parsed():
 
 # n (string): course number
 def write_json_parsed_course(n):
-    d = filter_by_course(n)
-    new_dict = filter_classes(d)
+    d = filter_classes(data)
+    new_dict = filter_by_course(n, d)
     with open(f'data/parsedsp21_{n}.json', 'w') as output_file:
         json.dump(new_dict, output_file)
 

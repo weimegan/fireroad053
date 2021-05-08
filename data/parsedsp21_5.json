@@ -1,5 +1,5 @@
-{
-    "5.002": {
+[
+    {
         "id": "5.002",
         "total-units": 3,
         "prereqs": "",
@@ -7,9 +7,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "R2.30"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR1"
+                ]
+            ]
+        }
     },
-    "5.003": {
+    {
         "id": "5.003",
         "total-units": 3,
         "prereqs": "",
@@ -17,9 +29,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "R2.30"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR1"
+                ]
+            ]
+        }
     },
-    "5.03": {
+    {
         "id": "5.03",
         "total-units": 12,
         "prereqs": "5.12",
@@ -27,9 +51,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR11-12.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "MW9"
+                ]
+            ]
+        }
     },
-    "5.08": {
+    {
         "id": "5.08",
         "total-units": 12,
         "prereqs": "(GIR:BIOL, 5.13, and (5.07 or 7.05)) or permission of instructor",
@@ -37,9 +73,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MW11-12.30"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "F9"
+                ]
+            ]
+        }
     },
-    "5.111": {
+    {
         "id": "5.111",
         "total-units": 12,
         "prereqs": "",
@@ -48,9 +96,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "CHEM"
+        "gir_attribute": "CHEM",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "TR1"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MWF12"
+                ]
+            ]
+        }
     },
-    "5.12": {
+    {
         "id": "5.12",
         "total-units": 12,
         "prereqs": "GIR:CHEM",
@@ -59,9 +119,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "REST"
+        "gir_attribute": "REST",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "TR12"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MWF12"
+                ]
+            ]
+        }
     },
-    "5.24": {
+    {
         "id": "5.24",
         "total-units": 9,
         "prereqs": "GIR:CHEM or GIR:PHY1",
@@ -69,9 +141,19 @@
             "Spring"
         ],
         "hass_attribute": "HS",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "M",
+                    "EVE",
+                    "(7-10",
+                    "PM)"
+                ]
+            ]
+        }
     },
-    "5.310": {
+    {
         "id": "5.310",
         "total-units": 12,
         "prereqs": "[5.12]",
@@ -80,9 +162,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "LAB"
+        "gir_attribute": "LAB",
+        "sections": {
+            "LabSession": [
+                [
+                    "TR1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR12"
+                ]
+            ]
+        }
     },
-    "5.351": {
+    {
         "id": "5.351",
         "total-units": 4,
         "prereqs": "GIR:CHEM",
@@ -90,9 +184,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "LAB2"
+        "gir_attribute": "LAB2",
+        "sections": {
+            "LabSession": [
+                [
+                    "MW1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR9"
+                ]
+            ]
+        }
     },
-    "5.352": {
+    {
         "id": "5.352",
         "total-units": 5,
         "prereqs": "[5.351]",
@@ -101,9 +207,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "LAB2"
+        "gir_attribute": "LAB2",
+        "sections": {
+            "LabSession": [
+                [
+                    "MW1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR9"
+                ]
+            ]
+        }
     },
-    "5.353": {
+    {
         "id": "5.353",
         "total-units": 4,
         "prereqs": "[5.12 and 5.352]",
@@ -111,9 +229,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "LAB2"
+        "gir_attribute": "LAB2",
+        "sections": {
+            "LabSession": [
+                [
+                    "MW1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR9"
+                ]
+            ]
+        }
     },
-    "5.361": {
+    {
         "id": "5.361",
         "total-units": 4,
         "prereqs": "(5.07 or 7.05) and (5.310 or 5.352)",
@@ -122,9 +252,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "MW1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR10"
+                ]
+            ]
+        }
     },
-    "5.362": {
+    {
         "id": "5.362",
         "total-units": 5,
         "prereqs": "(5.07 or 7.05) and (5.310 or 5.352); [5.361]",
@@ -133,9 +275,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LectureSession": [
+                [
+                    "TR10"
+                ]
+            ],
+            "LabSession": [
+                [
+                    "MW1-5"
+                ]
+            ]
+        }
     },
-    "5.371": {
+    {
         "id": "5.371",
         "total-units": 4,
         "prereqs": "5.13 and 5.363",
@@ -143,9 +297,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "TR1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR10"
+                ]
+            ]
+        }
     },
-    "5.381": {
+    {
         "id": "5.381",
         "total-units": 4,
         "prereqs": "5.353 and 5.61",
@@ -153,9 +319,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "TR1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR11"
+                ]
+            ]
+        }
     },
-    "5.382": {
+    {
         "id": "5.382",
         "total-units": 5,
         "prereqs": "5.611 and (5.07 or 7.05); [5.361]",
@@ -163,9 +341,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "TR1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR11"
+                ]
+            ]
+        }
     },
-    "5.383": {
+    {
         "id": "5.383",
         "total-units": 4,
         "prereqs": "5.363 and (5.07 or 7.05)",
@@ -173,9 +363,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "MW1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR11"
+                ]
+            ]
+        }
     },
-    "5.39": {
+    {
         "id": "5.39",
         "total-units": 20,
         "prereqs": "An approved research experience and permission of instructor",
@@ -183,9 +385,23 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "LabSession": [
+                [
+                    "*TO",
+                    "BE",
+                    "ARRANGED"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "F1-3"
+                ]
+            ]
+        }
     },
-    "5.60": {
+    {
         "id": "5.60",
         "total-units": 12,
         "prereqs": "GIR:CAL2 and GIR:CHEM",
@@ -194,9 +410,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "REST"
+        "gir_attribute": "REST",
+        "sections": {
+            "LectureSession": [
+                [
+                    "MWF11"
+                ]
+            ],
+            "RecitationSession": [
+                [
+                    "TR9"
+                ]
+            ]
+        }
     },
-    "5.601": {
+    {
         "id": "5.601",
         "total-units": 6,
         "prereqs": "GIR:CAL2 and GIR:CHEM",
@@ -205,9 +433,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "RST2"
+        "gir_attribute": "RST2",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "MW1"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MWF11"
+                ]
+            ]
+        }
     },
-    "5.602": {
+    {
         "id": "5.602",
         "total-units": 6,
         "prereqs": "5.601",
@@ -216,9 +456,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "RST2"
+        "gir_attribute": "RST2",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "MW1"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MWF11"
+                ]
+            ]
+        }
     },
-    "5.62": {
+    {
         "id": "5.62",
         "total-units": 12,
         "prereqs": "5.60 and 5.61",
@@ -226,9 +478,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": ""
+        "gir_attribute": "",
+        "sections": {
+            "RecitationSession": [
+                [
+                    "F4"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "MW11.30-1"
+                ]
+            ]
+        }
     },
-    "5.891": {
+    {
         "id": "5.891",
         "total-units": 0,
         "prereqs": "",
@@ -241,7 +505,7 @@
         "hass_attribute": "",
         "gir_attribute": ""
     },
-    "5.892": {
+    {
         "id": "5.892",
         "total-units": 0,
         "prereqs": "",
@@ -254,7 +518,7 @@
         "hass_attribute": "",
         "gir_attribute": ""
     },
-    "5.S310": {
+    {
         "id": "5.S310",
         "total-units": 12,
         "prereqs": "[5.12]",
@@ -262,9 +526,21 @@
             "Spring"
         ],
         "hass_attribute": "",
-        "gir_attribute": "LAB"
+        "gir_attribute": "LAB",
+        "sections": {
+            "LabSession": [
+                [
+                    "MW1-5"
+                ]
+            ],
+            "LectureSession": [
+                [
+                    "TR12"
+                ]
+            ]
+        }
     },
-    "5.THU": {
+    {
         "id": "5.THU",
         "total-units": 0,
         "prereqs": "Permission of instructor",
@@ -277,7 +553,7 @@
         "hass_attribute": "",
         "gir_attribute": ""
     },
-    "5.UR": {
+    {
         "id": "5.UR",
         "total-units": 0,
         "prereqs": "",
@@ -290,7 +566,7 @@
         "hass_attribute": "",
         "gir_attribute": ""
     },
-    "5.URG": {
+    {
         "id": "5.URG",
         "total-units": 0,
         "prereqs": "",
@@ -303,4 +579,4 @@
         "hass_attribute": "",
         "gir_attribute": ""
     }
-}
+]
