@@ -1,5 +1,5 @@
-[
-    {
+{
+    "5.002": {
         "id": "5.002",
         "total-units": 3,
         "prereqs": "",
@@ -21,7 +21,7 @@
             ]
         }
     },
-    {
+    "5.003": {
         "id": "5.003",
         "total-units": 3,
         "prereqs": "",
@@ -43,7 +43,7 @@
             ]
         }
     },
-    {
+    "5.03": {
         "id": "5.03",
         "total-units": 12,
         "prereqs": "5.12",
@@ -65,7 +65,7 @@
             ]
         }
     },
-    {
+    "5.08": {
         "id": "5.08",
         "total-units": 12,
         "prereqs": "(GIR:BIOL, 5.13, and (5.07 or 7.05)) or permission of instructor",
@@ -87,7 +87,7 @@
             ]
         }
     },
-    {
+    "5.111": {
         "id": "5.111",
         "total-units": 12,
         "prereqs": "",
@@ -110,7 +110,7 @@
             ]
         }
     },
-    {
+    "5.12": {
         "id": "5.12",
         "total-units": 12,
         "prereqs": "GIR:CHEM",
@@ -133,7 +133,7 @@
             ]
         }
     },
-    {
+    "5.24": {
         "id": "5.24",
         "total-units": 9,
         "prereqs": "GIR:CHEM or GIR:PHY1",
@@ -153,7 +153,7 @@
             ]
         }
     },
-    {
+    "5.310": {
         "id": "5.310",
         "total-units": 12,
         "prereqs": "[5.12]",
@@ -176,7 +176,7 @@
             ]
         }
     },
-    {
+    "5.351": {
         "id": "5.351",
         "total-units": 4,
         "prereqs": "GIR:CHEM",
@@ -198,7 +198,7 @@
             ]
         }
     },
-    {
+    "5.352": {
         "id": "5.352",
         "total-units": 5,
         "prereqs": "[5.351]",
@@ -221,7 +221,7 @@
             ]
         }
     },
-    {
+    "5.353": {
         "id": "5.353",
         "total-units": 4,
         "prereqs": "[5.12 and 5.352]",
@@ -243,7 +243,7 @@
             ]
         }
     },
-    {
+    "5.361": {
         "id": "5.361",
         "total-units": 4,
         "prereqs": "(5.07 or 7.05) and (5.310 or 5.352)",
@@ -266,7 +266,7 @@
             ]
         }
     },
-    {
+    "5.362": {
         "id": "5.362",
         "total-units": 5,
         "prereqs": "(5.07 or 7.05) and (5.310 or 5.352); [5.361]",
@@ -289,7 +289,7 @@
             ]
         }
     },
-    {
+    "5.371": {
         "id": "5.371",
         "total-units": 4,
         "prereqs": "5.13 and 5.363",
@@ -311,7 +311,7 @@
             ]
         }
     },
-    {
+    "5.381": {
         "id": "5.381",
         "total-units": 4,
         "prereqs": "5.353 and 5.61",
@@ -333,7 +333,7 @@
             ]
         }
     },
-    {
+    "5.382": {
         "id": "5.382",
         "total-units": 5,
         "prereqs": "5.611 and (5.07 or 7.05); [5.361]",
@@ -355,7 +355,7 @@
             ]
         }
     },
-    {
+    "5.383": {
         "id": "5.383",
         "total-units": 4,
         "prereqs": "5.363 and (5.07 or 7.05)",
@@ -377,7 +377,7 @@
             ]
         }
     },
-    {
+    "5.39": {
         "id": "5.39",
         "total-units": 20,
         "prereqs": "An approved research experience and permission of instructor",
@@ -401,7 +401,7 @@
             ]
         }
     },
-    {
+    "5.60": {
         "id": "5.60",
         "total-units": 12,
         "prereqs": "GIR:CAL2 and GIR:CHEM",
@@ -424,7 +424,7 @@
             ]
         }
     },
-    {
+    "5.601": {
         "id": "5.601",
         "total-units": 6,
         "prereqs": "GIR:CAL2 and GIR:CHEM",
@@ -447,7 +447,7 @@
             ]
         }
     },
-    {
+    "5.602": {
         "id": "5.602",
         "total-units": 6,
         "prereqs": "5.601",
@@ -470,7 +470,7 @@
             ]
         }
     },
-    {
+    "5.62": {
         "id": "5.62",
         "total-units": 12,
         "prereqs": "5.60 and 5.61",
@@ -492,7 +492,7 @@
             ]
         }
     },
-    {
+    "5.891": {
         "id": "5.891",
         "total-units": 0,
         "prereqs": "",
@@ -505,7 +505,7 @@
         "hass_attribute": "",
         "gir_attribute": ""
     },
-    {
+    "5.892": {
         "id": "5.892",
         "total-units": 0,
         "prereqs": "",
@@ -518,7 +518,7 @@
         "hass_attribute": "",
         "gir_attribute": ""
     },
-    {
+    "5.S310": {
         "id": "5.S310",
         "total-units": 12,
         "prereqs": "[5.12]",
@@ -540,7 +540,7 @@
             ]
         }
     },
-    {
+    "5.THU": {
         "id": "5.THU",
         "total-units": 0,
         "prereqs": "Permission of instructor",
@@ -553,7 +553,7 @@
         "hass_attribute": "",
         "gir_attribute": ""
     },
-    {
+    "5.UR": {
         "id": "5.UR",
         "total-units": 0,
         "prereqs": "",
@@ -566,7 +566,7 @@
         "hass_attribute": "",
         "gir_attribute": ""
     },
-    {
+    "5.URG": {
         "id": "5.URG",
         "total-units": 0,
         "prereqs": "",
@@ -579,4 +579,4 @@
         "hass_attribute": "",
         "gir_attribute": ""
     }
-]
+}

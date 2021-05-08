@@ -1,4 +1,6 @@
 import json
+import csv
+import pandas as pd
 
 # json extracted from http://coursews.mit.edu/coursews/?term=2021SP
 
@@ -50,27 +52,27 @@ def parse_time(s):
 
 # n (string): course number
 def filter_by_course(n, data):
-    output = []
+    output = dict()
     for d in data:
         course_num = d.split('.')[0]
         if course_num == n:
-                output.append(data[d])
+                output[d] = data[d]
     return output
 
 def filter_gir(data):
-    output = []
+    output = dict()
     for d in data:
         if 'gir_attribute' in data[d]:
             if data[d]['gir_attribute'] in gir:
-                output.append(data[d])
+                output[d] = data[d]
     return output
 
 def filter_hass(data):
-    output = []
+    output = dict()
     for d in data:
         if 'hass_attribute' in data[d]:
             if len(data[d]['hass_attribute']) > 0:
-                output.append(data[d])
+                output[d] = data[d]
     return output
 
 def write_json_parsed():
@@ -103,3 +105,7 @@ def write_json_parsed_hass():
 #write_json_parsed_course("5")
 #write_json_parsed_gir()
 #write_json_parsed_hass()
+
+df = pd.read_json('data/parsedsp21_gir.json')
+df.to_csv('data/parsedsp21_gir.csv')
+

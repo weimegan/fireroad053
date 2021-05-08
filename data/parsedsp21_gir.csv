@@ -1,0 +1,8 @@
+,18.01,18.02,18.02A,3.091,5.111,8.011,8.02,8.022,CC.802,CC.8022,ES.1802,ES.5111,ES.802,ES.8022
+id,18.01,18.02,18.02A,3.091,5.111,8.011,8.02,8.022,CC.802,CC.8022,ES.1802,ES.5111,ES.802,ES.8022
+total-units,12,12,12,12,12,12,12,12,12,12,12,12,12,12
+prereqs,,GIR:CAL1,GIR:CAL1,,,,GIR:CAL1 and GIR:PHY1,GIR:PHY1; [GIR:CAL2],"GIR:CAL1 and GIR:PHY1; [CC.010, CC.011, or CC.A10]",GIR:PHY1; [GIR:CAL2],GIR:CAL1,,GIR:CAL1 and GIR:PHY1,GIR:PHY1; [GIR:CAL2]
+semester,"['Fall', 'Spring']","['Fall', 'Spring']","['Fall', 'IAP', 'Spring']","['Fall', 'Spring']","['Fall', 'Spring']",['Spring'],"['Fall', 'Spring']","['Fall', 'Spring']",['Spring'],['Spring'],"['Fall', 'Spring']","['Fall', 'Spring']",['Spring'],['Spring']
+hass_attribute,,,,,,,,,,,,,,
+gir_attribute,CAL1,CAL2,CAL2,CHEM,CHEM,PHY1,PHY2,PHY2,PHY2,PHY2,CAL2,CHEM,PHY2,PHY2
+sections,"{'LectureSession': [['TR11,F2']], 'RecitationSession': [['MW2']]}","{'LectureSession': [['TR11,F2']], 'RecitationSession': [['MW3']]}","{'LectureSession': [['TR11,F2', '(BEGINS', 'APR', '5)']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}","{'RecitationSession': [['TR4']], 'LectureSession': [['MWF11']]}","{'RecitationSession': [['TR1']], 'LectureSession': [['MWF12']]}","{'LabSession': [['F10']], 'LectureSession': [['MW12-2']]}",{'LectureSession': [['TRF10']]},"{'RecitationSession': [['TR11']], 'LectureSession': [['MW2.30-4']]}","{'RecitationSession': [['TR1']], 'LectureSession': [['MW1-2.30']]}","{'LectureSession': [['MW1-2.30']], 'RecitationSession': [['TR2']]}","{'LectureSession': [['MTWR1']], 'RecitationSession': [['F2']]}","{'RecitationSession': [['F12']], 'LectureSession': [['MTWR12']]}","{'LectureSession': [['MTWR3']], 'RecitationSession': [['F2']]}","{'LectureSession': [['MTWR2']], 'RecitationSession': [['F2']]}"
