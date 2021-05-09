@@ -1,0 +1,29 @@
+,id,total-units,prereqs,semester,hass_attribute,gir_attribute,sections
+5.002,5.002,3,,['Spring'],,,"{'RecitationSession': [['R2.30']], 'LectureSession': [['TR1']]}"
+5.003,5.003,3,,['Spring'],,,"{'RecitationSession': [['R2.30']], 'LectureSession': [['TR1']]}"
+5.03,5.03,12,5.12,['Spring'],,,"{'LectureSession': [['TR11-12.30']], 'RecitationSession': [['MW9']]}"
+5.08,5.08,12,"(GIR:BIOL, 5.13, and (5.07 or 7.05)) or permission of instructor",['Spring'],,,"{'LectureSession': [['MW11-12.30']], 'RecitationSession': [['F9']]}"
+5.111,5.111,12,,"['Fall', 'Spring']",,CHEM,"{'RecitationSession': [['TR1']], 'LectureSession': [['MWF12']]}"
+5.12,5.12,12,GIR:CHEM,"['Fall', 'Spring']",,REST,"{'RecitationSession': [['TR12']], 'LectureSession': [['MWF12']]}"
+5.24,5.24,9,GIR:CHEM or GIR:PHY1,['Spring'],HS,,"{'LectureSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+5.310,5.310,12,[5.12],"['Fall', 'Spring']",,LAB,"{'LabSession': [['TR1-5']], 'LectureSession': [['TR12']]}"
+5.351,5.351,4,GIR:CHEM,['Spring'],,LAB2,"{'LabSession': [['MW1-5']], 'LectureSession': [['TR9']]}"
+5.352,5.352,5,[5.351],"['Fall', 'Spring']",,LAB2,"{'LabSession': [['MW1-5']], 'LectureSession': [['TR9']]}"
+5.353,5.353,4,[5.12 and 5.352],['Spring'],,LAB2,"{'LabSession': [['MW1-5']], 'LectureSession': [['TR9']]}"
+5.361,5.361,4,(5.07 or 7.05) and (5.310 or 5.352),"['Fall', 'Spring']",,,"{'LabSession': [['MW1-5']], 'LectureSession': [['TR10']]}"
+5.362,5.362,5,(5.07 or 7.05) and (5.310 or 5.352); [5.361],"['Fall', 'Spring']",,,"{'LectureSession': [['TR10']], 'LabSession': [['MW1-5']]}"
+5.371,5.371,4,5.13 and 5.363,['Spring'],,,"{'LabSession': [['TR1-5']], 'LectureSession': [['TR10']]}"
+5.381,5.381,4,5.353 and 5.61,['Spring'],,,"{'LabSession': [['TR1-5']], 'LectureSession': [['TR11']]}"
+5.382,5.382,5,5.611 and (5.07 or 7.05); [5.361],['Spring'],,,"{'LabSession': [['TR1-5']], 'LectureSession': [['TR11']]}"
+5.383,5.383,4,5.363 and (5.07 or 7.05),['Spring'],,,"{'LabSession': [['MW1-5']], 'LectureSession': [['TR11']]}"
+5.39,5.39,20,An approved research experience and permission of instructor,['Spring'],,,"{'LabSession': [['*TO', 'BE', 'ARRANGED']], 'LectureSession': [['F1-3']]}"
+5.60,5.60,12,GIR:CAL2 and GIR:CHEM,"['Fall', 'Spring']",,REST,"{'LectureSession': [['MWF11']], 'RecitationSession': [['TR9']]}"
+5.601,5.601,6,GIR:CAL2 and GIR:CHEM,"['Fall', 'Spring']",,RST2,"{'RecitationSession': [['MW1']], 'LectureSession': [['MWF11']]}"
+5.602,5.602,6,5.601,"['Fall', 'Spring']",,RST2,"{'RecitationSession': [['MW1']], 'LectureSession': [['MWF11']]}"
+5.62,5.62,12,5.60 and 5.61,['Spring'],,,"{'RecitationSession': [['F4']], 'LectureSession': [['MW11.30-1']]}"
+5.891,5.891,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.892,5.892,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.S310,5.S310,12,[5.12],['Spring'],,LAB,"{'LabSession': [['MW1-5']], 'LectureSession': [['TR12']]}"
+5.THU,5.THU,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.UR,5.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.URG,5.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,

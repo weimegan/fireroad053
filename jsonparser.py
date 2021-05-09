@@ -108,6 +108,14 @@ def write_json_parsed_hass():
 
 def convert_json_to_csv(filename):
     df = pd.read_json(filename)
+    df = df.T
+    print(df)
     filename_head = filename.split('.')[0]
     df.to_csv(f'{filename_head}.csv')
 
+#convert_json_to_csv('data/parsedsp21_gir.json')
+#convert_json_to_csv('data/parsedsp21_hass.json')
+#convert_json_to_csv('data/parsedsp21_15.json')
+#convert_json_to_csv('data/parsedsp21_5.json')
+#convert_json_to_csv('data/parsedsp21_6.json')
+#convert_json_to_csv('data/parsedsp21.json')

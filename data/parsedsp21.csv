@@ -1,0 +1,1122 @@
+,id,total-units,prereqs,semester,hass_attribute,gir_attribute,sections
+1.00,1.00,12,GIR:CAL1,['Spring'],,REST,"{'LabSession': ['F9-11 VIRTUAL'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+1.004,1.004,12,,['Spring'],,,{'LectureSession': ['MWF9 VIRTUAL']}
+1.006,1.006,12,,['Spring'],,,"{'LectureSession': ['TR1.30 VIRTUAL'], 'RecitationSession': ['W EVE (7 PM) VIRTUAL']}"
+1.013,1.013,6,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['T3-5 VIRTUAL']}
+1.015,1.015,12,"2.003, 2.016, and 2.678; [2.671]",['Spring'],,LAB2,"{'LabSession': ['M2-5 NW98-188'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+1.016,1.016,9,,['Spring'],,,"{'LectureSession': ['MW3-4.30 VIRTUAL'], 'RecitationSession': ['F3 VIRTUAL']}"
+1.020,1.020,12,"GIR:PHY1, 18.03, and (1.00 or 1.000)",['Spring'],,,"{'RecitationSession': ['F9.30-11.30 VIRTUAL'], 'LectureSession': ['MW9-10.30 VIRTUAL']}"
+1.021,1.021,12,"18.03, 3.016B, or permission of instructor",['Spring'],,REST,"{'LectureSession': ['TR3-4.30 VIRTUAL'], 'RecitationSession': ['F4 VIRTUAL']}"
+1.024,1.024,6,(1.000 and 1.010) or permission of instructor; [6.402],['Spring'],,,"{'LabSession': ['F12 VIRTUAL'], 'LectureSession': ['F11 VIRTUAL']}"
+1.035,1.035,12,1.050 or permission of instructor,['Spring'],,,"{'LectureSession': ['MWF11 VIRTUAL'], 'LabSession': ['T2-5 1-050']}"
+1.036,1.036,12,1.035 and 1.050,['Spring'],,,"{'LectureSession': ['MW1-2.30 VIRTUAL'], 'RecitationSession': ['F1 VIRTUAL']}"
+1.037,1.037,12,,['Spring'],,,"{'LabSession': ['R1-3 VIRTUAL'], 'LectureSession': ['MWF10 VIRTUAL']}"
+1.053,1.053,12,GIR:PHY2; [2.087 or 18.03],"['Fall', 'Spring']",,REST,"{'RecitationSession': ['R1 VIRTUAL'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+1.056,1.056,12,GIR:CAL2,['Spring'],,REST,"{'LectureSession': ['MW9.30-11 VIRTUAL'], 'LabSession': ['F9.30-11.30 VIRTUAL']}"
+1.060,1.060,12,,['Spring'],,,"{'LabSession': ['F2.30-4.30 VIRTUAL'], 'LectureSession': ['MWF10 VIRTUAL']}"
+1.060A,1.060A,6,[18.03]; or permission of instructor,['Spring'],,,"{'LabSession': ['T10-12 VIRTUAL'], 'LectureSession': ['MWF10 VIRTUAL']}"
+1.062,1.062,12,GIR:PHY2 and (18.03 or 18.032),['Spring'],,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+1.071,1.071,12,18.03,['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+1.072,1.072,12,1.061,['Spring'],,,{'LectureSession': ['MW2.30-4 VIRTUAL']}
+1.075,1.075,12,1.070B or permission of instructor,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+1.080,1.080,12,GIR:CHEM,['Spring'],,,"{'RecitationSession': ['F1 VIRTUAL'], 'LectureSession': ['MW1-2.30 VIRTUAL']}"
+1.081,1.081,12,"GIR:BIOL, GIR:CAL2, and GIR:CHEM",['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+1.082,1.082,6,,"['Fall', 'Spring']",,,{'LectureSession': ['W EVE (7-9 PM) VIRTUAL']}
+1.088,1.088,12,GIR:BIOL and (1.000 or 6.0002),['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+1.106,1.106,6,[1.061A],['Spring'],,LAB2,{'LabSession': ['TR1-5 48-109']}
+1.107,1.107,6,[1.080],['Spring'],,LAB2,{'LabSession': ['TR1-5 48-109']}
+1.801,1.801,12,,['Spring'],HS,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+1.998,1.998,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+1.999,1.999,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+1.EPE,1.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+1.S02,1.S02,12,,['Spring'],,LAB,"{'LectureSession': ['TR11 VIRTUAL'], 'LabSession': ['MW2.30-4.30 VIRTUAL']}"
+1.S991,1.S991,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+1.S993,1.S993,0,Permission of instructor,['Spring'],,,
+1.THU,1.THU,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+1.UR,1.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+1.URG,1.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+10.00,10.00,6,GIR:CHEM and GIR:PHY1,['Spring'],,,"{'LabSession': ['TR2-5 E18-676C'], 'LectureSession': ['TR1 VIRTUAL']}"
+10.000,10.000,2,,"['Fall', 'Spring']",,,{'LectureSession': ['W3-5 VIRTUAL']}
+10.01,10.01,6,,"['Fall', 'Spring']",,,{'LectureSession': ['M3-5 VIRTUAL']}
+10.03,10.03,3,,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+10.10,10.10,12,GIR:CHEM and GIR:PHY1; [18.03],"['Fall', 'Spring']",,,"{'LectureSession': ['MWF2 VIRTUAL'], 'RecitationSession': ['T11 32-141']}"
+10.213,10.213,12,5.601 and 10.10,['Spring'],,,"{'LectureSession': ['TR2.30-4 VIRTUAL'], 'RecitationSession': ['W10 66-110']}"
+10.26,10.26,15,"(10.302 and (2.671, 3.014, 5.310, 7.003, 12.335, 20.109, (1.106 and 1.107), or (5.351, 5.352, and 5.353))) or permission of instructor",['Spring'],,,"{'LectureSession': ['TR1-5 VIRTUAL'], 'LabSession': ['TR1-5 66-0064, 13+14']}"
+10.27,10.27,15,"(10.302 and (2.671, 3.014, 5.310, 7.003, 12.335, 20.109, (1.106 and 1.107), or (5.351, 5.352, and 5.353))) or permission of instructor",['Spring'],,,"{'LectureSession': ['TR1-5 VIRTUAL'], 'LabSession': ['TR1-5 66-0044, 1+2']}"
+10.28B,10.28B,11,10.28A,['Spring'],,,
+10.29,10.29,15,"(10.302 and (2.671, 3.014, 5.310, 7.003, 12.335, 20.109, (1.106 and 1.107), or (5.351, 5.352, and 5.353))) or permission of instructor",['Spring'],,,"{'LabSession': ['TR1-5 66-0044, 1+2'], 'LectureSession': ['TR1-5 VIRTUAL']}"
+10.301,10.301,12,10.10 and 18.03,['Spring'],,REST,"{'LectureSession': ['TR12-1.30 VIRTUAL'], 'RecitationSession': ['M12 32-141']}"
+10.32,10.32,9,10.213 and 10.302,['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+10.333,10.333,12,"18.03, 3.016B, or permission of instructor",['Spring'],,REST,"{'LectureSession': ['TR3-4.30 VIRTUAL'], 'RecitationSession': ['F4 VIRTUAL']}"
+10.37,10.37,12,5.601 and 10.301,['Spring'],,,"{'RecitationSession': ['W11 32-141'], 'LectureSession': ['MF11 VIRTUAL']}"
+10.380,10.380,3,,['Spring'],,,"{'LectureSession': ['TR1 VIRTUAL'], 'RecitationSession': ['R2.30 VIRTUAL']}"
+10.382,10.382,3,,['Spring'],,,"{'LectureSession': ['TR1 VIRTUAL'], 'RecitationSession': ['R2.30 VIRTUAL']}"
+10.390,10.390,12,"2.006, (2.051 and 2.06), or permission of instructor",['Spring'],,,{'LectureSession': ['MW12.30-2.30 VIRTUAL']}
+10.402,10.402,6,GIR:CAL2 and 6.0001; [6.402],['Spring'],,,{'LectureSession': ['MWF11 VIRTUAL']}
+10.426,10.426,12,10.302 or permission of instructor,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+10.450,10.450,9,10.302 and 18.03,['Spring'],,,{'LectureSession': ['MWF12 VIRTUAL']}
+10.490,10.490,9,10.37,"['Fall', 'Spring']",,,{'LectureSession': ['MWF11 VIRTUAL']}
+10.494A,10.494A,6,10.301 and permission of instructor,['Spring'],,,{'LectureSession': ['MWF11 VIRTUAL']}
+10.494B,10.494B,6,10.301 and permission of instructor,['Spring'],,,{'LectureSession': ['MWF10 VIRTUAL']}
+10.7003,10.7003,12,7.002,"['Fall', 'Spring']",,LAB2,"{'LectureSession': ['T1 VIRTUAL'], 'LabSession': ['T2-5,R1-5 68-074'], 'RecitationSession': ['T11-12.30 VIRTUAL']}"
+10.910,10.910,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['TBA TBA']}
+10.911,10.911,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['TBA TBA']}
+10.912,10.912,1,,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['TBA TBA']}
+10.EPE,10.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+10.S94,10.S94,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,{'LabSession': ['TBA TBA']}
+10.THU,10.THU,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['TBA TBA']}
+10.UR,10.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['TBA TBA']}
+10.URG,10.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['TBA TBA']}
+11.001,11.001,12,,['Spring'],HH,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+11.005,11.005,12,,['Spring'],HS,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+11.006,11.006,12,,['Spring'],HS,,{'LectureSession': ['MW2-3.30 VIRTUAL']}
+11.021,11.021,12,,['Spring'],HS,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+11.027,11.027,12,Permission of instructor,['Spring'],HS,,{'LectureSession': ['TR4 VIRTUAL']}
+11.074,11.074,12,,"['Fall', 'Spring']",,,{'LectureSession': ['F10-12 VIRTUAL']}
+11.119,11.119,3,,"['Fall', 'Spring']",,,{'LectureSession': ['*TO BE ARRANGED *TO BE ARRANGED']}
+11.123,11.123,9,,['Spring'],HS,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+11.125,11.125,12,,['Spring'],HS,,"{'LabSession': ['*TO BE ARRANGED null'], 'LectureSession': ['TR2.30-4 VIRTUAL']}"
+11.127,11.127,12,,['Spring'],HH,,"{'LectureSession': ['TR1-2.30 VIRTUAL'], 'LabSession': ['*TO BE ARRANGED null']}"
+11.131,11.131,12,CMS.592,['Spring'],HS,,{'LectureSession': ['TR4-5.30 VIRTUAL']}
+11.137,11.137,12,,['Spring'],,,{'LectureSession': ['MW2-3.30 VIRTUAL']}
+11.139,11.139,9,,['Spring'],HH,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+11.156,11.156,12,,['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+11.157,11.157,6,,['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+11.158,11.158,12,,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+11.188,11.188,12,,"['Fall', 'Spring']",,LAB,"{'RecitationSession': ['M4 VIRTUAL'], 'LabSession': ['F12.30-3 VIRTUAL'], 'LectureSession': ['MW2.30-4 VIRTUAL']}"
+11.189,11.189,0,Permission of instructor,"['Fall', 'Spring']",,,
+11.190,11.190,0,,"['Fall', 'Spring']",,,
+11.191,11.191,0,,"['Fall', 'Spring']",,,
+11.192,11.192,0,,"['Fall', 'IAP', 'Spring']",,,
+11.193,11.193,0,,"['Fall', 'Spring']",,,
+11.194,11.194,0,,"['Fall', 'Spring']",,,
+11.S187,11.S187,0,,"['Fall', 'IAP', 'Spring']",,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+11.S189,11.S189,0,,"['Fall', 'IAP', 'Spring']",,,
+11.S195,11.S195,0,,"['Fall', 'IAP', 'Spring']",,,{'LectureSession': ['F2-5 VIRTUAL']}
+11.S196,11.S196,0,,"['Fall', 'Spring']",,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+11.S197,11.S197,0,,['Spring'],,,{'LectureSession': ['T9-12 VIRTUAL']}
+11.S198,11.S198,0,,"['Fall', 'Spring']",,,
+11.S199,11.S199,0,,"['Fall', 'IAP', 'Spring']",,,{'LectureSession': ['R9-12 VIRTUAL']}
+11.THU,11.THU,0,11.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+11.UR,11.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+11.URG,11.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+12.00,12.00,2,,['Spring'],,,{'LectureSession': ['T2-4 VIRTUAL']}
+12.002,12.002,12,GIR:CAL2 and GIR:PHY2,['Spring'],,REST,{'LectureSession': ['WF12.30-2 VIRTUAL']}
+12.007,12.007,12,,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+12.011,12.011,9,GIR:CHEM or GIR:PHY1,['Spring'],HS,,{'LectureSession': ['M EVE (7-10 PM) VIRTUAL']}
+12.080,12.080,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+12.091,12.091,0,Permission of instructor,"['IAP', 'Spring']",,,{'LectureSession': ['M1-3 VIRTUAL']}
+12.110A,12.110A,6,12.001 or 12.11,['Spring'],,LAB2,{'LectureSession': ['MWF3 VIRTUAL']}
+12.12,12.12,3,,['Spring'],,,{'LectureSession': ['F3 VIRTUAL']}
+12.207,12.207,12,GIR:PHY2 and (18.03 or 18.032),['Spring'],,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+12.300,12.300,12,18.03,['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+12.306,12.306,12,(18.075 and (5.60 or 5.61)) or permission of instructor,['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+12.307,12.307,12,GIR:CAL2 and GIR:PHY1,['Spring'],,LAB,"{'LectureSession': ['*TO BE ARRANGED null'], 'LabSession': ['TR2.30-4.30 VIRTUAL']}"
+12.315,12.315,12,12.390 or permission of instructor,['Spring'],,,{'LectureSession': ['MW10.30-12 VIRTUAL']}
+12.349,12.349,12,GIR:CAL2 and GIR:PHY1,['Spring'],,,{'LectureSession': ['MW10.30-12 VIRTUAL']}
+12.386,12.386,12,,['Spring'],HS,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+12.400,12.400,12,GIR:PHY1,['Spring'],,REST,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+12.402,12.402,9,GIR:PHY1,['Spring'],,REST,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+12.409,12.409,6,,['Spring'],,,"{'LabSession': ['W EVE (7-10 PM) VIRTUAL'], 'LectureSession': ['T4 VIRTUAL']}"
+12.43,12.43,12,Permission of instructor,['Spring'],,,"{'LectureSession': ['TR2 VIRTUAL'], 'LabSession': ['*TO BE ARRANGED null']}"
+12.THU,12.THU,0,12.TIP,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+12.TIP,12.TIP,6,,"['Fall', 'Spring']",,,
+12.UR,12.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+12.URG,12.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+14.01,14.01,12,,"['Fall', 'Spring']",HS,,"{'RecitationSession': ['F9 VIRTUAL'], 'LectureSession': ['TBD TBD']}"
+14.02,14.02,12,,"['Fall', 'Spring']",HS,,"{'RecitationSession': ['F2 VIRTUAL'], 'LectureSession': ['MW2 VIRTUAL']}"
+14.03,14.03,12,14.01 or permission of instructor,"['Fall', 'Spring']",HS,,"{'RecitationSession': ['F10 VIRTUAL'], 'LectureSession': ['MW9-10.30 VIRTUAL']}"
+14.08,14.08,12,14.01,"['Fall', 'Spring']",,,
+14.09,14.09,0,14.04 and 14.06,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+14.10,14.10,0,14.04 and 14.06,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+14.15,14.15,12,6.041 or 14.30,['Spring'],HS,,"{'LectureSession': ['MW1-2.30 VIRTUAL'], 'RecitationSession': ['F2 VIRTUAL']}"
+14.18,14.18,12,"14.04, 14.12, 14.15, or 14.19",['Spring'],HS,,"{'LectureSession': ['MW2.30-4 VIRTUAL'], 'RecitationSession': ['TBD TBD']}"
+14.20,14.20,12,14.01,['Spring'],HS,,"{'RecitationSession': ['F2 VIRTUAL'], 'LectureSession': ['MW1-2.30 VIRTUAL']}"
+14.26,14.26,12,14.01,['Spring'],HS,,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['TR10.30-12 VIRTUAL']}"
+14.32,14.32,12,14.30,"['Fall', 'Spring']",,LAB,"{'LabSession': ['*TO BE ARRANGED null'], 'LectureSession': ['TR10.30-12 E51-395'], 'RecitationSession': ['F11 E51-395']}"
+14.33,14.33,12,14.32 and (14.01 or 14.02),"['Fall', 'Spring']",HS,,"{'LectureSession': ['MW2.30-4 VIRTUAL'], 'RecitationSession': ['TBD TBD']}"
+14.38,14.38,12,14.32,['Spring'],,,"{'LectureSession': ['MW10.30-12 VIRTUAL'], 'RecitationSession': ['F10.30-12 E51-149']}"
+14.42,14.42,12,14.01,['Spring'],HS,,"{'RecitationSession': ['F3 VIRTUAL'], 'LectureSession': ['TR9-10.30 VIRTUAL']}"
+14.44,14.44,12,14.01 or 15.0111,['Spring'],HS,,"{'LectureSession': ['TR1-2.30 VIRTUAL'], 'RecitationSession': ['F2 VIRTUAL']}"
+14.70,14.70,12,,['Spring'],HS,,"{'LectureSession': ['M9.30-11 VIRTUAL'], 'RecitationSession': ['W9.30-11 VIRTUAL']}"
+14.75,14.75,12,14.01,['Spring'],HS,,"{'LectureSession': ['TR1-2.30 VIRTUAL'], 'RecitationSession': ['F1 VIRTUAL']}"
+14.76,14.76,12,14.01,['Spring'],HS,,"{'RecitationSession': ['F9 VIRTUAL'], 'LectureSession': ['MW9-10.30 VIRTUAL']}"
+14.THU,14.THU,0,14.33,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+14.UR,14.UR,0,14.02,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+14.URG,14.URG,0,14.02,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+15.0251,15.0251,9,14.01 or 15.0111,['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+15.0341,15.0341,9,,['Spring'],,,"{'LectureSession': ['MW4-5.30 VIRTUAL'], 'RecitationSession': ['R1-2.30 VIRTUAL']}"
+15.037,15.037,12,14.01 or 15.0111,['Spring'],HS,,"{'RecitationSession': ['F2 VIRTUAL'], 'LectureSession': ['TR1-2.30 VIRTUAL']}"
+15.039,15.039,12,14.01,['Spring'],HS,,"{'LectureSession': ['TR10.30-12 VIRTUAL'], 'RecitationSession': ['F11 VIRTUAL']}"
+15.053,15.053,12,"1.00, 1.000, 6.0001, or permission of instructor",['Spring'],,REST,"{'LectureSession': ['TR2.30-4 VIRTUAL'], 'RecitationSession': ['F1 VIRTUAL']}"
+15.0711,15.0711,12,15.053 and 15.0791,['Spring'],,,"{'LectureSession': ['MW9.30-11 VIRTUAL'], 'RecitationSession': ['F9.30 VIRTUAL']}"
+15.075,15.075,12,6.041B or 15.0791,['Spring'],,LAB,"{'LectureSession': ['MW9.30-11 VIRTUAL'], 'LabSession': ['F2 VIRTUAL']}"
+15.076,15.076,12,GIR:CAL1,['Spring'],,,{'LectureSession': ['MW12.30-2 VIRTUAL']}
+15.2391,15.2391,6,,['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+15.276,15.276,12,,"['Fall', 'Spring']",,,{'LectureSession': ['MW2-3.30 VIRTUAL']}
+15.279,15.279,12,,"['Fall', 'Spring']",,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+15.305,15.305,9,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['W2-5 VIRTUAL']}
+15.373,15.373,12,,['Spring'],,,{'LectureSession': ['MW8-9.30 VIRTUAL']}
+15.3781,15.3781,12,15.3901 or permission of instructor,['Spring'],,,{'LectureSession': ['T8-11 VIRTUAL']}
+15.3901,15.3901,12,,"['Fall', 'Spring']",,,{'LectureSession': ['MW2.30-4 VIRTUAL']}
+15.3941,15.3941,9,,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+15.3991,15.3991,12,,"['Fall', 'Spring']",,,{'LectureSession': ['T8-11 E51-149']}
+15.417,15.417,15,,['Spring'],,LAB,"{'RecitationSession': ['F10 VIRTUAL'], 'LectureSession': ['TR2.30-4 VIRTUAL'], 'LabSession': ['F1-3 VIRTUAL']}"
+15.4371,15.4371,9,15.417,['Spring'],,,{'LectureSession': ['TR11-12.30 E62-262']}
+15.4451,15.4451,9,15.501; [15.418],['Spring'],,,{'LectureSession': ['TR9.30-11 E51-315']}
+15.501,15.501,12,,"['Fall', 'Spring']",,,{'LectureSession': ['MW2.30-4 VIRTUAL']}
+15.5181,15.5181,9,15.501,['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+15.6181,15.6181,6,,"['Fall', 'Spring']",,,{'LectureSession': ['R EVE (7-8.30 PM) VIRTUAL']}
+15.6221,15.6221,6,,['Spring'],,,{'LectureSession': ['T EVE (7-8.30 PM) VIRTUAL']}
+15.7611,15.7611,9,"6.041B, 15.0791, or permission of instructor",['Spring'],,,"{'LectureSession': ['MW11-12.30 VIRTUAL'], 'RecitationSession': ['R4-5.30 VIRTUAL']}"
+15.772,15.772,12,,['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+15.8141,15.8141,9,,['Spring'],,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+15.8471,15.8471,9,,['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+15.8731,15.8731,9,,"['Fall', 'Spring']",,,"{'RecitationSession': ['F1-2.30 VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+15.9001,15.9001,9,,['Spring'],,,{'LectureSession': ['MWF4-5.30 VIRTUAL']}
+15.950,15.950,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+15.951,15.951,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+15.952,15.952,1,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+15.EPE,15.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+15.UR,15.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+15.URG,15.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+16.003,16.003,12,"GIR:CAL2, GIR:PHY2, and (18.03 or 18.032); [16.004]",['Spring'],,,"{'LabSession': ['MTWRF9-12 33-014'], 'LectureSession': ['M9,T10,F9-11 VIRTUAL']}"
+16.004,16.004,12,"GIR:CAL2, GIR:PHY2, and (18.03 or 18.032); [GIR:CHEM and 16.003]",['Spring'],,,"{'LabSession': ['MTWRF EVE (7-10 PM) 33-014'], 'LectureSession': ['MT10,R9-11 VIRTUAL'], 'RecitationSession': ['W10 VIRTUAL']}"
+16.06,16.06,12,16.002 and (16.003 or 16.004),['Spring'],,,"{'RecitationSession': ['R3 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+16.09,16.09,12,GIR:CAL2,['Spring'],,,"{'LectureSession': ['MW1-2.30 VIRTUAL'], 'RecitationSession': ['T1 VIRTUAL']}"
+16.20,16.20,12,16.001,['Spring'],,,"{'RecitationSession': ['F10 VIRTUAL'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+16.35,16.35,12,1.00 or 6.0002,['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+16.36,16.36,12,(6.003 or 16.002) and (16.09 or 6.041),['Spring'],,,"{'LabSession': ['MTWRF EVE (7-10 PM) 33-017'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+16.405,16.405,12,"((1.00 or 6.0001) and (2.003, 6.006, 6.009, or 16.06)) or permission of instructor",['Spring'],,LAB,"{'LectureSession': ['MWF1 VIRTUAL'], 'LabSession': ['MW8-11 (MEETS 3/9 TO 5/14) W34-TRACK'], 'RecitationSession': ['MW3-5 VIRTUAL']}"
+16.50,16.50,12,16.003 and (2.005 or 16.004),['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+16.64,16.64,6,16.002,['Spring'],,,"{'LabSession': ['*TO BE ARRANGED null'], 'LectureSession': ['W4 VIRTUAL']}"
+16.650,16.650,3,[6.912]; or permission of instructor,"['Fall', 'Spring']",,,{'LabSession': ['F1-3 13-1000LA']}
+16.651,16.651,3,[6.911]; or permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['M1-2.30 VIRTUAL']}
+16.662,16.662,6,,"['Fall', 'Spring']",,,{'LectureSession': ['M EVE (9 PM) VIRTUAL']}
+16.6621,16.6621,3,,['Spring'],,,{'LectureSession': ['M EVE (7-9 PM) VIRTUAL']}
+16.667,16.667,6,"6.902, 6.911, 6.912, or permission of instructor","['Fall', 'Spring']",,,{'LabSession': ['F9-11 13-1000LA']}
+16.676,16.676,6,,"['Fall', 'Spring']",,,{'LectureSession': ['W EVE (7-9 PM) VIRTUAL']}
+16.691,16.691,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+16.821,16.821,18,Permission of instructor,"['Fall', 'Spring']",,LAB,"{'LectureSession': ['TR2-3 Virtual'], 'LabSession': ['MTWRF2-5 33-014']}"
+16.83,16.83,12,Permission of instructor,['Spring'],,,"{'LectureSession': ['TR2 VIRTUAL'], 'LabSession': ['*TO BE ARRANGED null']}"
+16.84,16.84,12,6.141 or permission of instructor,['Spring'],,,"{'LectureSession': ['M2 VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+16.90,16.90,12,"16.001, 16.002, 16.003, 16.004, or permission of instructor; [16.09 or 6.041]",['Spring'],,,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['MW2.30-4 VIRTUAL']}"
+16.901,16.901,0,,"['Fall', 'Spring']",,,{'LectureSession': ['MW3-4.30 VIRTUAL']}
+16.EPE,16.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+16.S685,16.S685,0,Permission of instructor,"['IAP', 'Spring']",,,{'LectureSession': ['R1-2.30 VIRTUAL']}
+16.S686,16.S686,0,Permission of instructor,['Spring'],,,
+16.S688,16.S688,0,,['Spring'],,,
+16.UR,16.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+17.007,17.007,12,,['Spring'],HH,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+17.04,17.04,12,,['Spring'],HH,,"{'LectureSession': ['R3-5 VIRTUAL'], 'RecitationSession': ['T3-5 16-160']}"
+17.181,17.181,12,,['Spring'],HS,,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['W1-3 VIRTUAL']}"
+17.261,17.261,12,17.251 or permission of instructor,['Spring'],HS,,{'LectureSession': ['M3-5 VIRTUAL']}
+17.275,17.275,12,,['Spring'],HS,,"{'LectureSession': ['W1-3 VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+17.307,17.307,12,Permission of instructor,"['Fall', 'Spring']",HS,,{'LectureSession': ['*TO BE ARRANGED *TO BE ARRANGED']}
+17.309,17.309,12,,['Spring'],HS,,"{'LectureSession': ['MW1.30-3 VIRTUAL'], 'RecitationSession': ['R EVE (7.30 PM) VIRTUAL']}"
+17.315,17.315,12,,['Spring'],HS,,"{'LectureSession': ['TR11-12.30 VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED *TO BE ARRANGED']}"
+17.389,17.389,12,,['Spring'],HS,,"{'LectureSession': ['T1-3 VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+17.393,17.393,12,,['Spring'],HS,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+17.445,17.445,12,,['Spring'],HS,,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['M1-3 VIRTUAL']}"
+17.473,17.473,12,,['Spring'],HS,,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['M1-3 VIRTUAL']}"
+17.483,17.483,12,Freshmen need permission of instructor,['Spring'],HS,,"{'RecitationSession': ['W EVE (7 PM) VIRTUAL'], 'LectureSession': ['T1-3 VIRTUAL']}"
+17.511,17.511,12,,['Spring'],HS,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+17.55,17.55,12,,['Spring'],HS,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+17.569,17.569,12,,['Spring'],HS,,"{'LectureSession': ['T11-1,R12 VIRTUAL']}"
+17.57,17.57,12,,['Spring'],HS,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+17.591,17.591,12,Permission of instructor,['Spring'],HS,,"{'LectureSession': ['M11-1 VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+17.803,17.803,15,17.801 or permission of instructor,['Spring'],,LAB,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+17.811,17.811,12,,['Spring'],HS,,"{'RecitationSession': ['*TO BE ARRANGED *TO BE ARRANGED'], 'LectureSession': ['T1-3 VIRTUAL']}"
+17.902,17.902,0,,"['Fall', 'Spring']",,,
+17.905,17.905,0,,"['Fall', 'Spring']",,,
+17.906,17.906,0,,"['Fall', 'Spring']",,,
+17.910,17.910,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+17.S917,17.S917,0,,['Spring'],,,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['W3-5 VIRTUAL']}"
+17.S919,17.S919,0,,['Spring'],,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+17.THU,17.THU,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+17.UR,17.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+17.URG,17.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+18.01,18.01,12,,"['Fall', 'Spring']",,CAL1,"{'LectureSession': ['TR11,F2 VIRTUAL'], 'RecitationSession': ['MW2 VIRTUAL']}"
+18.02,18.02,12,GIR:CAL1,"['Fall', 'Spring']",,CAL2,"{'LectureSession': ['TR11,F2 VIRTUAL'], 'RecitationSession': ['MW3 VIRTUAL']}"
+18.02A,18.02A,12,GIR:CAL1,"['Fall', 'IAP', 'Spring']",,CAL2,"{'LectureSession': ['TR11,F2 (BEGINS APR 5) VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+18.03,18.03,12,[GIR:CAL2],"['Fall', 'Spring']",,REST,"{'RecitationSession': ['TR2 VIRTUAL'], 'LectureSession': ['MW1,F12 VIRTUAL']}"
+18.032,18.032,12,[GIR:CAL2],['Spring'],,REST,"{'RecitationSession': ['TR11 VIRTUAL'], 'LectureSession': ['MW1,F12 4-370']}"
+18.04,18.04,12,GIR:CAL2 and (18.03 or 18.032),['Spring'],,,"{'LectureSession': ['MWF2 2-190'], 'RecitationSession': ['R2 VIRTUAL']}"
+18.05,18.05,12,GIR:CAL2,['Spring'],,REST,"{'LectureSession': ['TR2.30-4,F3 VIRTUAL']}"
+18.06,18.06,12,GIR:CAL2,"['Fall', 'Spring']",,REST,"{'RecitationSession': ['T12 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+18.062,18.062,12,GIR:CAL1,"['Fall', 'Spring']",,REST,"{'RecitationSession': ['WF11 VIRTUAL'], 'LectureSession': ['TR2.30-4 VIRTUAL']}"
+18.065,18.065,12,18.06,['Spring'],,,{'LectureSession': ['MWF1 2-190']}
+18.075,18.075,12,GIR:CAL2 and 18.03,['Spring'],,,{'LectureSession': ['MWF1 VIRTUAL']}
+18.085,18.085,12,GIR:CAL2 and (18.03 or 18.032),"['Fall', 'Summer', 'Spring']",,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+18.098,18.098,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+18.099,18.099,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+18.100A,18.100A,12,GIR:CAL2,"['Fall', 'Spring']",,,{'LectureSession': ['MWF1 VIRTUAL']}
+18.100B,18.100B,12,GIR:CAL2,"['Fall', 'Spring']",,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+18.100P,18.100P,15,GIR:CAL2,['Spring'],,,"{'RecitationSession': ['F12 VIRTUAL'], 'LectureSession': ['MW11-12.30 (LIMITED 30) VIRTUAL']}"
+18.102,18.102,12,"(18.06, 18.700, or 18.701) and (18.100A, 18.100B, 18.100P, or 18.100Q)",['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+18.104,18.104,12,"18.100A, 18.100B, 18.100P, or 18.100Q",['Spring'],,,{'LectureSession': ['MWF2 (LIMITED 15) 2-131']}
+18.152,18.152,12,"(18.06, 18.700, or 18.701) and (18.100A, 18.100B, 18.100P, or 18.100Q)",['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+18.200,18.200,15,[18.06],['Spring'],,,"{'LectureSession': ['MWF10 (LIMITED 75) VIRTUAL'], 'RecitationSession': ['R EVE (7 PM) VIRTUAL']}"
+18.204,18.204,12,"((6.042 or 18.200) and (18.06, 18.700, or 18.701)) or permission of instructor","['Fall', 'Spring']",,,{'LectureSession': ['MW9.30-11 (LIMITED 15 EACH .. VIRTUAL']}
+18.212,18.212,12,18.701 or 18.703,['Spring'],,,{'LectureSession': ['MWF2 VIRTUAL']}
+18.300,18.300,12,GIR:CAL2 and (18.03 or 18.032),['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+18.303,18.303,12,18.06 or 18.700,['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+18.330,18.330,12,GIR:CAL2 and (18.03 or 18.032),['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+18.354,18.354,12,GIR:PHY2 and (18.03 or 18.032),['Spring'],,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+18.400,18.400,12,6.042,['Spring'],,,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['TR2.30-4 VIRTUAL']}"
+18.410,18.410,12,6.006,"['Fall', 'Spring']",,,"{'RecitationSession': ['F3 VIRTUAL'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+18.424,18.424,12,"(6.041, 18.05, or 18.600) and (18.06, 18.700, or 18.701)",['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+18.453,18.453,12,"18.06, 18.700, or 18.701",['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+18.600,18.600,12,GIR:CAL2,"['Fall', 'Spring']",,REST,"{'RecitationSession': ['R2 VIRTUAL'], 'LectureSession': ['MWF2 VIRTUAL']}"
+18.650,18.650,12,6.041 or 18.600,"['Fall', 'Spring']",,,"{'LectureSession': ['MW9.30-11 VIRTUAL'], 'RecitationSession': ['F10 VIRTUAL']}"
+18.702,18.702,12,18.701,['Spring'],,,{'LectureSession': ['MWF11 VIRTUAL']}
+18.703,18.703,12,GIR:CAL2,['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+18.704,18.704,12,"18.701, (18.06 and 18.703), or (18.700 and 18.703)","['Fall', 'Spring']",,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+18.781,18.781,12,,['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+18.783,18.783,12,"18.702, 18.703, or permission of instructor",['Spring'],,,{'LectureSession': ['MW12.30-2 VIRTUAL']}
+18.821,18.821,12,Two mathematics subjects numbered 18.10 or above,"['Fall', 'Spring']",,LAB,"{'LabSession': ['*TO BE ARRANGED null'], 'LectureSession': ['TR11-1 (LIMITED 27) VIRTUAL']}"
+18.901,18.901,12,"18.100A, 18.100B, 18.100P, 18.100Q, or permission of instructor","['Fall', 'Spring']",,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+18.904,18.904,12,18.901,['Spring'],,,{'LectureSession': ['MW9.30-11 2-190']}
+18.952,18.952,12,18.101 and (18.700 or 18.701),['Spring'],,,{'LectureSession': ['MWF11 VIRTUAL']}
+18.S096,18.S096,0,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+18.S190,18.S190,0,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['MW3-4.30 VIRTUAL']}
+18.S191,18.S191,0,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+18.THU,18.THU,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+18.UR,18.UR,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+2.000,2.000,2,,['Spring'],,,{'LectureSession': ['W4 VIRTUAL']}
+2.001,2.001,12,GIR:PHY1; [2.087 or 18.03],"['Fall', 'Spring']",,REST,"{'LectureSession': ['MWF11 VIRTUAL'], 'LabSession': ['R1-2.30 VIRTUAL']}"
+2.002,2.002,12,GIR:CHEM and 2.001,['Spring'],,,"{'LabSession': ['M3-5 (BEGINS FEB 22) VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+2.003,2.003,12,GIR:PHY2; [2.087 or 18.03],"['Fall', 'Spring']",,REST,"{'RecitationSession': ['R1 VIRTUAL'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+2.004,2.004,12,GIR:PHY2 and 2.003,"['Fall', 'Spring']",,,"{'LabSession': ['M3-5 VIRTUAL'], 'LectureSession': ['MW9.30-11,F10 VIRTUAL']}"
+2.005,2.005,12,"(GIR:CAL2, GIR:PHY2, and (2.086, 6.0002, or 18.06)) or permission of instructor","['Fall', 'Spring']",,,"{'RecitationSession': ['F10 VIRTUAL'], 'LectureSession': ['TR9-11 VIRTUAL']}"
+2.006,2.006,12,2.005 or (2.051 and 2.06),"['Fall', 'Spring']",,,"{'RecitationSession': ['W1 VIRTUAL'], 'LectureSession': ['TR9.30-11,F9 VIRTUAL']}"
+2.007,2.007,12,2.001 and 2.670; [2.086],['Spring'],,,"{'LabSession': ['R2-5 VIRTUAL'], 'RecitationSession': ['MTWRF2-5 3-051'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+2.008,2.008,12,2.007; or [2.017 and (2.005 or 2.051)],"['Fall', 'Spring']",,LAB2,"{'LabSession': ['M9-12 35-125'], 'RecitationSession': ['MTWRF9-12 35-225'], 'LectureSession': ['MW12.30-2 VIRTUAL']}"
+2.00A,2.00A,9,GIR:CAL1 and GIR:PHY1,['Spring'],,,"{'LabSession': ['WF11-12.30 N52-337'], 'LectureSession': ['TR2.30-4 VIRTUAL']}"
+2.00B,2.00B,9,,['Spring'],,,"{'RecitationSession': ['MTWRF EVE (7-10 PM) 3-370'], 'LectureSession': ['MW3.30-5 10-250'], 'LabSession': ['MTWRF9-12 3-004']}"
+2.00C,2.00C,9,,['Spring'],,,"{'LectureSession': ['MW3-4.30 VIRTUAL'], 'RecitationSession': ['F3 VIRTUAL']}"
+2.014,2.014,12,"(2.001, 2.003, (2.005 or 2.051), and (2.00B, 2.670, or 2.678)) or permission of instructor",['Spring'],,,"{'LectureSession': ['F1 VIRTUAL'], 'LabSession': ['F2-5 VIRTUAL']}"
+2.017,2.017,12,"2.003, 2.016, and 2.678; [2.671]",['Spring'],,LAB2,"{'LabSession': ['W2-5 NW98-186'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+2.019,2.019,12,"2.001, 2.003, and (2.005 or 2.016)",['Spring'],,,"{'LectureSession': ['F1 VIRTUAL'], 'LabSession': ['F2-5 VIRTUAL']}"
+2.065,2.065,12,"2.003, 6.003, 8.03, or 16.003",['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+2.086,2.086,12,GIR:CAL2 and GIR:PHY1; [2.087 or 18.03],"['Fall', 'Spring']",,REST,"{'LabSession': ['F9-11 VIRTUAL'], 'LectureSession': ['MW12 VIRTUAL']}"
+2.095,2.095,12,2.001 and 2.005,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+2.12,2.12,12,2.004,['Spring'],,,"{'LectureSession': ['MW11-12.30 VIRTUAL'], 'LabSession': ['R3-5 5-007']}"
+2.121,2.121,12,[2.004],['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+2.14,2.14,12,2.004,['Spring'],,,"{'LabSession': ['W2-5 VIRTUAL'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+2.161,2.161,6,2.086; [6.402],['Spring'],,,{'LectureSession': ['MWF11 VIRTUAL']}
+2.180,2.180,12,"GIR:BIOL, 18.03, or permission of instructor",['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+2.184,2.184,12,2.004 or permission of instructor,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+2.290,2.290,12,2.005,['Spring'],,,"{'RecitationSession': ['T4 VIRTUAL'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+2.370,2.370,12,GIR:CHEM and 2.001,['Spring'],,,"{'LectureSession': ['MW1-2.30 VIRTUAL'], 'RecitationSession': ['F2 VIRTUAL']}"
+2.60,2.60,12,"2.006, (2.051 and 2.06), or permission of instructor",['Spring'],,,{'LectureSession': ['MW12.30-2.30 VIRTUAL']}
+2.651,2.651,12,,['Spring'],,,"{'LabSession': ['MTWRF2-5 N51-310'], 'LectureSession': ['MW10.30-12 VIRTUAL']}"
+2.670,2.670,3,,"['Fall', 'Summer', 'Spring']",,,"{'LabSession': ['MTWRF2-5 3-051'], 'RecitationSession': ['MTWRF2-5 35-125']}"
+2.671,2.671,12,"GIR:PHY2, 2.001, 2.003, and 2.086","['Fall', 'Spring']",,LAB,"{'LabSession': ['T2-5 VIRTUAL'], 'LectureSession': ['TR12.30-2 VIRTUAL']}"
+2.673,2.673,12,"(GIR:BIOL, GIR:PHY2, 6.0002, and 18.03) or permission of instructor","['Fall', 'Spring']",,,"{'LectureSession': ['TRF12 VIRTUAL'], 'LabSession': ['*TO BE ARRANGED null']}"
+2.674,2.674,6,GIR:PHY2 or permission of instructor,['Spring'],,,"{'LabSession': ['F1-4 5-026'], 'LectureSession': ['T1 VIRTUAL']}"
+2.678,2.678,6,GIR:PHY2,"['Fall', 'Spring']",,,"{'LectureSession': ['MW1 VIRTUAL'], 'LabSession': ['R3-5 VIRTUAL']}"
+2.679,2.679,6,"2.086, 2.678, and 18.03",['Spring'],,,"{'LabSession': ['T1 VIRTUAL'], 'LectureSession': ['MW11 VIRTUAL']}"
+2.70,2.70,12,2.008,['Spring'],,,"{'RecitationSession': ['R10-1 W31-301'], 'LabSession': ['M2-5 VIRTUAL'], 'LectureSession': ['MW12.30-2 VIRTUAL']}"
+2.72,2.72,12,2.008 and (2.005 or 2.051); [2.671],['Spring'],,,"{'LabSession': ['M2-5 VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+2.722,2.722,12,2.670 or permission of instructor,['Spring'],,,{'LectureSession': ['TR3.30-5 N51-310']}
+2.723,2.723,6,,"['Fall', 'Spring']",,,{'LectureSession': ['M EVE (9 PM) VIRTUAL']}
+2.7231,2.7231,3,,['Spring'],,,{'LectureSession': ['M EVE (7-9 PM) VIRTUAL']}
+2.771,2.771,12,,['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+2.792,2.792,12,"GIR:PHY2, 18.03, or permission of instructor",['Spring'],,,"{'RecitationSession': ['F2 VIRTUAL'], 'LectureSession': ['TR9.30-11 VIRTUAL']}"
+2.793,2.793,12,"GIR:BIOL, GIR:PHY2, and 18.03",['Spring'],,,"{'RecitationSession': ['W12 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+2.797,2.797,12,"GIR:BIOL, (2.370 or 20.110), and (3.016B or 18.03)",['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+2.812,2.812,12,,['Spring'],,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+2.900,2.900,6,,"['Fall', 'Spring']",,,{'LectureSession': ['T3-5 VIRTUAL']}
+2.912,2.912,12,,['Spring'],,,{'LectureSession': ['MW8-9.30 VIRTUAL']}
+2.979,2.979,0,,"['Fall', 'IAP', 'Spring']",,,
+2.99,2.99,0,Permission of department,"['Fall', 'IAP', 'Spring']",,,
+2.990,2.990,1,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+2.993,2.993,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+2.994,2.994,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+2.EPE,2.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+2.S007,2.S007,0,,['Spring'],,,"{'LabSession': ['T2-5 VIRTUAL'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+2.S670,2.S670,0,,['Spring'],,,
+2.S679,2.S679,0,,['Spring'],,,
+2.S974,2.S974,0,,['Spring'],,,{'LectureSession': ['W9-12 VIRTUAL']}
+2.S991,2.S991,0,,['Spring'],,,{'LectureSession': ['F3-5 VIRTUAL']}
+2.S994,2.S994,0,,['Spring'],,,
+2.THU,2.THU,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+2.UR,2.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+2.URG,2.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+20.005,20.005,9,,"['Fall', 'Spring']",,,{'LectureSession': ['M3-5 VIRTUAL']}
+20.051,20.051,6,"GIR:BIOL, GIR:CAL2, GIR:CHEM, and GIR:PHY1",['Spring'],,,"{'LabSession': ['MTWRF8-10 (MEETS 4/12 TO 4/30) 56-286'], 'LectureSession': ['WF4 VIRTUAL']}"
+20.052,20.052,12,,"['Fall', 'Spring']",,,
+20.053,20.053,12,,"['Fall', 'Spring']",,,
+20.054,20.054,0,20.051,"['Fall', 'Spring']",,,{'LectureSession': ['R 4-5 VIRTUAL']}
+20.104,20.104,12,"GIR:BIOL, GIR:CAL2, and GIR:CHEM",['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+20.109,20.109,15,"GIR:BIOL, GIR:CHEM, 6.0002, 18.03, and 20.110","['Fall', 'Spring']",,LAB,"{'LabSession': ['MTWRF9-12 56-322'], 'LectureSession': ['TR11 VIRTUAL']}"
+20.129,20.129,12,GIR:BIOL and GIR:CAL2,['Spring'],,LAB,"{'LectureSession': ['MW2 VIRTUAL'], 'LabSession': ['MW12-2,MW3-5 26-033']}"
+20.205,20.205,12,GIR:BIOL,['Spring'],,,{'LectureSession': ['F10-1 VIRTUAL']}
+20.213,20.213,9,"5.07, 7.05, or permission of instructor",['Spring'],,,{'LectureSession': ['MW9-11 VIRTUAL']}
+20.230,20.230,12,7.06,['Spring'],,,"{'LectureSession': ['MW9.30-11 VIRTUAL'], 'RecitationSession': ['W EVE (7 PM) VIRTUAL']}"
+20.260,20.260,6,6.0001 and 6.0002,['Spring'],,,{'LectureSession': ['R1-3 VIRTUAL']}
+20.301,20.301,6,GIR:CAL2 and 6.0001; [6.402],['Spring'],,,{'LectureSession': ['MWF11 VIRTUAL']}
+20.309,20.309,12,"(GIR:BIOL, GIR:PHY2, 6.0002, and 18.03) or permission of instructor","['Fall', 'Spring']",,,"{'LabSession': ['*TO BE ARRANGED null'], 'LectureSession': ['TRF12 VIRTUAL']}"
+20.310,20.310,12,"GIR:BIOL, (2.370 or 20.110), and (3.016B or 18.03)",['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+20.330,20.330,12,"GIR:BIOL, GIR:PHY2, and 18.03",['Spring'],,,"{'RecitationSession': ['T4 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+20.365,20.365,9,(5.60 or 20.110) and permission of instructor,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+20.380,20.380,12,"7.06, 20.320, and 20.330","['Fall', 'Spring']",,,"{'RecitationSession': ['TR9 VIRTUAL'], 'LectureSession': ['TR10-12 VIRTUAL']}"
+20.381,20.381,12,20.380 or permission of instructor,['Spring'],,,{'LabSession': ['MTWRF EVE (7-10 PM) 26-033']}
+20.390,20.390,12,(7.05 and (6.0002 or 6.01)) or permission of instructor,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+20.902,20.902,0,Permission of instructor,"['Fall', 'Spring']",,,
+20.903,20.903,0,Permission of instructor,"['Fall', 'Summer', 'Spring']",,,
+20.920,20.920,1,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+20.BME,20.BME,0,,"['Fall', 'Spring']",,,
+20.EPE,20.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+20.S900,20.S900,0,Permission of instructor,"['Fall', 'Spring']",,,
+20.S901,20.S901,0,,"['Fall', 'Spring']",,,{'LectureSession': ['M3 VIRTUAL']}
+20.S940,20.S940,0,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+20.THU,20.THU,0,,"['Fall', 'IAP', 'Spring']",,,
+20.UR,20.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+20.URG,20.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21.THT,21.THT,0,As specified for particular field,"['Fall', 'IAP', 'Spring']",,,
+21.THU,21.THU,0,21.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21.UR,21.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21.URG,21.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21A.01,21A.01,12,,['Spring'],HS,,{'LectureSession': ['TR10-11.30 VIRTUAL']}
+21A.130,21A.130,12,,['Spring'],HS,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21A.137,21A.137,12,,['Spring'],HS,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21A.151,21A.151,12,,['Spring'],HS,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+21A.157,21A.157,12,,['Spring'],HS,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+21A.407,21A.407,12,,['Spring'],HS,,{'LectureSession': ['F1-4 VIRTUAL']}
+21A.500,21A.500,9,,"['Fall', 'Spring']",HS,,{'LectureSession': ['F11-1 VIRTUAL']}
+21A.505,21A.505,12,,['Spring'],HS,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21A.511,21A.511,12,,['Spring'],HS,,{'LectureSession': ['TR11.30-1 VIRTUAL']}
+21A.901,21A.901,0,Two subjects in Anthropology,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21A.902,21A.902,0,Two subjects in Anthropology,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21A.THT,21A.THT,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21A.THU,21A.THU,0,21A.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21A.UR,21A.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21A.URG,21A.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21G.028,21G.028,12,,['Spring'],HS,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21G.036,21G.036,12,,['Spring'],HH,,{'LectureSession': ['MW EVE (7-8.30 PM) VIRTUAL']}
+21G.038,21G.038,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+21G.040,21G.040,12,,['Spring'],HH,,{'LectureSession': ['W EVE (7-10 PM) VIRTUAL']}
+21G.054,21G.054,12,,['Spring'],HH,,{'LectureSession': ['MW9-10.30 VIRTUAL']}
+21G.057,21G.057,12,,['Spring'],HS,,{'LectureSession': ['F1-4 VIRTUAL']}
+21G.077,21G.077,12,,['Spring'],HH,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21G.084,21G.084,12,,['Spring'],HS,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21G.086,21G.086,12,,['Spring'],HS,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21G.094,21G.094,12,,['Spring'],HA,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+21G.102,21G.102,12,21G.101 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MTRF1 VIRTUAL']}
+21G.104,21G.104,12,21G.103 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MTRF2 VIRTUAL']}
+21G.106,21G.106,12,21G.105 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MWF11 VIRTUAL']}
+21G.108,21G.108,12,21G.107 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MWF3 VIRTUAL']}
+21G.110,21G.110,12,21G.109 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MWF11 VIRTUAL']}
+21G.120,21G.120,12,"21G.106, 21G.113, or permission of instructor",['Spring'],HH,,{'LectureSession': ['MWF2 VIRTUAL']}
+21G.190,21G.190,13,"21G.105, 21G.110, or permission of instructor",['Spring'],HH,,{'LectureSession': ['MW EVE (7-8.30 PM) VIRTUAL']}
+21G.194,21G.194,13,"21G.105, 21G.110, or permission of instructor",['Spring'],HH,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+21G.220,21G.220,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['TR8-9.30 VIRTUAL']}
+21G.222,21G.222,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW7.30-9 VIRTUAL']}
+21G.223,21G.223,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+21G.226,21G.226,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['TR9-10.30 VIRTUAL']}
+21G.228,21G.228,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW12.30-2 VIRTUAL']}
+21G.233,21G.233,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['TR11.30-1 VIRTUAL']}
+21G.240,21G.240,12,21G.222 or other CI-H/CI-HW subject,['Spring'],HA,,{'LectureSession': ['TR9-10.30 VIRTUAL']}
+21G.301,21G.301,12,,"['Fall', 'IAP', 'Spring']",HH,,{'LectureSession': ['MWF3 VIRTUAL']}
+21G.302,21G.302,12,21G.301 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MWF11 VIRTUAL']}
+21G.303,21G.303,12,21G.302 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MWF11 VIRTUAL']}
+21G.304,21G.304,12,21G.303 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MWF3 VIRTUAL']}
+21G.306,21G.306,3,"[21G.308, 21G.310, 21G.311, 21G.312, 21G.315, 21G.320, 21G.321, or 21G.322]; permission of instructor","['Fall', 'Spring']",,,
+21G.307,21G.307,3,"[21G.308, 21G.310, 21G.311, 21G.312, 21G.315, 21G.320, 21G.321, or 21G.322]; permission of instructor","['Fall', 'Spring']",,,
+21G.310,21G.310,12,21G.304 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MWF2 VIRTUAL']}
+21G.315,21G.315,12,21G.304 or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR12.30-2 VIRTUAL']}
+21G.321,21G.321,12,One intermediate subject in French,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21G.328,21G.328,13,21G.304 or permission of instructor,['Spring'],HS,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21G.342,21G.342,12,21G.304 or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+21G.401,21G.401,12,,"['Fall', 'IAP', 'Spring']",HH,,{'LectureSession': ['MTRF1 VIRTUAL']}
+21G.402,21G.402,12,21G.401 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MTRF1 VIRTUAL']}
+21G.403,21G.403,12,21G.402 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MTRF12 VIRTUAL']}
+21G.404,21G.404,12,21G.403 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MTRF12 VIRTUAL']}
+21G.406,21G.406,3,"[21G.409, 21G.410, 21G.412, 21G.414, 21G.416, 21G.417, 21G.418, or 21G.420]; permission of instructor","['Fall', 'Spring']",,,
+21G.407,21G.407,3,"[21G.409, 21G.410, 21G.412, 21G.414, 21G.416, 21G.417, 21G.418, or 21G.420]; permission of instructor","['Fall', 'Spring']",,,
+21G.410,21G.410,12,21G.404,['Spring'],HH,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21G.420,21G.420,12,21G.404 or permission of instructor,['Spring'],HA,,{'LectureSession': ['M EVE (7-9 PM) VIRTUAL']}
+21G.502,21G.502,12,21G.501 or (placement test and permission of instructor),['Spring'],HH,,{'LectureSession': ['MTRF9 VIRTUAL']}
+21G.504,21G.504,12,21G.503 or (placement test and permission of instructor),['Spring'],HH,,{'LectureSession': ['MTRF1 VIRTUAL']}
+21G.506,21G.506,12,21G.505 or (placement test and permission of instructor),['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21G.594,21G.594,13,21G.504 or permission of instructor,['Spring'],HA,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+21G.612,21G.612,12,21G.611 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MTRF2 VIRTUAL']}
+21G.614,21G.614,12,21G.613 and permission of instructor,['Spring'],HH,,{'LectureSession': ['MTRF4 VIRTUAL']}
+21G.618,21G.618,13,21G.614 or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21G.701,21G.701,12,,"['Fall', 'IAP', 'Spring']",HH,,{'LectureSession': ['MTWR12 VIRTUAL']}
+21G.702,21G.702,12,21G.701 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MTWR11 VIRTUAL']}
+21G.703,21G.703,12,21G.702 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MTWR12 VIRTUAL']}
+21G.704,21G.704,12,21G.703 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': ['MTWR12 VIRTUAL']}
+21G.708,21G.708,3,"[21G.731, 21G.735, 21L.636, 21L.637, 21L.638, 21L.639, or 21L.640]; permission of instructor","['Fall', 'Spring']",,,
+21G.709,21G.709,3,"21G.708; [21G.731, 21G.735, 21L.636, 21L.637, 21L.638, 21L.639, or 21L.640]; permission of instructor","['Fall', 'Spring']",,,
+21G.711,21G.711,12,21G.704 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MW3-4.30 VIRTUAL']}
+21G.713,21G.713,12,21G.704 or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21G.714,21G.714,12,Fluency in a Spanish dialect or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+21G.736,21G.736,12,One intermediate subject in Spanish or permission of instructor,['Spring'],HH,,{'LectureSession': ['R EVE (7-10 PM) VIRTUAL']}
+21G.740,21G.740,12,One intermediate subject in Spanish or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+21G.784,21G.784,13,21G.704 or permission of instructor,['Spring'],HS,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21G.802,21G.802,12,21G.801 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MTRF12 VIRTUAL']}
+21G.804,21G.804,12,21G.803 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MTRF1 VIRTUAL']}
+21G.902,21G.902,12,21G.901 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MTRF12 VIRTUAL']}
+21G.904,21G.904,12,21G.903 or permission of instructor,['Spring'],HH,,{'LectureSession': ['MTRF4 VIRTUAL']}
+21G.911,21G.911,0,,"['Fall', 'IAP', 'Spring']",,,
+21G.S04,21G.S04,0,,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+21G.S05,21G.S05,0,,['Spring'],,,{'LectureSession': ['MTWR2 VIRTUAL']}
+21G.S06,21G.S06,0,,['Spring'],,,{'LectureSession': ['MTRF3 VIRTUAL']}
+21G.THT,21G.THT,6,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+21G.THU,21G.THU,0,21G.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21G.UR,21G.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21G.URG,21G.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21H.102,21H.102,12,,['Spring'],HH,,{'LectureSession': ['TR1.30-3 VIRTUAL']}
+21H.106,21H.106,12,,['Spring'],"HA,HH",,{'LectureSession': ['T2-5 VIRTUAL']}
+21H.108,21H.108,12,,['Spring'],HH,,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['T EVE (7-9 PM) VIRTUAL']}"
+21H.132,21H.132,12,,['Spring'],HH,,"{'LectureSession': ['MW12 VIRTUAL'], 'RecitationSession': ['R12 VIRTUAL']}"
+21H.134,21H.134,12,,['Spring'],HS,,"{'LectureSession': ['M9.30-11 VIRTUAL'], 'RecitationSession': ['W9.30-11 VIRTUAL']}"
+21H.152,21H.152,12,,['Spring'],HH,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+21H.154,21H.154,12,,['Spring'],HH,,{'LectureSession': ['TR12-1.30 VIRTUAL']}
+21H.161,21H.161,12,,['Spring'],HH,,"{'RecitationSession': ['R1 VIRTUAL'], 'LectureSession': ['MW2 VIRTUAL']}"
+21H.165,21H.165,12,,['Spring'],HH,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+21H.170,21H.170,12,,['Spring'],HS,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21H.185,21H.185,12,,['Spring'],HS,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21H.186,21H.186,12,,['Spring'],HH,,{'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}
+21H.187,21H.187,12,,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21H.205,21H.205,12,Permission of instructor,['Spring'],HH,,{'LectureSession': ['W EVE (7-10 PM) VIRTUAL']}
+21H.227,21H.227,12,,['Spring'],HS,,{'LectureSession': ['MW2.30-4 VIRTUAL']}
+21H.228,21H.228,12,,['Spring'],HH,,{'LectureSession': ['R EVE (7-10 PM) VIRTUAL']}
+21H.240,21H.240,12,,['Spring'],HH,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+21H.241,21H.241,12,,['Spring'],HH,,{'LectureSession': ['MW9-10.30 VIRTUAL']}
+21H.245,21H.245,12,,['Spring'],HS,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21H.263,21H.263,12,,['Spring'],HH,,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['W2-4 VIRTUAL']}"
+21H.266,21H.266,12,,['Spring'],HH,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+21H.319,21H.319,12,,"['Fall', 'Spring']",HS,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+21H.330,21H.330,12,,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21H.336,21H.336,12,,['Spring'],HH,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+21H.343,21H.343,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+21H.358,21H.358,12,,['Spring'],HH,,{'LectureSession': ['W11-1 VIRTUAL']}
+21H.388,21H.388,12,,['Spring'],HH,,{'LectureSession': ['W EVE (7-10 PM) VIRTUAL']}
+21H.392,21H.392,0,Permission of instructor,['Spring'],,,
+21H.S01,21H.S01,12,Permission of instructor,['Spring'],,,"{'LectureSession': ['M3-5 VIRTUAL'], 'RecitationSession': ['W4 VIRTUAL']}"
+21H.THT,21H.THT,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21H.THU,21H.THU,0,21H.THT,"['Fall', 'IAP', 'Spring']",,,
+21H.UR,21H.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21H.URG,21H.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21L.000,21L.000,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+21L.001,21L.001,12,,['Spring'],HH,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21L.004,21L.004,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW EVE (7-8.30 PM) VIRTUAL']}
+21L.006,21L.006,12,,['Spring'],HH,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21L.007,21L.007,12,,['Spring'],HH,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+21L.008,21L.008,12,,['Spring'],"HA,HH",,{'LectureSession': ['T2-5 VIRTUAL']}
+21L.011,21L.011,12,,"['Fall', 'Spring']",HA,,"{'RecitationSession': ['R3 VIRTUAL'], 'LectureSession': ['T3.30-5 VIRTUAL'], 'LabSession': ['M EVE (7-10 PM) VIRTUAL']}"
+21L.019,21L.019,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+21L.021,21L.021,12,,['Spring'],HH,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+21L.310,21L.310,6,,"['Fall', 'Spring']",,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21L.320,21L.320,6,,['Spring'],,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21L.355,21L.355,6,,['Spring'],,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21L.431,21L.431,12,,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21L.433,21L.433,12,21L.011 or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR EVE (7-8.30 PM) VIRTUAL']}
+21L.434,21L.434,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+21L.455,21L.455,12,,['Spring'],HH,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+21L.457,21L.457,12,,['Spring'],HH,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+21L.480,21L.480,12,,['Spring'],HH,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+21L.486,21L.486,12,One subject in Literature,['Spring'],HA,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21L.487,21L.487,12,One subject in Literature,['Spring'],HH,,{'LectureSession': ['M EVE (7-10 PM) VIRTUAL']}
+21L.490,21L.490,12,,['Spring'],HH,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+21L.512,21L.512,12,One subject in Literature and permission of instructor,['Spring'],HH,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21L.609,21L.609,6,21L.608 or permission of instructor,['Spring'],,,{'LectureSession': ['TR4 VIRTUAL']}
+21L.610,21L.610,6,21L.609 or (placement exam and permission of instructor),['Spring'],,,{'LectureSession': ['TR4 VIRTUAL']}
+21L.611,21L.611,6,,['Spring'],,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21L.612,21L.612,6,21L.611 or permission of instructor,['Spring'],,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21L.640,21L.640,12,One intermediate subject in Spanish or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+21L.702,21L.702,12,Two subjects in Literature,"['Fall', 'Spring']",HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21L.705,21L.705,12,Two subjects in Literature,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+21L.706,21L.706,12,(21L.011 and one subject in Literature or Comparative Media Studies) or permission of instructor,"['Fall', 'Spring']",HH,,"{'LectureSession': ['MW9.30-11 VIRTUAL'], 'LabSession': ['*TO BE ARRANGED null']}"
+21L.707,21L.707,12,Two subjects in Literature or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21L.900,21L.900,0,Permission of instructor,['Spring'],,,
+21L.901,21L.901,0,Permission of instructor,['Spring'],,,
+21L.THU,21L.THU,0,21L.THT,"['Fall', 'Spring']",,,
+21L.UR,21L.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21L.URG,21L.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21M.011,21M.011,12,,"['Fall', 'Spring']",HA,,"{'RecitationSession': ['MF12.30 VIRTUAL'], 'LectureSession': ['W3.30-5 VIRTUAL']}"
+21M.030,21M.030,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+21M.051,21M.051,12,,"['Fall', 'Spring']",HA,,"{'LabSession': ['F3 VIRTUAL'], 'LectureSession': ['TR3.30-5 VIRTUAL']}"
+21M.065,21M.065,12,Permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR12.30-2 VIRTUAL']}
+21M.080,21M.080,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['MW2-3.30 VIRTUAL']}
+21M.128,21M.128,6,Permission of instructor,['Spring'],,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+21M.129,21M.129,6,Permission of instructor,['Spring'],,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+21M.158,21M.158,6,Permission of instructor,['Spring'],,,{'LectureSession': ['MW12.30-2 VIRTUAL']}
+21M.215,21M.215,12,Permission of instructor,['Spring'],HA,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+21M.226,21M.226,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21M.235,21M.235,12,21M.301 or permission of instructor,['Spring'],HA,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+21M.250,21M.250,12,21M.301 or permission of instructor,['Spring'],HA,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21M.273,21M.273,12,,['Spring'],HA,,{'LectureSession': ['MW12.30-2 VIRTUAL']}
+21M.293,21M.293,12,,['Spring'],HA,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+21M.295,21M.295,12,,['Spring'],HA,,{'LectureSession': ['TR12.30-2 VIRTUAL']}
+21M.299,21M.299,12,21M.030 or permission of instructor,['Spring'],HA,,{'LectureSession': ['TR12.30-2 VIRTUAL']}
+21M.301,21M.301,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': ['MW11-12.30 VIRTUAL'], 'LabSession': ['F4 VIRTUAL']}"
+21M.302,21M.302,12,21M.301 or permission of instructor,"['Fall', 'Spring']",HA,,"{'LectureSession': ['TR9.30-11 VIRTUAL'], 'LabSession': ['F4 VIRTUAL']}"
+21M.303,21M.303,12,21M.302,"['Fall', 'Spring']",HA,,"{'LabSession': ['R4 VIRTUAL'], 'LectureSession': ['MW3.30-5 VIRTUAL']}"
+21M.304,21M.304,12,21M.303,['Spring'],HA,,"{'LabSession': ['F4 VIRTUAL'], 'LectureSession': ['TR12.30-2 VIRTUAL']}"
+21M.340,21M.340,12,"21M.051, 21M.226, or permission of instructor","['Fall', 'Spring']",HA,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+21M.351,21M.351,12,"21M.304, 21M.310, or permission of instructor",['Spring'],HA,,{'LectureSession': ['MW2-3.30 VIRTUAL']}
+21M.359,21M.359,12,21M.051 or permission of instructor,['Spring'],HA,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+21M.361,21M.361,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+21M.362,21M.362,12,21M.361 or permission of instructor,['Spring'],HA,,"{'LectureSession': ['M EVE (7-8.30 PM) VIRTUAL'], 'LabSession': ['W EVE (7.30-9 PM) VIRTUAL']}"
+21M.370,21M.370,12,,['Spring'],HA,,{'LectureSession': ['MW12.30-2 VIRTUAL']}
+21M.385,21M.385,12,(6.009 and 21M.301) or permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+21M.387,21M.387,12,"6.003, 6.01, and 21M.051",['Spring'],HA,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21M.401,21M.401,6,,"['Fall', 'Spring']",,,"{'LabSession': ['MTWRF2-5 4-260'], 'LectureSession': ['MW EVE (7-9 PM) 4-158']}"
+21M.410,21M.410,6,[Participation in ensemble for vocalists],['Spring'],,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+21M.421,21M.421,6,,"['Fall', 'Spring']",,,"{'LabSession': ['MTWRF9-12 4-260'], 'LectureSession': ['TR EVE (7.30-10 PM) KRESGE']}"
+21M.426,21M.426,6,,"['Fall', 'Spring']",,,"{'LabSession': ['MTWRF EVE (7-10 PM) 4-260'], 'LectureSession': ['W EVE (7-9.30 PM) KRESGE']}"
+21M.442,21M.442,6,,"['Fall', 'Spring']",,,"{'LabSession': ['MTWRF2-5 4-260'], 'LectureSession': ['R EVE (5-7.30 PM) 4-364']}"
+21M.445,21M.445,6,,"['Fall', 'Spring']",,,"{'RecitationSession': ['null null'], 'LectureSession': ['M EVE (3-8 PM) 24-033F']}"
+21M.451,21M.451,0,,"['Fall', 'Spring']",,,{'LabSession': ['MTWRF7-11 4-260']}
+21M.460,21M.460,6,,"['Fall', 'Spring']",,,{'LectureSession': ['MR EVE (5-7 PM) KRESGE']}
+21M.470,21M.470,6,,"['Fall', 'Spring']",,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+21M.480,21M.480,9,,"['Fall', 'Spring']",HA,,"{'LabSession': ['MTWRF2-5 4-260'], 'LectureSession': ['W EVE (5-7 PM) 14W-111']}"
+21M.490,21M.490,6,Permission of instructor,['Spring'],,,"{'LabSession': ['F2-5,F EVE (5-8 PM) 14W-111']}"
+21M.500,21M.500,12,Permission of instructor,['Spring'],HA,,{'LectureSession': ['F2-5 VIRTUAL']}
+21M.531,21M.531,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+21M.533,21M.533,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+21M.600,21M.600,9,,"['Fall', 'Spring']",HA,,"{'RecitationSession': ['MTWRF9-12 W97-269'], 'LectureSession': ['TR1-3 VIRTUAL']}"
+21M.601,21M.601,9,,"['Fall', 'Spring']",HA,,{'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}
+21M.605,21M.605,9,,"['Fall', 'Spring']",HA,,"{'LectureSession': ['TR11-1 VIRTUAL'], 'RecitationSession': ['MTWRF2-5 W97-269']}"
+21M.606,21M.606,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR11-1 W97-105']}
+21M.607,21M.607,12,,['Spring'],HA,,{'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}
+21M.608,21M.608,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['W2-5 VIRTUAL']}
+21M.623,21M.623,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': ['TR11-1 VIRTUAL'], 'RecitationSession': ['MTWRF9-12 W97-269']}"
+21M.645,21M.645,12,,"['Fall', 'Spring']",HA,,"{'RecitationSession': ['MTWRF EVE (7-10 PM) W97-269'], 'LectureSession': ['M EVE (7-10 PM) VIRTUAL']}"
+21M.702,21M.702,12,,['Spring'],HA,,"{'LabSession': ['MTWRF9-12 W97-269'], 'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}"
+21M.705,21M.705,12,21M.600 or permission of instructor,['Spring'],HA,,"{'LectureSession': ['MW1-3 VIRTUAL'], 'LabSession': ['MTWRF2-5 W97-269']}"
+21M.710,21M.710,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['M2-5 VIRTUAL']}
+21M.712,21M.712,12,,['Spring'],HA,,"{'RecitationSession': ['MTWRF2-5 W97-269'], 'LectureSession': ['TR3-5 VIRTUAL']}"
+21M.715,21M.715,12,Permission of instructor,"['Fall', 'Spring']",,,"{'RecitationSession': ['MTWRF9-12 W97-269'], 'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}"
+21M.733,21M.733,12,,['Spring'],HA,,{'LectureSession': ['TR EVE (7-9 PM) VIRTUAL']}
+21M.735,21M.735,12,21M.606 or permission of instructor,['Spring'],HA,,{'LectureSession': ['M EVE (7-10 PM) VIRTUAL']}
+21M.790,21M.790,12,21M.600 and (21M.710 or permission of instructor),['Spring'],HA,,"{'LabSession': ['MTWRF9-12 W97-269'], 'LectureSession': ['TR11-1 VIRTUAL']}"
+21M.803,21M.803,3,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['MTWRF EVE (7-10 PM) W97-269']}
+21M.806,21M.806,6,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['MTWRF9-12 W97-269']}
+21M.809,21M.809,9,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['MTWRF9-12 W97-269']}
+21M.840,21M.840,12,,['Spring'],HA,,"{'LabSession': ['MTWRF EVE (7-10 PM) W97-269'], 'LectureSession': ['TR3-5 VIRTUAL']}"
+21M.846,21M.846,12,,['Spring'],HA,,{'LectureSession': ['TR 3-4:30 Virtual']}
+21M.848,21M.848,12,21M.690 and permission of instructor,['Spring'],HA,,{'LectureSession': ['W EVE (7-10 PM) VIRTUAL']}
+21M.851,21M.851,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21M.863,21M.863,12,Permission of instructor,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+21M.864,21M.864,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LectureSession': ['Scheduled Individually Virtual']}
+21M.THT,21M.THT,6,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,{'LabSession': ['MTWRF EVE (7-10 PM) W97-110']}
+21M.THU,21M.THU,0,21M.THT or permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['MTWRF9-12 W97-110']}
+21M.UR,21M.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,{'LabSession': ['MTWRF9-12 W97-110']}
+21M.URG,21M.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21W.011,21W.011,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['TR EVE (7-8.30 PM) VIRTUAL']}
+21W.022,21W.022,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW3-4.30 VIRTUAL']}
+21W.031,21W.031,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['TR12.30-2 VIRTUAL']}
+21W.035,21W.035,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21W.041,21W.041,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+21W.741,21W.741,12,,['Spring'],"HA,HH",,{'LectureSession': ['T2-5 VIRTUAL']}
+21W.747,21W.747,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+21W.755,21W.755,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21W.758,21W.758,12,Permission of instructor,['Spring'],HA,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+21W.762,21W.762,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR EVE (7-8.30 PM) VIRTUAL']}
+21W.770,21W.770,12,Permission of instructor,['Spring'],HA,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21W.771,21W.771,12,Permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': ['MW EVE (7-8.30 PM) VIRTUAL']}
+21W.774,21W.774,12,,['Spring'],HA,,{'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}
+21W.775,21W.775,12,,['Spring'],HH,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21W.776,21W.776,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['W2-5 VIRTUAL']}
+21W.777,21W.777,12,,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+21W.778,21W.778,12,,['Spring'],HH,,{'LectureSession': ['TR3-4.30 VIRTUAL']}
+21W.788,21W.788,12,,['Spring'],HH,,{'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}
+21W.791,21W.791,12,,['Spring'],HH,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+21W.792,21W.792,12,,"['Fall', 'Spring']",,,
+21W.798,21W.798,0,,"['Fall', 'Spring']",,,
+21W.799,21W.799,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21W.THT,21W.THT,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21W.THU,21W.THU,0,21W.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21W.UR,21W.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+21W.URG,21W.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+22.00,22.00,12,"18.03, 3.016B, or permission of instructor",['Spring'],,REST,"{'RecitationSession': ['M4 VIRTUAL'], 'LectureSession': ['TR3-4.30 VIRTUAL']}"
+22.003,22.003,3,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['T EVE (7 PM) VIRTUAL']}
+22.014,22.014,6,,"['Fall', 'Spring']",,,{'LectureSession': ['W EVE (7-9 PM) VIRTUAL']}
+22.02,22.02,12,8.03 or permission of instructor,['Spring'],,REST,"{'RecitationSession': ['F2-4 VIRTUAL'], 'LectureSession': ['MW9-10.30 VIRTUAL']}"
+22.022,22.022,12,"8.04, 22.02, or permission of instructor",['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+22.042,22.042,6,GIR:CAL2 and 6.0001; [6.402],['Spring'],,,{'LectureSession': ['F11 VIRTUAL']}
+22.06,22.06,12,2.005,['Spring'],,,"{'LectureSession': ['TR9.30-11 VIRTUAL'], 'RecitationSession': ['F11 VIRTUAL']}"
+22.061,22.061,12,22.01 or permission of instructor,['Spring'],,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+22.071,22.071,12,18.03,['Spring'],,REST,"{'LectureSession': ['MW3.30-5 VIRTUAL'], 'LabSession': ['F2-5 NW14-1310']}"
+22.09,22.09,15,22.01,['Spring'],,LAB,"{'LectureSession': ['M1 NW14-1112'], 'LabSession': ['MW1-4 NW14-1310']}"
+22.091,22.091,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+22.093,22.093,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+22.099,22.099,0,,"['Fall', 'Spring']",,,
+22.EPE,22.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+22.S092,22.S092,0,,"['Fall', 'Spring']",,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+22.S097,22.S097,0,,['Spring'],,,"{'LectureSession': ['R3-4.30 VIRTUAL'], 'LabSession': ['F3-4.30 VIRTUAL']}"
+22.THU,22.THU,0,22.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+22.UR,22.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+22.URG,22.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+24.013,24.013,12,,['Spring'],HH,,"{'RecitationSession': ['F1 VIRTUAL'], 'LectureSession': ['MW2 VIRTUAL']}"
+24.09,24.09,12,,['Spring'],HH,,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['MW11 VIRTUAL']}"
+24.118,24.118,12,,['Spring'],HH,,"{'RecitationSession': ['F10 VIRTUAL'], 'LectureSession': ['TBD TBD']}"
+24.191,24.191,6,,['Spring'],,,{'LectureSession': ['T EVE (7 PM) VIRTUAL']}
+24.201,24.201,12,One philosophy subject or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+24.211,24.211,12,One philosophy subject,['Spring'],HH,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+24.212,24.212,12,,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+24.215,24.215,12,One philosophy subject,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW2.30-4 VIRTUAL']}
+24.221,24.221,12,One philosophy subject,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW10-11.30 VIRTUAL']}
+24.231,24.231,12,One philosophy subject,['Spring'],HH,,"{'RecitationSession': ['F1 VIRTUAL'], 'LectureSession': ['MW1 VIRTUAL']}"
+24.237,24.237,12,,['Spring'],HH,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+24.241,24.241,12,,['Spring'],HH,,{'LectureSession': ['R10-11.30 VIRTUAL']}
+24.251,24.251,12,One philosophy subject,['Spring'],HH,,{'LectureSession': ['MW11.30-1 VIRTUAL']}
+24.253,24.253,12,One philosophy subject or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+24.293,24.293,0,Any two subjects in philosophy,['Spring'],,,
+24.900,24.900,12,,"['Fall', 'Spring']",HS,,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+24.903,24.903,12,24.900 or 24.9000,['Spring'],HS,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+24.904,24.904,12,"24.900, 24.9000, or permission of instructor",['Spring'],HS,,"{'LectureSession': ['TR11 VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+24.905,24.905,12,,['Spring'],,LAB,"{'LabSession': ['F1-4 VIRTUAL'], 'LectureSession': ['MW1-2.30 VIRTUAL']}"
+24.908,24.908,12,,['Spring'],HS,,{'LectureSession': ['W12-3 VIRTUAL']}
+24.912,24.912,12,,['Spring'],"HA,HH",,{'LectureSession': ['T2-5 VIRTUAL']}
+24.914,24.914,12,24.900 or 24.9000,['Spring'],HS,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+24.918,24.918,12,"(24.901, 24.902, and 24.903) or permission of instructor",['Spring'],HS,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+24.919,24.919,0,,"['Fall', 'Summer', 'Spring']",,,
+24.S00,24.S00,12,,"['Fall', 'Spring']",,,
+24.S20,24.S20,12,One philosophy subject or permission of instructor,"['Fall', 'Spring']",,,
+24.S90,24.S90,12,24.900 or permission of instructor,"['Fall', 'Spring']",,,
+24.UR,24.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+24.URG,24.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+3.001,3.001,3,,['Spring'],,,{'LectureSession': ['T12-2 VIRTUAL']}
+3.006,3.006,3,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['R EVE (7 PM) VIRTUAL']}
+3.020,3.020,12,GIR:CHEM; [18.03 or 18.032],['Spring'],,REST,"{'LabSession': ['T10-12 4-006'], 'RecitationSession': ['T3 VIRTUAL'], 'LectureSession': ['MWF10 VIRTUAL']}"
+3.021,3.021,12,"18.03, 3.016B, or permission of instructor",['Spring'],,REST,"{'RecitationSession': ['F4 VIRTUAL'], 'LectureSession': ['TR3-4.30 VIRTUAL']}"
+3.023,3.023,12,3.010,['Spring'],,,"{'LabSession': ['R3-5 4-119'], 'RecitationSession': ['R1 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+3.029,3.029,9,GIR:CAL2 and 3.019; [3.020],['Spring'],,,"{'RecitationSession': ['W3 VIRTUAL'], 'LectureSession': ['TR2 VIRTUAL']}"
+3.041,3.041,12,3.022 and 3.032,['Spring'],,,"{'LectureSession': ['MWF11 VIRTUAL'], 'LabSession': ['R10-12 VIRTUAL']}"
+3.042,3.042,12,"3.014, 3.032, or 3.044","['Fall', 'Spring']",,,"{'LectureSession': ['R1 VIRTUAL'], 'LabSession': ['TR2-5 4-131B']}"
+3.044,3.044,12,3.012 and 3.022,['Spring'],,,"{'RecitationSession': ['TR11 VIRTUAL'], 'LectureSession': ['MW2.30-4 VIRTUAL']}"
+3.052,3.052,12,3.032 or permission of instructor,['Spring'],,,
+3.053,3.053,12,"GIR:BIOL, (2.370 or 20.110), and (3.016B or 18.03)",['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+3.054,3.054,12,3.032,['Spring'],,,"{'RecitationSession': ['MTWRF9-12 4-141'], 'LectureSession': ['MW1-2.30 VIRTUAL']}"
+3.063,3.063,12,3.012,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+3.071,3.071,12,(3.030 and 3.033) or permission of instructor,['Spring'],,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+3.085,3.085,12,,['Spring'],,,{'LectureSession': ['MW8-9.30 VIRTUAL']}
+3.086,3.086,12,,['Spring'],,,{'LectureSession': ['M3.30-5 VIRTUAL']}
+3.091,3.091,12,,"['Fall', 'Spring']",,CHEM,"{'RecitationSession': ['TR4 13-3101'], 'LectureSession': ['MWF11 VIRTUAL']}"
+3.094,3.094,9,,['Spring'],HS,,"{'LectureSession': ['TR4 VIRTUAL'], 'LabSession': ['W EVE (7-10 PM) VIRTUAL']}"
+3.095,3.095,9,,['Spring'],HA,,"{'LabSession': ['M EVE (7-10 PM) 4-006'], 'LectureSession': ['MW 1-2PM Virtual']}"
+3.100,3.100,6,GIR:CAL2 and 6.0001; [6.402],['Spring'],,,{'LectureSession': ['MWF11 VIRTUAL']}
+3.14,3.14,12,3.030 and 3.032,['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+3.152,3.152,12,3.024,['Spring'],,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+3.155,3.155,12,"GIR:CAL2, GIR:CHEM, GIR:PHY2, or permission of instructor",['Spring'],,,"{'LabSession': ['TRF1-4 12-3101'], 'LectureSession': ['MW2.30-4 VIRTUAL']}"
+3.171,3.171,12,3.012 and 3.014,"['Fall', 'Spring']",,,"{'RecitationSession': ['TR9 VIRTUAL'], 'LectureSession': ['MWF9 VIRTUAL']}"
+3.18,3.18,12,3.030 and 3.033,['Spring'],,,{'LectureSession': ['TR1.30-3 VIRTUAL']}
+3.19,3.19,12,3.022,['Spring'],,,{'LectureSession': ['TR1.30-3 VIRTUAL']}
+3.691,3.691,1,Permission of instructor,"['Fall', 'Spring']",,,
+3.692,3.692,0,Permission of instructor,"['Fall', 'Spring']",,,
+3.930,3.930,6,,"['Fall', 'Summer', 'Spring']",,,
+3.931,3.931,6,3.930,"['Fall', 'Summer', 'Spring']",,,
+3.985,3.985,9,GIR:CHEM or GIR:PHY1,['Spring'],HS,,{'LectureSession': ['M EVE (7-10 PM) VIRTUAL']}
+3.987,3.987,12,,['Spring'],HS,,"{'LectureSession': ['MW3-4.30 VIRTUAL'], 'LabSession': ['F3-4.30 VIRTUAL']}"
+3.990,3.990,9,"3.985, 3.986, and 21A.00","['Fall', 'Spring']",,,
+3.993,3.993,9,,['Spring'],HS,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+3.EPE,3.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+3.S04,3.S04,0,Permission of instructor,['Spring'],,,{'LectureSession': ['MW12.30-2 VIRTUAL']}
+3.S05,3.S05,0,Permission of instructor,['Spring'],,,{'LectureSession': ['T3-5 VIRTUAL']}
+3.S06,3.S06,0,Permission of instructor,"['Fall', 'Spring']",,,
+3.THU,3.THU,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+3.UR,3.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+3.URG,3.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+4.021,4.021,12,,"['Fall', 'Spring']",HA,,"{'RecitationSession': ['MTWRF2-5 3-410'], 'LectureSession': ['MW2-5 5-414']}"
+4.022,4.022,12,4.02A or 4.021,"['Fall', 'Spring']",,,"{'RecitationSession': ['MTWRF EVE (7-10 PM) N51-160'], 'LectureSession': ['MW2-5 5-414']}"
+4.024,4.024,24,"4.023, 4.401, and 4.500",['Spring'],,,"{'RecitationSession': ['MTWRF EVE (7-10 PM) N51-160'], 'LectureSession': ['TRF1-5 5-414']}"
+4.032,4.032,12,4.022,['Spring'],,,{'LectureSession': ['WF9.30-11 VIRTUAL']}
+4.041,4.041,12,4.031 or permission of instructor,['Spring'],,,{'LectureSession': ['TR2-5 VIRTUAL']}
+4.043,4.043,12,4.031 or permission of instructor,['Spring'],,,"{'LectureSession': ['F2-5 VIRTUAL'], 'LabSession': ['MTWRF2-5 4-013'], 'RecitationSession': ['MTWRF2-5 N52-337']}"
+4.090,4.090,0,Permission of instructor,"['IAP', 'Summer', 'Spring']",,,
+4.091,4.091,0,,"['Fall', 'IAP', 'Spring']",,,
+4.092,4.092,0,,"['Fall', 'IAP', 'Spring']",,,
+4.110,4.110,12,,['Spring'],HA,,"{'LectureSession': ['M10-12 VIRTUAL'], 'LabSession': ['M EVE (7-9 PM) VIRTUAL']}"
+4.118,4.118,12,4.500 or permission of instructor,['Spring'],,,{'LectureSession': ['W2-5 VIRTUAL']}
+4.191,4.191,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.192,4.192,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.250,4.250,12,,['Spring'],HH,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+4.291,4.291,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.292,4.292,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.301,4.301,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': ['TR2-5 E15-283A'], 'RecitationSession': ['R9-12 E15-283A']}"
+4.302,4.302,12,4.02A or 4.021,['Spring'],,,"{'RecitationSession': ['M2-5 E15-283A'], 'LectureSession': ['TR9-12 E15-283A']}"
+4.314,4.314,12,"4.301, 4.302, or permission of instructor","['Fall', 'Spring']",HA,,"{'LectureSession': ['TR9.30-12.30 VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+4.320,4.320,12,,['Spring'],HA,,{'LectureSession': ['MW9-12 VIRTUAL']}
+4.341,4.341,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR2-5 E15-054']}
+4.344,4.344,12,4.341 or permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': ['T9.30-12.30 E15-054']}
+4.354,4.354,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': ['MW9.30-12.30 E15-001'], 'RecitationSession': ['W EVE (7-10 PM) E15-054']}"
+4.356,4.356,12,"4.301, 4.302, 4.354, or permission of instructor",['Spring'],HA,,{'LectureSession': ['TW EVE (7-10 PM) VIRTUAL']}
+4.368,4.368,12,4.301 or 4.302,['Spring'],HA,,{'LectureSession': ['MW9.30-12.30 VIRTUAL']}
+4.373,4.373,12,"4.301, 4.302, or permission of instructor",['Spring'],HA,,{'LectureSession': ['TR9.30-12.30 VIRTUAL']}
+4.391,4.391,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.392,4.392,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.440,4.440,12,GIR:CAL2,['Spring'],,REST,"{'LabSession': ['F9.30-11.30 VIRTUAL'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+4.491,4.491,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.492,4.492,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.507,4.507,12,,['Spring'],,,{'LectureSession': ['R9-12 VIRTUAL']}
+4.520,4.520,12,,['Spring'],,,{'LectureSession': ['T9.30-12.30 VIRTUAL']}
+4.591,4.591,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.592,4.592,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.602,4.602,12,,['Spring'],HA,,"{'LectureSession': ['MW9.30-11 VIRTUAL'], 'RecitationSession': ['W12 VIRTUAL']}"
+4.605,4.605,12,,['Spring'],HA,,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+4.609,4.609,12,Permission of instructor,['Spring'],HA,,{'LectureSession': ['F2-5 VIRTUAL']}
+4.657,4.657,12,,['Spring'],HA,,"{'RecitationSession': ['W9 VIRTUAL'], 'LectureSession': ['TR2-3.30 VIRTUAL']}"
+4.691,4.691,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.692,4.692,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+4.THU,4.THU,0,4.119 or 11.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,"{'LabSession': ['MTWRF EVE (7-10 PM) N51-160'], 'LectureSession': ['*TO BE ARRANGED null']}"
+4.UR,4.UR,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+4.URG,4.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.002,5.002,3,,['Spring'],,,"{'RecitationSession': ['R2.30 VIRTUAL'], 'LectureSession': ['TR1 VIRTUAL']}"
+5.003,5.003,3,,['Spring'],,,"{'RecitationSession': ['R2.30 VIRTUAL'], 'LectureSession': ['TR1 VIRTUAL']}"
+5.03,5.03,12,5.12,['Spring'],,,"{'LectureSession': ['TR11-12.30 VIRTUAL'], 'RecitationSession': ['MW9 VIRTUAL']}"
+5.08,5.08,12,"(GIR:BIOL, 5.13, and (5.07 or 7.05)) or permission of instructor",['Spring'],,,"{'LectureSession': ['MW11-12.30 VIRTUAL'], 'RecitationSession': ['F9 VIRTUAL']}"
+5.111,5.111,12,,"['Fall', 'Spring']",,CHEM,"{'RecitationSession': ['TR1 VIRTUAL'], 'LectureSession': ['MWF12 VIRTUAL']}"
+5.12,5.12,12,GIR:CHEM,"['Fall', 'Spring']",,REST,"{'RecitationSession': ['TR12 VIRTUAL'], 'LectureSession': ['MWF12 VIRTUAL']}"
+5.24,5.24,9,GIR:CHEM or GIR:PHY1,['Spring'],HS,,{'LectureSession': ['M EVE (7-10 PM) VIRTUAL']}
+5.310,5.310,12,[5.12],"['Fall', 'Spring']",,LAB,"{'LabSession': ['TR1-5 12-5170B'], 'LectureSession': ['TR12 VIRTUAL']}"
+5.351,5.351,4,GIR:CHEM,['Spring'],,LAB2,"{'LabSession': ['MW1-5 12-5170B'], 'LectureSession': ['TR9 VIRTUAL']}"
+5.352,5.352,5,[5.351],"['Fall', 'Spring']",,LAB2,"{'LabSession': ['MW1-5 12-5170B'], 'LectureSession': ['TR9 VIRTUAL']}"
+5.353,5.353,4,[5.12 and 5.352],['Spring'],,LAB2,"{'LabSession': ['MW1-5 12-5170B'], 'LectureSession': ['TR9 VIRTUAL']}"
+5.361,5.361,4,(5.07 or 7.05) and (5.310 or 5.352),"['Fall', 'Spring']",,,"{'LabSession': ['MW1-5 12-5170B'], 'LectureSession': ['TR10 VIRTUAL']}"
+5.362,5.362,5,(5.07 or 7.05) and (5.310 or 5.352); [5.361],"['Fall', 'Spring']",,,"{'LectureSession': ['TR10 VIRTUAL'], 'LabSession': ['MW1-5 12-5170B']}"
+5.371,5.371,4,5.13 and 5.363,['Spring'],,,"{'LabSession': ['TR1-5 12-5170B'], 'LectureSession': ['TR10 VIRTUAL']}"
+5.381,5.381,4,5.353 and 5.61,['Spring'],,,"{'LabSession': ['TR1-5 12-5170B'], 'LectureSession': ['TR11 VIRTUAL']}"
+5.382,5.382,5,5.611 and (5.07 or 7.05); [5.361],['Spring'],,,"{'LabSession': ['TR1-5 12-5170B'], 'LectureSession': ['TR11 VIRTUAL']}"
+5.383,5.383,4,5.363 and (5.07 or 7.05),['Spring'],,,"{'LabSession': ['MW1-5 12-5170B'], 'LectureSession': ['TR11 VIRTUAL']}"
+5.39,5.39,20,An approved research experience and permission of instructor,['Spring'],,,"{'LabSession': ['*TO BE ARRANGED Virtual'], 'LectureSession': ['F1-3 VIRTUAL']}"
+5.60,5.60,12,GIR:CAL2 and GIR:CHEM,"['Fall', 'Spring']",,REST,"{'LectureSession': ['MWF11 VIRTUAL'], 'RecitationSession': ['TR9 VIRTUAL']}"
+5.601,5.601,6,GIR:CAL2 and GIR:CHEM,"['Fall', 'Spring']",,RST2,"{'RecitationSession': ['MW1 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+5.602,5.602,6,5.601,"['Fall', 'Spring']",,RST2,"{'RecitationSession': ['MW1 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+5.62,5.62,12,5.60 and 5.61,['Spring'],,,"{'RecitationSession': ['F4 VIRTUAL'], 'LectureSession': ['MW11.30-1 VIRTUAL']}"
+5.891,5.891,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.892,5.892,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.S310,5.S310,12,[5.12],['Spring'],,LAB,"{'LabSession': ['MW1-5 VIRTUAL'], 'LectureSession': ['TR12 VIRTUAL']}"
+5.THU,5.THU,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.UR,5.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+5.URG,5.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+6.0001,6.0001,6,,"['Fall', 'Spring']",,RST2,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['MW3-4.30 VIRTUAL']}"
+6.0002,6.0002,6,6.0001 or permission of instructor,"['Fall', 'Spring']",,RST2,"{'RecitationSession': ['F12 VIRTUAL'], 'LectureSession': ['MW3-4.30 VIRTUAL']}"
+6.002,6.002,12,GIR:PHY2; [2.087 or 18.03],"['Fall', 'Spring']",,REST,"{'RecitationSession': ['W12 VIRTUAL'], 'LabSession': ['MWF9-12 38-530'], 'LectureSession': ['TR11 VIRTUAL']}"
+6.003,6.003,12,GIR:CAL1 and 6.0001,"['Fall', 'Spring']",,REST,"{'LabSession': ['TR3-5 VIRTUAL'], 'LectureSession': ['TR2 VIRTUAL']}"
+6.004,6.004,12,GIR:PHY2 and 6.0001,"['Fall', 'Spring']",,REST,"{'RecitationSession': ['WF2 VIRTUAL'], 'LectureSession': ['TR1 VIRTUAL']}"
+6.006,6.006,12,6.042 and (6.0001 or [6.009]),"['Fall', 'Spring']",,,"{'RecitationSession': ['WF9 VIRTUAL'], 'LectureSession': ['TR11 VIRTUAL']}"
+6.009,6.009,12,6.0001,"['Fall', 'Spring']",,LAB,"{'RecitationSession': ['W2 VIRTUAL'], 'LabSession': ['F9-11 VIRTUAL'], 'LectureSession': ['M11-12.30 VIRTUAL']}"
+6.011,6.011,12,"6.003 and (6.008, 6.041, or 18.600)",['Spring'],,,"{'LectureSession': ['MW3 VIRTUAL'], 'RecitationSession': ['TR2 VIRTUAL']}"
+6.012,6.012,12,6.002,"['Fall', 'Spring']",,,"{'LectureSession': ['TR11 VIRTUAL'], 'RecitationSession': ['WF1 VIRTUAL']}"
+6.013,6.013,12,GIR:CAL2 and GIR:PHY2,['Spring'],,,"{'LabSession': ['T10 VIRTUAL'], 'RecitationSession': ['R11 VIRTUAL'], 'LectureSession': ['MW1 VIRTUAL']}"
+6.022,6.022,12,"GIR:PHY2, 18.03, or permission of instructor",['Spring'],,,"{'RecitationSession': ['F1 VIRTUAL'], 'LectureSession': ['TR9.30-11 VIRTUAL']}"
+6.023,6.023,12,"GIR:BIOL, GIR:PHY2, and 18.03",['Spring'],,,"{'RecitationSession': ['T10 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+6.024,6.024,12,"GIR:BIOL, (2.370 or 20.110), and (3.016B or 18.03)",['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+6.027,6.027,12,"GIR:BIOL, 18.03, or permission of instructor",['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+6.03,6.03,12,GIR:CAL2 and GIR:PHY2,['Spring'],,LAB,"{'LabSession': ['F9-12 VIRTUAL'], 'LectureSession': ['MW2 VIRTUAL']}"
+6.031,6.031,15,6.009,"['Fall', 'Spring']",,,{'LectureSession': ['MWF11-12.30 VIRTUAL']}
+6.033,6.033,12,6.004 and 6.009,['Spring'],,,"{'LabSession': ['F1 VIRTUAL'], 'RecitationSession': ['TR10 VIRTUAL'], 'LectureSession': ['MW2 VIRTUAL']}"
+6.035,6.035,12,6.004 and 6.031,['Spring'],,,"{'LectureSession': ['MWF11 VIRTUAL'], 'RecitationSession': ['TR11 VIRTUAL']}"
+6.036,6.036,12,GIR:CAL2 and (6.0001 or 6.01),"['Fall', 'Spring']",,,"{'RecitationSession': ['R9.30-11 VIRTUAL'], 'LectureSession': ['T9.30-11 VIRTUAL']}"
+6.041,6.041,12,GIR:CAL2,"['Fall', 'Spring']",,REST,"{'RecitationSession': ['TR1 VIRTUAL'], 'LectureSession': ['MW12 VIRTUAL']}"
+6.042,6.042,12,GIR:CAL1,"['Fall', 'Spring']",,REST,"{'RecitationSession': ['WF2 VIRTUAL'], 'LectureSession': ['TR2.30-4 VIRTUAL']}"
+6.045,6.045,12,6.042,['Spring'],,,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['TR2.30-4 VIRTUAL']}"
+6.046,6.046,12,6.006,"['Fall', 'Spring']",,,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+6.049,6.049,12,(6.0001 and 7.03) or permission of instructor,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+6.070,6.070,6,,"['Fall', 'Spring']",,,"{'LabSession': ['MTWRF2-5 4-409'], 'LectureSession': ['M EVE (7-10 PM) 4-409']}"
+6.073,6.073,12,"6.01, CMS.301, or CMS.608",['Spring'],HA,,"{'LectureSession': ['T2-5 VIRTUAL'], 'LabSession': ['R2-5 VIRTUAL']}"
+6.08,6.08,12,6.0001; [GIR:PHY2],['Spring'],,LAB,"{'LabSession': ['TR12-2.30 38-530'], 'LectureSession': ['M1 VIRTUAL']}"
+6.100,6.100,0,,"['Fall', 'Summer', 'Spring']",,,
+6.101,6.101,12,6.002,['Spring'],,LAB,"{'LectureSession': ['TR2.30-4 VIRTUAL'], 'LabSession': ['MTWRF2-5 38-601']}"
+6.115,6.115,12,"6.002, 6.003, or 6.004",['Spring'],,LAB,"{'LectureSession': ['TR1 VIRTUAL'], 'RecitationSession': ['W3 VIRTUAL']}"
+6.1151,6.1151,15,"6.002, 6.003, or 6.004",['Spring'],,,"{'RecitationSession': ['W3 VIRTUAL'], 'LectureSession': ['TR1 VIRTUAL']}"
+6.129,6.129,12,GIR:BIOL and GIR:CAL2,['Spring'],,LAB,"{'LabSession': ['MW12-2,MW3-5 26-033'], 'LectureSession': ['MW2 VIRTUAL']}"
+6.141,6.141,12,"((1.00 or 6.0001) and (2.003, 6.006, 6.009, or 16.06)) or permission of instructor",['Spring'],,LAB,"{'LectureSession': ['MWF1 VIRTUAL'], 'RecitationSession': ['MW3-5 VIRTUAL'], 'LabSession': ['MW8-11 (MEETS 3/9 TO 5/14) W34-TRACK']}"
+6.152,6.152,12,"GIR:CAL2, GIR:CHEM, GIR:PHY2, or permission of instructor",['Spring'],,,"{'LabSession': ['TRF1-4 12-3101'], 'LectureSession': ['MW2.30-4 VIRTUAL']}"
+6.163,6.163,12,GIR:PHY2 or permission of instructor,"['Fall', 'Spring']",,LAB,"{'LectureSession': ['MW12 VIRTUAL'], 'LabSession': ['MTWRF2-5 4-410']}"
+6.207,6.207,12,6.041 or 14.30,['Spring'],HS,,"{'RecitationSession': ['F2 VIRTUAL'], 'LectureSession': ['MW1-2.30 VIRTUAL']}"
+6.302,6.302,12,GIR:PHY2 and (2.087 or 18.03),['Spring'],,,"{'LabSession': ['F10-1 VIRTUAL'], 'RecitationSession': ['R11 VIRTUAL'], 'LectureSession': ['T11 VIRTUAL']}"
+6.401,6.401,12,"6.0001 and (6.008, 6.041, or 18.600)",['Spring'],,,{'LectureSession': ['MW2.30-4 VIRTUAL']}
+6.402,6.402,6,"GIR:CAL2 and 6.0001; [1.024, 2.161, 3.100, or 22.042]",['Spring'],,,{'LectureSession': ['MWF11 VIRTUAL']}
+6.419,6.419,12,"((2.087, 6.0002, 6.01, 18.03, or 18.06) and (6.008, 6.041, 14.30, 16.09, or 18.05)) or permission of instructor",['Spring'],,,"{'RecitationSession': ['R EVE (7 PM) VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+6.802,6.802,12,(7.05 and (6.0002 or 6.01)) or permission of instructor,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+6.806,6.806,12,6.046 or permission of instructor,['Spring'],,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+6.808,6.808,12,6.033 or permission of instructor,['Spring'],,,"{'LabSession': ['TR3-5 E14-474B'], 'LectureSession': ['MW3-4.30 VIRTUAL']}"
+6.809,6.809,12,(6.009 and 21M.301) or permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+6.812,6.812,12,6.003 or 6.004,['Spring'],,,"{'LabSession': ['*TO BE ARRANGED null'], 'LectureSession': ['MW1-2.30 VIRTUAL'], 'RecitationSession': ['F11 VIRTUAL']}"
+6.814,6.814,12,(6.033 and (6.006 or 6.046)) or permission of instructor,['Spring'],,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+6.819,6.819,12,18.06 and (6.041B or 6.042),['Spring'],,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+6.902,6.902,6,,"['Fall', 'Spring']",,,{'LectureSession': ['M EVE (7-9 PM) VIRTUAL']}
+6.9021,6.9021,3,,['Spring'],,,{'LectureSession': ['M EVE (7-9 PM) VIRTUAL']}
+6.904,6.904,6,,"['Fall', 'Spring']",,,{'LectureSession': ['T EVE (7-9 PM) VIRTUAL']}
+6.9041,6.9041,12,,"['Fall', 'Spring']",,,{'LectureSession': ['W EVE (7-9 PM) VIRTUAL']}
+6.905,6.905,12,6.034 or permission of instructor,['Spring'],,,{'LectureSession': ['MWF2 VIRTUAL']}
+6.910,6.910,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+6.911,6.911,3,[6.912]; or permission of instructor,"['Fall', 'Spring']",,,{'LabSession': ['F3-5 13-1000LA']}
+6.912,6.912,3,[6.911]; or permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['T1-2.30 VIRTUAL']}
+6.913,6.913,6,"6.902, 6.911, 6.912, or permission of instructor","['Fall', 'Spring']",,,{'LabSession': ['F9-11 13-1000LA']}
+6.920,6.920,1,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+6.921,6.921,12,,"['Fall', 'Summer', 'Spring']",,,
+6.922,6.922,12,6.921,"['Fall', 'Summer', 'Spring']",,,
+6.EPE,6.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+6.S00,6.S00,0,,"['Fall', 'Spring']",,,"{'RecitationSession': ['*TO BE ARRANGED null'], 'LectureSession': ['MW3-4.30 VIRTUAL']}"
+6.S062,6.S062,0,,"['Fall', 'Spring']",,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+6.S063,6.S063,0,,"['Fall', 'Spring']",,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+6.S078,6.S078,0,Permission of instructor,"['Fall', 'Spring']",,,"{'LectureSession': ['TR11 VIRTUAL'], 'LabSession': ['MWF9-12 38-530'], 'RecitationSession': ['W1 VIRTUAL']}"
+6.S080,6.S080,0,Permission of instructor,"['Fall', 'Spring']",,,"{'LectureSession': ['TR9.30-11 VIRTUAL'], 'RecitationSession': ['F9.30-11 VIRTUAL']}"
+6.S082,6.S082,0,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['MW3-4.30 VIRTUAL']}
+6.S083,6.S083,0,Permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+6.S099,6.S099,0,Permission of instructor,"['Fall', 'Spring']",,,
+6.S911,6.S911,0,Permission of instructor,['Spring'],,,{'LectureSession': ['MWF11-12.30 VIRTUAL']}
+6.UAP,6.UAP,6,6.UAT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+6.UAR,6.UAR,6,6.UR and permission of instructor,"['Fall', 'Spring']",,,{'LectureSession': ['R4 VIRTUAL']}
+6.UAT,6.UAT,9,,"['Fall', 'Spring']",,,"{'LectureSession': ['MW10 VIRTUAL'], 'LabSession': ['F10 32-123']}"
+6.UR,6.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+7.002,7.002,6,,"['Fall', 'Spring']",,LAB2,"{'LectureSession': ['T9.30-11 VIRTUAL'], 'LabSession': ['M1-4.30 68-074']}"
+7.003,7.003,12,7.002,"['Fall', 'Spring']",,LAB2,"{'LabSession': ['T2-5,R1-5 68-074'], 'RecitationSession': ['T11-12.30 VIRTUAL'], 'LectureSession': ['T1 VIRTUAL']}"
+7.014,7.014,12,,['Spring'],,BIOL,"{'RecitationSession': ['TR1 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+7.016,7.016,12,,['Spring'],,BIOL,"{'RecitationSession': ['TR1 VIRTUAL'], 'LectureSession': ['MWF10 VIRTUAL']}"
+7.03,7.03,12,GIR:BIOL,"['Fall', 'Spring']",,REST,"{'RecitationSession': ['T11 VIRTUAL'], 'LectureSession': ['MWF11 VIRTUAL']}"
+7.05,7.05,12,"GIR:BIOL, 5.12, or permission of instructor",['Spring'],,REST,"{'RecitationSession': ['T10 VIRTUAL'], 'LectureSession': ['MWF9.30-11 VIRTUAL']}"
+7.06,7.06,12,7.03 and 7.05,"['Fall', 'Spring']",,,"{'RecitationSession': ['F1 VIRTUAL'], 'LectureSession': ['TR9.30-11 VIRTUAL']}"
+7.08,7.08,12,"(GIR:BIOL, 5.13, and (5.07 or 7.05)) or permission of instructor",['Spring'],,,"{'RecitationSession': ['F3 VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+7.093,7.093,6,7.03 and 7.05,['Spring'],,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+7.094,7.094,6,7.03 and 7.05,['Spring'],,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+7.11,7.11,0,,"['Fall', 'Spring']",,,
+7.19,7.19,12,"(7.06 and (5.362, 7.003, or 20.109)) or permission of instructor","['Fall', 'Spring']",,,{'LectureSession': ['TR2.30-4.30 VIRTUAL']}
+7.23,7.23,12,7.06,['Spring'],,,"{'RecitationSession': ['W EVE (7 PM) VIRTUAL'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+7.27,7.27,12,7.06,['Spring'],,,"{'RecitationSession': ['R4 VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+7.28,7.28,12,7.03; [7.05],['Spring'],,,"{'RecitationSession': ['W12 VIRTUAL'], 'LectureSession': ['TR11-1 VIRTUAL']}"
+7.29,7.29,12,7.05 or 9.01,['Spring'],,,"{'LectureSession': ['MW10-11.30 VIRTUAL'], 'RecitationSession': ['F12 VIRTUAL']}"
+7.33,7.33,12,(6.0001 and 7.03) or permission of instructor,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+7.340,7.340,6,7.06 or 7.28,"['Fall', 'Spring']",,,
+7.341,7.341,6,7.06 or 7.28,"['Fall', 'Spring']",,,{'LectureSession': ['T10-12 VIRTUAL']}
+7.342,7.342,6,7.06 or 7.28,"['Fall', 'Spring']",,,{'LectureSession': ['W10-12 VIRTUAL']}
+7.343,7.343,6,7.06 or 7.28,"['Fall', 'Spring']",,,{'LectureSession': ['T12-2 VIRTUAL']}
+7.344,7.344,6,7.06 or 7.28,"['Fall', 'Spring']",,,{'LectureSession': ['W2-4 VIRTUAL']}
+7.345,7.345,6,7.06 or 7.28,"['Fall', 'Spring']",,,{'LectureSession': ['R11-1 VIRTUAL']}
+7.346,7.346,6,7.06 or 7.28,"['Fall', 'Spring']",,,{'LectureSession': ['R1-3 VIRTUAL']}
+7.347,7.347,6,7.06 or 7.28,"['Fall', 'Spring']",,,
+7.348,7.348,6,7.06 or 7.28,"['Fall', 'Spring']",,,
+7.349,7.349,6,7.06 or 7.28,"['Fall', 'Spring']",,,
+7.391,7.391,0,,"['Fall', 'Summer', 'Spring']",,,
+7.392,7.392,0,,"['Fall', 'IAP', 'Spring']",,,
+7.393,7.393,0,,"['Fall', 'Spring']",,,
+7.394,7.394,0,,"['Fall', 'Spring']",,,
+7.395,7.395,0,,"['Fall', 'Spring']",,,
+7.396,7.396,0,,"['Fall', 'IAP', 'Spring']",,,
+7.458,7.458,3,,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+7.49,7.49,12,"7.03, 7.05, 9.01, or permission of instructor",['Spring'],,,{'LectureSession': ['TR10-11.30 VIRTUAL']}
+7.S391,7.S391,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+7.THU,7.THU,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+7.UR,7.UR,0,Permission of department,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+7.URG,7.URG,0,Permission of department,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+8.011,8.011,12,,['Spring'],,PHY1,"{'LabSession': ['F10 VIRTUAL'], 'LectureSession': ['MW12-2 VIRTUAL']}"
+8.02,8.02,12,GIR:CAL1 and GIR:PHY1,"['Fall', 'Spring']",,PHY2,{'LectureSession': ['TRF10 VIRTUAL']}
+8.022,8.022,12,GIR:PHY1; [GIR:CAL2],"['Fall', 'Spring']",,PHY2,"{'RecitationSession': ['TR11 VIRTUAL'], 'LectureSession': ['MW2.30-4 VIRTUAL']}"
+8.03,8.03,12,GIR:CAL2 and GIR:PHY2,"['Fall', 'Spring']",,REST,"{'LectureSession': ['TR1.30-3 VIRTUAL'], 'RecitationSession': ['MW2 VIRTUAL']}"
+8.04,8.04,12,8.03 and (18.03 or 18.032),['Spring'],,REST,"{'LectureSession': ['MW9.30-11 VIRTUAL'], 'RecitationSession': ['TR12 VIRTUAL']}"
+8.044,8.044,12,8.03 and 18.03,['Spring'],,,"{'RecitationSession': ['MW12 VIRTUAL'], 'LectureSession': ['TR11-12.30 VIRTUAL']}"
+8.051,8.051,12,8.04 and permission of instructor,['Spring'],,,{'LectureSession': ['MW10 VIRTUAL']}
+8.06,8.06,12,8.05,['Spring'],,,"{'RecitationSession': ['MW11 VIRTUAL'], 'LectureSession': ['TR9.30-11 VIRTUAL']}"
+8.08,8.08,12,8.044 and 8.05,['Spring'],,,"{'LectureSession': ['WF1-2.30 VIRTUAL'], 'RecitationSession': ['M1 VIRTUAL']}"
+8.13,8.13,18,8.04,"['Fall', 'Spring']",,LAB,{'LabSession': ['TR9-12 VIRTUAL']}
+8.14,8.14,18,8.05 and 8.13,"['Fall', 'Spring']",,,"{'RecitationSession': ['MTWRF9-12 4-358'], 'LabSession': ['MW2-5 VIRTUAL']}"
+8.18,8.18,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+8.19,8.19,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+8.21,8.21,12,"GIR:CAL2, GIR:CHEM, and GIR:PHY2",['Spring'],,REST,"{'RecitationSession': ['TR3 VIRTUAL'], 'LectureSession': ['MW2.30-4 VIRTUAL']}"
+8.241,8.241,12,GIR:PHY2 and (5.60 or 8.044),['Spring'],,,"{'RecitationSession': ['T4 VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+8.245,8.245,3,,['Spring'],,,"{'LectureSession': ['TR1 VIRTUAL'], 'RecitationSession': ['R2.30 VIRTUAL']}"
+8.251,8.251,12,"8.033, 8.044, and 8.05",['Spring'],,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+8.282,8.282,9,GIR:PHY1,['Spring'],,REST,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+8.284,8.284,12,8.04; [8.05],['Spring'],,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+8.295,8.295,1,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+8.298,8.298,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+8.299,8.299,0,,"['Fall', 'Spring']",,,
+8.EPE,8.EPE,1,2.EPW or permission of instructor,"['Fall', 'Spring']",,,
+8.S227,8.S227,12,,['Spring'],,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+8.THU,8.THU,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+8.UR,8.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+9.00,9.00,12,,['Spring'],HS,,"{'RecitationSession': ['R EVE (7 PM) VIRTUAL'], 'LectureSession': ['TR2-3.30 VIRTUAL']}"
+9.09,9.09,12,7.05 or 9.01,['Spring'],,,"{'LectureSession': ['MW10-11.30 VIRTUAL'], 'RecitationSession': ['F12 VIRTUAL']}"
+9.12,9.12,12,GIR:BIOL and 9.01,['Spring'],,LAB,"{'LectureSession': ['T3-5 VIRTUAL'], 'LabSession': ['R9-1 VIRTUAL']}"
+9.13,9.13,12,"9.00, 9.01, or permission of instructor",['Spring'],,,{'LectureSession': ['MW11-12.30 VIRTUAL']}
+9.18,9.18,12,"7.03, 7.05, 9.01, or permission of instructor",['Spring'],,,{'LectureSession': ['TR10-11.30 VIRTUAL']}
+9.24,9.24,12,(7.29 and 9.01) or permission of instructor,['Spring'],,,{'LectureSession': ['F1-4 VIRTUAL']}
+9.26,9.26,12,GIR:BIOL,['Spring'],,,{'LectureSession': ['F10-1 VIRTUAL']}
+9.28,9.28,9,[9.18],['Spring'],,,{'LectureSession': ['TR10-11.30 VIRTUAL']}
+9.32,9.32,12,"7.29, 9.16, 9.18, or permission of instructor",['Spring'],,,{'LectureSession': ['MW2.30-4 VIRTUAL']}
+9.35,9.35,12,9.01 or permission of instructor,['Spring'],,,"{'RecitationSession': ['F11 VIRTUAL'], 'LectureSession': ['TR2.30-4 VIRTUAL']}"
+9.40,9.40,12,"(GIR:PHY2, 6.0002, and 9.01) or permission of instructor",['Spring'],,,"{'LectureSession': ['TR10.30-12 VIRTUAL'], 'RecitationSession': ['W4 VIRTUAL']}"
+9.50,9.50,12,9.00 and permission of instructor,"['Fall', 'Spring']",,,
+9.53,9.53,12,9.40 or permission of instructor,['Spring'],,,{'LectureSession': ['MW3.30-5 VIRTUAL']}
+9.55,9.55,9,,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+9.59,9.59,12,,['Spring'],,LAB,"{'LectureSession': ['MW1-2.30 VIRTUAL'], 'LabSession': ['F1-4 VIRTUAL']}"
+9.60,9.60,12,,['Spring'],,LAB,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+9.89,9.89,0,,"['Fall', 'IAP', 'Spring']",,,
+9.91,9.91,0,"9.00, two additional subjects in Brain and Cognitive Sciences, and permission of instructor","['Fall', 'IAP', 'Spring']",,,
+9.S52,9.S52,0,9.00 and any other two subjects in Brain and Cognitive Sciences,['Spring'],,,{'LectureSession': ['TR 10:30-12p virtual']}
+9.S92,9.S92,0,9.00,"['Fall', 'IAP', 'Spring']",,,
+9.S99,9.S99,0,,['Spring'],,,
+9.UR,9.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+9.URG,9.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+AS.102,AS.102,2,AS.101 or permission of instructor; [AS.112],['Spring'],,,{'LectureSession': ['T2 VIRTUAL']}
+AS.112,AS.112,4,AS.111 or permission of instructor; [AS.102],['Spring'],,,{'LectureSession': ['R2-4 W31-140']}
+AS.202,AS.202,2,AS.201 or permission of instructor; [AS.212],['Spring'],,,{'LectureSession': ['W9 VIRTUAL']}
+AS.212,AS.212,4,AS.211 or permission of instructor; [AS.202],['Spring'],,,{'LectureSession': ['R2-4 W31-140']}
+AS.302,AS.302,6,AS.301 or permission of instructor; [AS.312],['Spring'],,,{'LectureSession': ['T8-11 VIRTUAL']}
+AS.312,AS.312,6,AS.311 or permission of instructor; [AS.302],['Spring'],,,{'LectureSession': ['R2-4 W31-140']}
+AS.402,AS.402,6,AS.401 or permission of instructor; [AS.412],['Spring'],,,{'LectureSession': ['TR8-11 VIRTUAL']}
+AS.412,AS.412,6,AS.411 or permission of instructor; [AS.402],['Spring'],,,{'LectureSession': ['R2-4 W31-140']}
+AS.812,AS.812,6,Permission of instructor,['Spring'],,,{'LectureSession': ['R2-4 W31-140']}
+CC.011,CC.011,3,,['Spring'],,,{'LectureSession': ['F12-2 VIRTUAL']}
+CC.012,CC.012,3,,"['Fall', 'Spring']",,,{'LectureSession': ['F3-5 VIRTUAL']}
+CC.111,CC.111,12,,['Spring'],HH,,"{'RecitationSession': ['T3-5 16-160'], 'LectureSession': ['R3-5 VIRTUAL']}"
+CC.120,CC.120,12,,"['Fall', 'Spring']",HA,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+CC.1803,CC.1803,12,"[GIR:CAL2 and (CC.010, CC.011, or CC.A10)]",['Spring'],,REST,"{'LectureSession': ['MW11-12.30 VIRTUAL'], 'RecitationSession': ['TR11 VIRTUAL']}"
+CC.200,CC.200,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+CC.210,CC.210,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+CC.220,CC.220,0,,"['Fall', 'Spring']",,,
+CC.512,CC.512,12,"GIR:CHEM; [CC.010, CC.011, or CC.A10]",['Spring'],,REST,"{'RecitationSession': ['TR10 VIRTUAL'], 'LectureSession': ['MWF10 VIRTUAL']}"
+CC.802,CC.802,12,"GIR:CAL1 and GIR:PHY1; [CC.010, CC.011, or CC.A10]",['Spring'],,PHY2,"{'RecitationSession': ['TR1 VIRTUAL'], 'LectureSession': ['MW1-2.30 VIRTUAL']}"
+CC.8022,CC.8022,12,GIR:PHY1; [GIR:CAL2],['Spring'],,PHY2,"{'LectureSession': ['MW1-2.30 VIRTUAL'], 'RecitationSession': ['TR2 VIRTUAL']}"
+CC.S20,CC.S20,0,,"['Fall', 'IAP', 'Spring']",,,
+CC.S21,CC.S21,0,,"['Fall', 'IAP', 'Spring']",,,
+CC.UR,CC.UR,0,Permission of instructor,"['Fall', 'Spring']",,,
+CMS.100,CMS.100,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['TR10-11.30 VIRTUAL']}
+CMS.150,CMS.150,12,,['Spring'],"HA,HH",,{'LectureSession': ['T2-5 VIRTUAL']}
+CMS.301,CMS.301,12,,['Spring'],HA,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+CMS.334,CMS.334,12,,['Spring'],HH,,{'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}
+CMS.339,CMS.339,12,Permission of instructor,['Spring'],HA,,{'LectureSession': ['M12-3 VIRTUAL']}
+CMS.356,CMS.356,12,,['Spring'],HH,,{'LectureSession': ['MW EVE (7-8.30 PM) VIRTUAL']}
+CMS.361,CMS.361,12,,['Spring'],HS,,{'LectureSession': ['TR10.30-12 VIRTUAL']}
+CMS.375,CMS.375,12,,['Spring'],HH,,{'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}
+CMS.400,CMS.400,12,One subject in Comparative Media Studies or permission of instructor,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+CMS.405,CMS.405,12,21L.011 or CMS.100,['Spring'],HH,,{'LectureSession': ['MW2-3.30 VIRTUAL']}
+CMS.587,CMS.587,12,,['Spring'],HS,,"{'LectureSession': ['TR2.30-4 VIRTUAL'], 'LabSession': ['*TO BE ARRANGED null']}"
+CMS.590,CMS.590,12,,['Spring'],HH,,"{'LabSession': ['*TO BE ARRANGED null'], 'LectureSession': ['TR1-2.30 VIRTUAL']}"
+CMS.593,CMS.593,12,CMS.592,['Spring'],HS,,{'LectureSession': ['TR4-5.30 VIRTUAL']}
+CMS.603,CMS.603,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+CMS.604,CMS.604,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+CMS.605,CMS.605,0,,"['Fall', 'IAP', 'Spring']",,,
+CMS.611,CMS.611,12,"6.01, CMS.301, or CMS.608",['Spring'],HA,,"{'LectureSession': ['T2-5 VIRTUAL'], 'LabSession': ['R2-5 VIRTUAL']}"
+CMS.614,CMS.614,12,,['Spring'],HH,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+CMS.615,CMS.615,12,,['Spring'],HH,,{'LectureSession': ['MW10.30-12 VIRTUAL']}
+CMS.621,CMS.621,12,,['Spring'],HH,,{'LectureSession': ['MW9-10.30 VIRTUAL']}
+CMS.636,CMS.636,12,,['Spring'],HH,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+CMS.701,CMS.701,12,CMS.100,"['Fall', 'Spring']",HH,,{'LectureSession': ['W2-5 VIRTUAL']}
+CMS.THT,CMS.THT,6,Permission of advisor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+CMS.THU,CMS.THU,0,CMS.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+CMS.UR,CMS.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+CMS.URG,CMS.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+EC.050,EC.050,6,,"['Fall', 'IAP', 'Spring']",,,"{'LectureSession': ['T3 VIRTUAL'], 'LabSession': ['T4,R3-5 VIRTUAL']}"
+EC.075,EC.075,6,,['Spring'],,,{'LectureSession': ['T EVE (7-9 PM) VIRTUAL']}
+EC.120,EC.120,6,,"['Fall', 'Spring']",,,"{'LectureSession': ['M EVE (7-10 PM) 4-409'], 'LabSession': ['MTWRF2-5 4-409']}"
+EC.310,EC.310,9,,['Spring'],HE,,{'LectureSession': ['R2-5 VIRTUAL']}
+EC.711,EC.711,12,,['Spring'],,,"{'LectureSession': ['MW10.30-12 VIRTUAL'], 'LabSession': ['MTWRF2-5 N51-310']}"
+EC.715,EC.715,12,,['Spring'],,,{'LectureSession': ['T2-5 VIRTUAL']}
+EC.719,EC.719,12,,['Spring'],,,"{'LabSession': ['*TO BE ARRANGED null'], 'LectureSession': ['R2-5 VIRTUAL']}"
+EC.720,EC.720,12,2.670 or permission of instructor,['Spring'],,,{'LectureSession': ['TR3.30-5 N51-310']}
+EC.733,EC.733,12,,['Spring'],,,{'LectureSession': ['MW9.30-11 32-141']}
+EC.746,EC.746,9,,['Spring'],,,"{'LectureSession': ['MW3-4.30 VIRTUAL'], 'RecitationSession': ['F3 VIRTUAL']}"
+EC.750,EC.750,12,,['Spring'],,,{'LectureSession': ['TR2-4 VIRTUAL']}
+EC.770,EC.770,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+EC.900,EC.900,0,,"['Fall', 'IAP', 'Spring']",,,
+EC.901,EC.901,0,,"['Fall', 'IAP', 'Spring']",,,
+EC.910,EC.910,0,,"['Fall', 'Spring']",,,
+EC.S01,EC.S01,0,,['Spring'],,,
+EC.S06,EC.S06,0,,"['Fall', 'IAP', 'Spring']",,,
+EC.UR,EC.UR,0,,"['Fall', 'IAP', 'Spring']",,,
+EC.URG,EC.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+ES.010,ES.010,6,,['Spring'],,,
+ES.1802,ES.1802,12,GIR:CAL1,"['Fall', 'Spring']",,CAL2,"{'LectureSession': ['MTWR1 VIRTUAL'], 'RecitationSession': ['F2 VIRTUAL']}"
+ES.1803,ES.1803,12,[GIR:CAL2],"['Fall', 'Spring']",,REST,"{'RecitationSession': ['F12 66-160'], 'LectureSession': ['MTWR1 VIRTUAL']}"
+ES.201,ES.201,3,Permission of instructor,['Spring'],,,{'LabSession': ['*TO BE ARRANGED VIRTUAL']}
+ES.210,ES.210,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+ES.5111,ES.5111,12,,"['Fall', 'Spring']",,CHEM,"{'RecitationSession': ['F12 24-121'], 'LectureSession': ['MTWR12 VIRTUAL']}"
+ES.7013,ES.7013,12,,['Spring'],,BIOL,"{'RecitationSession': ['F9 24-121'], 'LectureSession': ['MTWR9 VIRTUAL']}"
+ES.802,ES.802,12,GIR:CAL1 and GIR:PHY1,['Spring'],,PHY2,"{'LectureSession': ['MTWR3 VIRTUAL'], 'RecitationSession': ['F2 24-115']}"
+ES.8022,ES.8022,12,GIR:PHY1; [GIR:CAL2],['Spring'],,PHY2,"{'LectureSession': ['MTWR2 VIRTUAL'], 'RecitationSession': ['F2 VIRTUAL']}"
+ES.9112,ES.9112,12,,['Spring'],HH,,{'LectureSession': ['MF2-3.30 VIRTUAL']}
+ES.92,ES.92,6,,"['Fall', 'Spring']",,,{'LectureSession': ['TR10-11.30 VIRTUAL']}
+ES.S30,ES.S30,0,,['Spring'],,,{'LectureSession': ['F3-5 VIRTUAL']}
+ES.S40,ES.S40,0,,['Spring'],,,
+ES.S70,ES.S70,0,,['Spring'],,,{'LectureSession': ['F2-4 VIRTUAL']}
+ES.S90,ES.S90,0,,['Spring'],,,{'LectureSession': ['TR 1-2 VIRTUAL']}
+ES.S91,ES.S91,0,,['Spring'],,,{'LectureSession': ['T EVE (6-9 PM) VIRTUAL']}
+ES.UR,ES.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+HST.438,HST.438,3,,['Spring'],,,"{'RecitationSession': ['R2.30 VIRTUAL'], 'LectureSession': ['TR1 VIRTUAL']}"
+HST.439,HST.439,3,,['Spring'],,,"{'LectureSession': ['TR1 VIRTUAL'], 'RecitationSession': ['R2.30 VIRTUAL']}"
+HST.542,HST.542,12,"GIR:PHY2, 18.03, or permission of instructor",['Spring'],,,"{'RecitationSession': ['F1 VIRTUAL'], 'LectureSession': ['TR9.30-11 VIRTUAL']}"
+HST.UR,HST.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+HST.URG,HST.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+IDS.012,IDS.012,12,"((2.087, 6.0002, 6.01, 18.03, or 18.06) and (6.008, 6.041, 14.30, 16.09, or 18.05)) or permission of instructor",['Spring'],,,"{'RecitationSession': ['R9 VIRTUAL'], 'LectureSession': ['MW11-12.30 VIRTUAL']}"
+IDS.013,IDS.013,12,6.041B or 15.0791,['Spring'],,LAB,"{'LabSession': ['F2 VIRTUAL'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+IDS.014,IDS.014,12,6.041 or 18.600,"['Fall', 'Spring']",,,"{'RecitationSession': ['F12 VIRTUAL'], 'LectureSession': ['MW9.30-11 VIRTUAL']}"
+IDS.055,IDS.055,12,,['Spring'],HS,,"{'LectureSession': ['MW1.30-3 VIRTUAL'], 'RecitationSession': ['R EVE (7.30 PM) VIRTUAL']}"
+IDS.060,IDS.060,12,,['Spring'],HS,,{'LectureSession': ['TR3.30-5 VIRTUAL']}
+IDS.S01,IDS.S01,0,Permission of instructor,['Spring'],,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+IDS.UR,IDS.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+IDS.URG,IDS.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+MAS.241,MAS.241,9,,['Spring'],HS,,{'LectureSession': ['T1-4 VIRTUAL']}
+MAS.453,MAS.453,12,6.033 or permission of instructor,['Spring'],,,"{'LectureSession': ['MW3-4.30 VIRTUAL'], 'LabSession': ['TR3-5 E14-474B']}"
+MAS.490,MAS.490,0,Permission of instructor,"['Fall', 'Spring']",,,
+MAS.491,MAS.491,0,Permission of instructor,"['Fall', 'Spring']",,,
+MAS.UR,MAS.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+MAS.URG,MAS.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+MS.101,MS.101,6,[MS.102],"['Fall', 'Spring']",,,{'LectureSession': ['M7.30-9 NORTH SHORE']}
+MS.102,MS.102,6,[MS.101],"['Fall', 'Spring']",,,{'LectureSession': ['W8-9.30 VIRTUAL']}
+MS.110,MS.110,6,,['Spring'],,,{'LectureSession': ['T3-5 VIRTUAL']}
+MS.202,MS.202,6,MS.201 or permission of instructor,['Spring'],,,"{'LabSession': ['F8-10 NORTH SHORE'], 'LectureSession': ['W6-8 VIRTUAL']}"
+MS.302,MS.302,12,MS.301 or permission of instructor,['Spring'],,,"{'LabSession': ['W2-5 VIRTUAL'], 'LectureSession': ['R8-11 VIRTUAL']}"
+MS.402,MS.402,12,MS.401,['Spring'],,,"{'LectureSession': ['T7.30-9.30 VIRTUAL'], 'LabSession': ['R3-5 NORTH SHORE']}"
+NS.100,NS.100,4,,"['Fall', 'Spring']",,,{'LectureSession': ['W6.30-8.30 VIRTUAL']}
+NS.12,NS.12,9,,['Spring'],,,{'LectureSession': ['TR7.30-9 VIRTUAL']}
+NS.200,NS.200,4,,"['Fall', 'Spring']",,,{'LectureSession': ['W6.30-8.30 VIRTUAL']}
+NS.22,NS.22,9,,['Spring'],,,{'LectureSession': ['TR7-8.30 VIRTUAL']}
+NS.300,NS.300,6,,"['Fall', 'Spring']",,,{'LectureSession': ['W6.30-8.30 VIRTUAL']}
+NS.32,NS.32,9,NS.31 or permission of instructor,['Spring'],,,{'LectureSession': ['TR7-8.30 VIRTUAL']}
+NS.400,NS.400,6,,"['Fall', 'Spring']",,,{'LectureSession': ['W6.30-8.30 VIRTUAL']}
+NS.42,NS.42,9,NS.21,['Spring'],,,{'LectureSession': ['T7-10 VIRTUAL']}
+NS.43,NS.43,9,,['Spring'],,,
+SCM.UR,SCM.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+SCM.URG,SCM.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+SP.248,SP.248,3,,"['Fall', 'Spring']",,,{'LectureSession': ['M2 VIRTUAL']}
+SP.251,SP.251,3,,"['Fall', 'Spring']",,,{'LectureSession': ['R3.30-5 VIRTUAL']}
+SP.254,SP.254,3,,['Spring'],,,{'LectureSession': ['W11.30 VIRTUAL']}
+SP.256,SP.256,3,,['Spring'],,,{'LectureSession': ['T2-3.30 VIRTUAL']}
+SP.35UR,SP.35UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+SP.360,SP.360,12,,['Spring'],HA,,{'LectureSession': ['TR2-5 VIRTUAL']}
+SP.3S50,SP.3S50,0,Permission of instructor,"['Fall', 'Spring']",,,
+STS.004,STS.004,12,,['Spring'],HH,,{'LectureSession': ['MW2.30-4 VIRTUAL']}
+STS.011,STS.011,12,,['Spring'],HH,,{'LectureSession': ['TR11-12.30 VIRTUAL']}
+STS.012,STS.012,12,,['Spring'],HS,,{'LectureSession': ['TR1-2.30 VIRTUAL']}
+STS.022,STS.022,12,,['Spring'],HS,,{'LectureSession': ['F1-4 VIRTUAL']}
+STS.023,STS.023,12,,['Spring'],HH,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+STS.027,STS.027,12,Permission of instructor,['Spring'],HH,,{'LectureSession': ['W EVE (7-10 PM) VIRTUAL']}
+STS.030,STS.030,12,,['Spring'],HS,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+STS.031,STS.031,12,,['Spring'],HS,,{'LectureSession': ['MW1-2.30 VIRTUAL']}
+STS.047,STS.047,12,,['Spring'],HS,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+STS.048,STS.048,12,,['Spring'],HH,,{'LectureSession': ['M EVE (7-10 PM) VIRTUAL']}
+STS.065,STS.065,12,,['Spring'],HS,,{'LectureSession': ['TR2.30-4 VIRTUAL']}
+STS.075,STS.075,9,,"['Fall', 'Spring']",HS,,{'LectureSession': ['F11-1 VIRTUAL']}
+STS.082,STS.082,12,,['Spring'],HS,,"{'RecitationSession': ['R EVE (7.30 PM) VIRTUAL'], 'LectureSession': ['MW1.30-3 VIRTUAL']}"
+STS.095,STS.095,0,Permission of instructor,"['Fall', 'IAP', 'Spring']",,,
+STS.096,STS.096,0,,"['Fall', 'IAP', 'Spring']",,,
+STS.THT,STS.THT,0,,"['Fall', 'Spring']",,,
+STS.THU,STS.THU,0,STS.THT,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+STS.UR,STS.UR,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+STS.URG,STS.URG,0,,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+WGS.101,WGS.101,12,,"['Fall', 'Spring']",HH,,{'LectureSession': ['MW3-4.30 VIRTUAL']}
+WGS.110,WGS.110,12,,['Spring'],HH,,"{'LectureSession': ['T EVE (7-9 PM) VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+WGS.151,WGS.151,12,,['Spring'],HS,,"{'LectureSession': ['M EVE (8-10 PM) VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+WGS.181,WGS.181,12,,['Spring'],HH,,{'LectureSession': ['T EVE (7-10 PM) VIRTUAL']}
+WGS.190,WGS.190,12,,['Spring'],"HA,HH",,{'LectureSession': ['T2-5 VIRTUAL']}
+WGS.220,WGS.220,12,,['Spring'],HH,,"{'LectureSession': ['W2-4 VIRTUAL'], 'RecitationSession': ['*TO BE ARRANGED null']}"
+WGS.224,WGS.224,12,,['Spring'],HS,,{'LectureSession': ['W10-1 VIRTUAL']}
+WGS.226,WGS.226,12,,['Spring'],HH,,{'LectureSession': ['TR9.30-11 VIRTUAL']}
+WGS.229,WGS.229,12,,['Spring'],HS,,{'LectureSession': ['R EVE (7-10 PM) VIRTUAL']}
+WGS.245,WGS.245,12,,['Spring'],HH,,{'LectureSession': ['MW9.30-11 VIRTUAL']}
+WGS.275,WGS.275,12,,['Spring'],HS,,{'LectureSession': ['F1-4 VIRTUAL']}
+WGS.301,WGS.301,12,,['Spring'],HH,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+WGS.400,WGS.400,0,Permission of instructor,"['Fall', 'Spring']",,,
+WGS.S10,WGS.S10,12,,"['Fall', 'Spring']",,,{'LectureSession': ['TR2-3.30 VIRTUAL']}
+WGS.UR,WGS.UR,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,
+WGS.URG,WGS.URG,0,Permission of instructor,"['Fall', 'IAP', 'Summer', 'Spring']",,,

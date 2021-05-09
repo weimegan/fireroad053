@@ -1,0 +1,331 @@
+,id,total-units,prereqs,semester,hass_attribute,gir_attribute,sections
+1.801,1.801,12,,['Spring'],HS,,{'LectureSession': [['TR3.30-5']]}
+11.001,11.001,12,,['Spring'],HH,,{'LectureSession': [['MW11-12.30']]}
+11.005,11.005,12,,['Spring'],HS,,{'LectureSession': [['TR9.30-11']]}
+11.006,11.006,12,,['Spring'],HS,,{'LectureSession': [['MW2-3.30']]}
+11.021,11.021,12,,['Spring'],HS,,{'LectureSession': [['TR3.30-5']]}
+11.027,11.027,12,Permission of instructor,['Spring'],HS,,{'LectureSession': [['TR4']]}
+11.123,11.123,9,,['Spring'],HS,,{'LectureSession': [['TR11-12.30']]}
+11.125,11.125,12,,['Spring'],HS,,"{'LabSession': [['*TO', 'BE', 'ARRANGED']], 'LectureSession': [['TR2.30-4']]}"
+11.127,11.127,12,,['Spring'],HH,,"{'LectureSession': [['TR1-2.30']], 'LabSession': [['*TO', 'BE', 'ARRANGED']]}"
+11.131,11.131,12,CMS.592,['Spring'],HS,,{'LectureSession': [['TR4-5.30']]}
+11.139,11.139,9,,['Spring'],HH,,{'LectureSession': [['MW3.30-5']]}
+12.011,12.011,9,GIR:CHEM or GIR:PHY1,['Spring'],HS,,"{'LectureSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+12.386,12.386,12,,['Spring'],HS,,{'LectureSession': [['MW1-2.30']]}
+14.01,14.01,12,,"['Fall', 'Spring']",HS,,"{'RecitationSession': [['F9']], 'LectureSession': [['TBD']]}"
+14.02,14.02,12,,"['Fall', 'Spring']",HS,,"{'RecitationSession': [['F2']], 'LectureSession': [['MW2']]}"
+14.03,14.03,12,14.01 or permission of instructor,"['Fall', 'Spring']",HS,,"{'RecitationSession': [['F10']], 'LectureSession': [['MW9-10.30']]}"
+14.15,14.15,12,6.041 or 14.30,['Spring'],HS,,"{'LectureSession': [['MW1-2.30']], 'RecitationSession': [['F2']]}"
+14.18,14.18,12,"14.04, 14.12, 14.15, or 14.19",['Spring'],HS,,"{'LectureSession': [['MW2.30-4']], 'RecitationSession': [['TBD']]}"
+14.20,14.20,12,14.01,['Spring'],HS,,"{'RecitationSession': [['F2']], 'LectureSession': [['MW1-2.30']]}"
+14.26,14.26,12,14.01,['Spring'],HS,,"{'RecitationSession': [['F11']], 'LectureSession': [['TR10.30-12']]}"
+14.33,14.33,12,14.32 and (14.01 or 14.02),"['Fall', 'Spring']",HS,,"{'LectureSession': [['MW2.30-4']], 'RecitationSession': [['TBD']]}"
+14.42,14.42,12,14.01,['Spring'],HS,,"{'RecitationSession': [['F3']], 'LectureSession': [['TR9-10.30']]}"
+14.44,14.44,12,14.01 or 15.0111,['Spring'],HS,,"{'LectureSession': [['TR1-2.30']], 'RecitationSession': [['F2']]}"
+14.70,14.70,12,,['Spring'],HS,,"{'LectureSession': [['M9.30-11']], 'RecitationSession': [['W9.30-11']]}"
+14.75,14.75,12,14.01,['Spring'],HS,,"{'LectureSession': [['TR1-2.30']], 'RecitationSession': [['F1']]}"
+14.76,14.76,12,14.01,['Spring'],HS,,"{'RecitationSession': [['F9']], 'LectureSession': [['MW9-10.30']]}"
+15.037,15.037,12,14.01 or 15.0111,['Spring'],HS,,"{'RecitationSession': [['F2']], 'LectureSession': [['TR1-2.30']]}"
+15.039,15.039,12,14.01,['Spring'],HS,,"{'LectureSession': [['TR10.30-12']], 'RecitationSession': [['F11']]}"
+17.007,17.007,12,,['Spring'],HH,,{'LectureSession': [['TR2-3.30']]}
+17.04,17.04,12,,['Spring'],HH,,"{'LectureSession': [['R3-5']], 'RecitationSession': [['T3-5']]}"
+17.181,17.181,12,,['Spring'],HS,,"{'RecitationSession': [['*TO', 'BE', 'ARRANGED']], 'LectureSession': [['W1-3']]}"
+17.261,17.261,12,17.251 or permission of instructor,['Spring'],HS,,{'LectureSession': [['M3-5']]}
+17.275,17.275,12,,['Spring'],HS,,"{'LectureSession': [['W1-3']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}"
+17.307,17.307,12,Permission of instructor,"['Fall', 'Spring']",HS,,"{'LectureSession': [['*TO', 'BE', 'ARRANGED', '*TO', 'BE']]}"
+17.309,17.309,12,,['Spring'],HS,,"{'LectureSession': [['MW1.30-3']], 'RecitationSession': [['R', 'EVE', '(7.30', 'PM)']]}"
+17.315,17.315,12,,['Spring'],HS,,"{'LectureSession': [['TR11-12.30']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED', '*TO', 'BE']]}"
+17.389,17.389,12,,['Spring'],HS,,"{'LectureSession': [['T1-3']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}"
+17.393,17.393,12,,['Spring'],HS,,{'LectureSession': [['TR3.30-5']]}
+17.445,17.445,12,,['Spring'],HS,,"{'RecitationSession': [['*TO', 'BE', 'ARRANGED']], 'LectureSession': [['M1-3']]}"
+17.473,17.473,12,,['Spring'],HS,,"{'RecitationSession': [['*TO', 'BE', 'ARRANGED']], 'LectureSession': [['M1-3']]}"
+17.483,17.483,12,Freshmen need permission of instructor,['Spring'],HS,,"{'RecitationSession': [['W', 'EVE', '(7', 'PM)']], 'LectureSession': [['T1-3']]}"
+17.511,17.511,12,,['Spring'],HS,,{'LectureSession': [['TR9.30-11']]}
+17.55,17.55,12,,['Spring'],HS,,{'LectureSession': [['TR3-4.30']]}
+17.569,17.569,12,,['Spring'],HS,,"{'LectureSession': [['T11-1,R12']]}"
+17.57,17.57,12,,['Spring'],HS,,{'LectureSession': [['MW1-2.30']]}
+17.591,17.591,12,Permission of instructor,['Spring'],HS,,"{'LectureSession': [['M11-1']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}"
+17.811,17.811,12,,['Spring'],HS,,"{'RecitationSession': [['*TO', 'BE', 'ARRANGED', '*TO', 'BE']], 'LectureSession': [['T1-3']]}"
+21A.01,21A.01,12,,['Spring'],HS,,{'LectureSession': [['TR10-11.30']]}
+21A.130,21A.130,12,,['Spring'],HS,,{'LectureSession': [['TR3-4.30']]}
+21A.137,21A.137,12,,['Spring'],HS,,{'LectureSession': [['TR2.30-4']]}
+21A.151,21A.151,12,,['Spring'],HS,,{'LectureSession': [['MW11-12.30']]}
+21A.157,21A.157,12,,['Spring'],HS,,{'LectureSession': [['TR1-2.30']]}
+21A.407,21A.407,12,,['Spring'],HS,,{'LectureSession': [['F1-4']]}
+21A.500,21A.500,9,,"['Fall', 'Spring']",HS,,{'LectureSession': [['F11-1']]}
+21A.505,21A.505,12,,['Spring'],HS,,{'LectureSession': [['TR2.30-4']]}
+21A.511,21A.511,12,,['Spring'],HS,,{'LectureSession': [['TR11.30-1']]}
+21G.028,21G.028,12,,['Spring'],HS,,{'LectureSession': [['TR2.30-4']]}
+21G.036,21G.036,12,,['Spring'],HH,,"{'LectureSession': [['MW', 'EVE', '(7-8.30', 'PM)']]}"
+21G.038,21G.038,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW3.30-5']]}
+21G.040,21G.040,12,,['Spring'],HH,,"{'LectureSession': [['W', 'EVE', '(7-10', 'PM)']]}"
+21G.054,21G.054,12,,['Spring'],HH,,{'LectureSession': [['MW9-10.30']]}
+21G.057,21G.057,12,,['Spring'],HS,,{'LectureSession': [['F1-4']]}
+21G.077,21G.077,12,,['Spring'],HH,,{'LectureSession': [['TR2.30-4']]}
+21G.084,21G.084,12,,['Spring'],HS,,{'LectureSession': [['TR3-4.30']]}
+21G.086,21G.086,12,,['Spring'],HS,,{'LectureSession': [['MW1-2.30']]}
+21G.094,21G.094,12,,['Spring'],HA,,{'LectureSession': [['TR2-3.30']]}
+21G.102,21G.102,12,21G.101 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MTRF1']]}
+21G.104,21G.104,12,21G.103 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MTRF2']]}
+21G.106,21G.106,12,21G.105 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MWF11']]}
+21G.108,21G.108,12,21G.107 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MWF3']]}
+21G.110,21G.110,12,21G.109 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MWF11']]}
+21G.120,21G.120,12,"21G.106, 21G.113, or permission of instructor",['Spring'],HH,,{'LectureSession': [['MWF2']]}
+21G.190,21G.190,13,"21G.105, 21G.110, or permission of instructor",['Spring'],HH,,"{'LectureSession': [['MW', 'EVE', '(7-8.30', 'PM)']]}"
+21G.194,21G.194,13,"21G.105, 21G.110, or permission of instructor",['Spring'],HH,,{'LectureSession': [['MW3.30-5']]}
+21G.220,21G.220,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['TR8-9.30']]}
+21G.222,21G.222,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW7.30-9']]}
+21G.223,21G.223,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW9.30-11']]}
+21G.226,21G.226,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['TR9-10.30']]}
+21G.228,21G.228,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW12.30-2']]}
+21G.233,21G.233,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['TR11.30-1']]}
+21G.240,21G.240,12,21G.222 or other CI-H/CI-HW subject,['Spring'],HA,,{'LectureSession': [['TR9-10.30']]}
+21G.301,21G.301,12,,"['Fall', 'IAP', 'Spring']",HH,,{'LectureSession': [['MWF3']]}
+21G.302,21G.302,12,21G.301 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MWF11']]}
+21G.303,21G.303,12,21G.302 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MWF11']]}
+21G.304,21G.304,12,21G.303 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MWF3']]}
+21G.310,21G.310,12,21G.304 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MWF2']]}
+21G.315,21G.315,12,21G.304 or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR12.30-2']]}
+21G.321,21G.321,12,One intermediate subject in French,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+21G.328,21G.328,13,21G.304 or permission of instructor,['Spring'],HS,,{'LectureSession': [['TR2.30-4']]}
+21G.342,21G.342,12,21G.304 or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR2-3.30']]}
+21G.401,21G.401,12,,"['Fall', 'IAP', 'Spring']",HH,,{'LectureSession': [['MTRF1']]}
+21G.402,21G.402,12,21G.401 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MTRF1']]}
+21G.403,21G.403,12,21G.402 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MTRF12']]}
+21G.404,21G.404,12,21G.403 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MTRF12']]}
+21G.410,21G.410,12,21G.404,['Spring'],HH,,{'LectureSession': [['TR2.30-4']]}
+21G.420,21G.420,12,21G.404 or permission of instructor,['Spring'],HA,,"{'LectureSession': [['M', 'EVE', '(7-9', 'PM)']]}"
+21G.502,21G.502,12,21G.501 or (placement test and permission of instructor),['Spring'],HH,,{'LectureSession': [['MTRF9']]}
+21G.504,21G.504,12,21G.503 or (placement test and permission of instructor),['Spring'],HH,,{'LectureSession': [['MTRF1']]}
+21G.506,21G.506,12,21G.505 or (placement test and permission of instructor),['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+21G.594,21G.594,13,21G.504 or permission of instructor,['Spring'],HA,,{'LectureSession': [['TR2-3.30']]}
+21G.612,21G.612,12,21G.611 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MTRF2']]}
+21G.614,21G.614,12,21G.613 and permission of instructor,['Spring'],HH,,{'LectureSession': [['MTRF4']]}
+21G.618,21G.618,13,21G.614 or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR2.30-4']]}
+21G.701,21G.701,12,,"['Fall', 'IAP', 'Spring']",HH,,{'LectureSession': [['MTWR12']]}
+21G.702,21G.702,12,21G.701 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MTWR11']]}
+21G.703,21G.703,12,21G.702 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MTWR12']]}
+21G.704,21G.704,12,21G.703 or permission of instructor,"['Fall', 'Spring']",HH,,{'LectureSession': [['MTWR12']]}
+21G.711,21G.711,12,21G.704 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MW3-4.30']]}
+21G.713,21G.713,12,21G.704 or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR2.30-4']]}
+21G.714,21G.714,12,Fluency in a Spanish dialect or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR1-2.30']]}
+21G.736,21G.736,12,One intermediate subject in Spanish or permission of instructor,['Spring'],HH,,"{'LectureSession': [['R', 'EVE', '(7-10', 'PM)']]}"
+21G.740,21G.740,12,One intermediate subject in Spanish or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR1-2.30']]}
+21G.784,21G.784,13,21G.704 or permission of instructor,['Spring'],HS,,{'LectureSession': [['TR3-4.30']]}
+21G.802,21G.802,12,21G.801 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MTRF12']]}
+21G.804,21G.804,12,21G.803 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MTRF1']]}
+21G.902,21G.902,12,21G.901 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MTRF12']]}
+21G.904,21G.904,12,21G.903 or permission of instructor,['Spring'],HH,,{'LectureSession': [['MTRF4']]}
+21H.102,21H.102,12,,['Spring'],HH,,{'LectureSession': [['TR1.30-3']]}
+21H.106,21H.106,12,,['Spring'],"HA,HH",,{'LectureSession': [['T2-5']]}
+21H.108,21H.108,12,,['Spring'],HH,,"{'RecitationSession': [['*TO', 'BE', 'ARRANGED']], 'LectureSession': [['T', 'EVE', '(7-9', 'PM)']]}"
+21H.132,21H.132,12,,['Spring'],HH,,"{'LectureSession': [['MW12']], 'RecitationSession': [['R12']]}"
+21H.134,21H.134,12,,['Spring'],HS,,"{'LectureSession': [['M9.30-11']], 'RecitationSession': [['W9.30-11']]}"
+21H.152,21H.152,12,,['Spring'],HH,,{'LectureSession': [['MW3.30-5']]}
+21H.154,21H.154,12,,['Spring'],HH,,{'LectureSession': [['TR12-1.30']]}
+21H.161,21H.161,12,,['Spring'],HH,,"{'RecitationSession': [['R1']], 'LectureSession': [['MW2']]}"
+21H.165,21H.165,12,,['Spring'],HH,,{'LectureSession': [['TR9.30-11']]}
+21H.170,21H.170,12,,['Spring'],HS,,{'LectureSession': [['TR3-4.30']]}
+21H.185,21H.185,12,,['Spring'],HS,,{'LectureSession': [['MW1-2.30']]}
+21H.186,21H.186,12,,['Spring'],HH,,"{'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+21H.187,21H.187,12,,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+21H.205,21H.205,12,Permission of instructor,['Spring'],HH,,"{'LectureSession': [['W', 'EVE', '(7-10', 'PM)']]}"
+21H.227,21H.227,12,,['Spring'],HS,,{'LectureSession': [['MW2.30-4']]}
+21H.228,21H.228,12,,['Spring'],HH,,"{'LectureSession': [['R', 'EVE', '(7-10', 'PM)']]}"
+21H.240,21H.240,12,,['Spring'],HH,,{'LectureSession': [['TR9.30-11']]}
+21H.241,21H.241,12,,['Spring'],HH,,{'LectureSession': [['MW9-10.30']]}
+21H.245,21H.245,12,,['Spring'],HS,,{'LectureSession': [['MW1-2.30']]}
+21H.263,21H.263,12,,['Spring'],HH,,"{'RecitationSession': [['*TO', 'BE', 'ARRANGED']], 'LectureSession': [['W2-4']]}"
+21H.266,21H.266,12,,['Spring'],HH,,{'LectureSession': [['TR1-2.30']]}
+21H.319,21H.319,12,,"['Fall', 'Spring']",HS,,{'LectureSession': [['MW11-12.30']]}
+21H.330,21H.330,12,,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+21H.336,21H.336,12,,['Spring'],HH,,{'LectureSession': [['TR3.30-5']]}
+21H.343,21H.343,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['TR9.30-11']]}
+21H.358,21H.358,12,,['Spring'],HH,,{'LectureSession': [['W11-1']]}
+21H.388,21H.388,12,,['Spring'],HH,,"{'LectureSession': [['W', 'EVE', '(7-10', 'PM)']]}"
+21L.000,21L.000,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW9.30-11']]}
+21L.001,21L.001,12,,['Spring'],HH,,{'LectureSession': [['TR2.30-4']]}
+21L.004,21L.004,12,,"['Fall', 'Spring']",HH,,"{'LectureSession': [['MW', 'EVE', '(7-8.30', 'PM)']]}"
+21L.006,21L.006,12,,['Spring'],HH,,{'LectureSession': [['MW1-2.30']]}
+21L.007,21L.007,12,,['Spring'],HH,,{'LectureSession': [['TR9.30-11']]}
+21L.008,21L.008,12,,['Spring'],"HA,HH",,{'LectureSession': [['T2-5']]}
+21L.011,21L.011,12,,"['Fall', 'Spring']",HA,,"{'RecitationSession': [['R3']], 'LectureSession': [['T3.30-5']], 'LabSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+21L.019,21L.019,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW3.30-5']]}
+21L.021,21L.021,12,,['Spring'],HH,,{'LectureSession': [['MW11-12.30']]}
+21L.431,21L.431,12,,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+21L.433,21L.433,12,21L.011 or permission of instructor,['Spring'],HH,,"{'LectureSession': [['TR', 'EVE', '(7-8.30', 'PM)']]}"
+21L.434,21L.434,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW11-12.30']]}
+21L.455,21L.455,12,,['Spring'],HH,,{'LectureSession': [['MW9.30-11']]}
+21L.457,21L.457,12,,['Spring'],HH,,{'LectureSession': [['TR9.30-11']]}
+21L.480,21L.480,12,,['Spring'],HH,,{'LectureSession': [['MW9.30-11']]}
+21L.486,21L.486,12,One subject in Literature,['Spring'],HA,,{'LectureSession': [['TR2.30-4']]}
+21L.487,21L.487,12,One subject in Literature,['Spring'],HH,,"{'LectureSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+21L.490,21L.490,12,,['Spring'],HH,,{'LectureSession': [['TR2.30-4']]}
+21L.512,21L.512,12,One subject in Literature and permission of instructor,['Spring'],HH,,{'LectureSession': [['MW1-2.30']]}
+21L.640,21L.640,12,One intermediate subject in Spanish or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR1-2.30']]}
+21L.702,21L.702,12,Two subjects in Literature,"['Fall', 'Spring']",HH,,{'LectureSession': [['TR11-12.30']]}
+21L.705,21L.705,12,Two subjects in Literature,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW1-2.30']]}
+21L.706,21L.706,12,(21L.011 and one subject in Literature or Comparative Media Studies) or permission of instructor,"['Fall', 'Spring']",HH,,"{'LectureSession': [['MW9.30-11']], 'LabSession': [['*TO', 'BE', 'ARRANGED']]}"
+21L.707,21L.707,12,Two subjects in Literature or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+21M.011,21M.011,12,,"['Fall', 'Spring']",HA,,"{'RecitationSession': [['MF12.30']], 'LectureSession': [['W3.30-5']]}"
+21M.030,21M.030,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['MW9.30-11']]}
+21M.051,21M.051,12,,"['Fall', 'Spring']",HA,,"{'LabSession': [['F3']], 'LectureSession': [['TR3.30-5']]}"
+21M.065,21M.065,12,Permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': [['TR12.30-2']]}
+21M.080,21M.080,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['MW2-3.30']]}
+21M.215,21M.215,12,Permission of instructor,['Spring'],HA,,{'LectureSession': [['MW11-12.30']]}
+21M.226,21M.226,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['TR11-12.30']]}
+21M.235,21M.235,12,21M.301 or permission of instructor,['Spring'],HA,,{'LectureSession': [['TR2-3.30']]}
+21M.250,21M.250,12,21M.301 or permission of instructor,['Spring'],HA,,{'LectureSession': [['TR11-12.30']]}
+21M.273,21M.273,12,,['Spring'],HA,,{'LectureSession': [['MW12.30-2']]}
+21M.293,21M.293,12,,['Spring'],HA,,{'LectureSession': [['MW11-12.30']]}
+21M.295,21M.295,12,,['Spring'],HA,,{'LectureSession': [['TR12.30-2']]}
+21M.299,21M.299,12,21M.030 or permission of instructor,['Spring'],HA,,{'LectureSession': [['TR12.30-2']]}
+21M.301,21M.301,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': [['MW11-12.30']], 'LabSession': [['F4']]}"
+21M.302,21M.302,12,21M.301 or permission of instructor,"['Fall', 'Spring']",HA,,"{'LectureSession': [['TR9.30-11']], 'LabSession': [['F4']]}"
+21M.303,21M.303,12,21M.302,"['Fall', 'Spring']",HA,,"{'LabSession': [['R4']], 'LectureSession': [['MW3.30-5']]}"
+21M.304,21M.304,12,21M.303,['Spring'],HA,,"{'LabSession': [['F4']], 'LectureSession': [['TR12.30-2']]}"
+21M.340,21M.340,12,"21M.051, 21M.226, or permission of instructor","['Fall', 'Spring']",HA,,{'LectureSession': [['TR2-3.30']]}
+21M.351,21M.351,12,"21M.304, 21M.310, or permission of instructor",['Spring'],HA,,{'LectureSession': [['MW2-3.30']]}
+21M.359,21M.359,12,21M.051 or permission of instructor,['Spring'],HA,,{'LectureSession': [['TR3.30-5']]}
+21M.361,21M.361,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['TR2-3.30']]}
+21M.362,21M.362,12,21M.361 or permission of instructor,['Spring'],HA,,"{'LectureSession': [['M', 'EVE', '(7-8.30', 'PM)']], 'LabSession': [['W', 'EVE', '(7.30-9', 'PM)']]}"
+21M.370,21M.370,12,,['Spring'],HA,,{'LectureSession': [['MW12.30-2']]}
+21M.385,21M.385,12,(6.009 and 21M.301) or permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': [['MW11-12.30']]}
+21M.387,21M.387,12,"6.003, 6.01, and 21M.051",['Spring'],HA,,{'LectureSession': [['TR11-12.30']]}
+21M.480,21M.480,9,,"['Fall', 'Spring']",HA,,"{'LabSession': [['MTWRF2-5']], 'LectureSession': [['W', 'EVE', '(5-7', 'PM)']]}"
+21M.500,21M.500,12,Permission of instructor,['Spring'],HA,,{'LectureSession': [['F2-5']]}
+21M.600,21M.600,9,,"['Fall', 'Spring']",HA,,"{'RecitationSession': [['MTWRF9-12']], 'LectureSession': [['TR1-3']]}"
+21M.601,21M.601,9,,"['Fall', 'Spring']",HA,,"{'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+21M.605,21M.605,9,,"['Fall', 'Spring']",HA,,"{'LectureSession': [['TR11-1']], 'RecitationSession': [['MTWRF2-5']]}"
+21M.606,21M.606,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['TR11-1']]}
+21M.607,21M.607,12,,['Spring'],HA,,"{'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+21M.608,21M.608,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['W2-5']]}
+21M.623,21M.623,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': [['TR11-1']], 'RecitationSession': [['MTWRF9-12']]}"
+21M.645,21M.645,12,,"['Fall', 'Spring']",HA,,"{'RecitationSession': [['MTWRF', 'EVE', '(7-10', 'PM)']], 'LectureSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+21M.702,21M.702,12,,['Spring'],HA,,"{'LabSession': [['MTWRF9-12']], 'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+21M.705,21M.705,12,21M.600 or permission of instructor,['Spring'],HA,,"{'LectureSession': [['MW1-3']], 'LabSession': [['MTWRF2-5']]}"
+21M.710,21M.710,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['M2-5']]}
+21M.712,21M.712,12,,['Spring'],HA,,"{'RecitationSession': [['MTWRF2-5']], 'LectureSession': [['TR3-5']]}"
+21M.733,21M.733,12,,['Spring'],HA,,"{'LectureSession': [['TR', 'EVE', '(7-9', 'PM)']]}"
+21M.735,21M.735,12,21M.606 or permission of instructor,['Spring'],HA,,"{'LectureSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+21M.790,21M.790,12,21M.600 and (21M.710 or permission of instructor),['Spring'],HA,,"{'LabSession': [['MTWRF9-12']], 'LectureSession': [['TR11-1']]}"
+21M.840,21M.840,12,,['Spring'],HA,,"{'LabSession': [['MTWRF', 'EVE', '(7-10', 'PM)']], 'LectureSession': [['TR3-5']]}"
+21M.846,21M.846,12,,['Spring'],HA,,"{'LectureSession': [['TR', '3-4:30']]}"
+21M.848,21M.848,12,21M.690 and permission of instructor,['Spring'],HA,,"{'LectureSession': [['W', 'EVE', '(7-10', 'PM)']]}"
+21W.011,21W.011,12,,"['Fall', 'Spring']",HH,,"{'LectureSession': [['TR', 'EVE', '(7-8.30', 'PM)']]}"
+21W.022,21W.022,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW3-4.30']]}
+21W.031,21W.031,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['TR12.30-2']]}
+21W.035,21W.035,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['TR3-4.30']]}
+21W.041,21W.041,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW9.30-11']]}
+21W.741,21W.741,12,,['Spring'],"HA,HH",,{'LectureSession': [['T2-5']]}
+21W.747,21W.747,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW9.30-11']]}
+21W.755,21W.755,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['TR3-4.30']]}
+21W.758,21W.758,12,Permission of instructor,['Spring'],HA,,{'LectureSession': [['TR1-2.30']]}
+21W.762,21W.762,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': [['TR', 'EVE', '(7-8.30', 'PM)']]}"
+21W.770,21W.770,12,Permission of instructor,['Spring'],HA,,{'LectureSession': [['TR3-4.30']]}
+21W.771,21W.771,12,Permission of instructor,"['Fall', 'Spring']",HA,,"{'LectureSession': [['MW', 'EVE', '(7-8.30', 'PM)']]}"
+21W.774,21W.774,12,,['Spring'],HA,,"{'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+21W.775,21W.775,12,,['Spring'],HH,,{'LectureSession': [['TR3-4.30']]}
+21W.776,21W.776,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['W2-5']]}
+21W.777,21W.777,12,,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+21W.778,21W.778,12,,['Spring'],HH,,{'LectureSession': [['TR3-4.30']]}
+21W.788,21W.788,12,,['Spring'],HH,,"{'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+21W.791,21W.791,12,,['Spring'],HH,,{'LectureSession': [['TR3.30-5']]}
+24.013,24.013,12,,['Spring'],HH,,"{'RecitationSession': [['F1']], 'LectureSession': [['MW2']]}"
+24.09,24.09,12,,['Spring'],HH,,"{'RecitationSession': [['F11']], 'LectureSession': [['MW11']]}"
+24.118,24.118,12,,['Spring'],HH,,"{'RecitationSession': [['F10']], 'LectureSession': [['TBD']]}"
+24.201,24.201,12,One philosophy subject or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR2-3.30']]}
+24.211,24.211,12,One philosophy subject,['Spring'],HH,,{'LectureSession': [['TR9.30-11']]}
+24.212,24.212,12,,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+24.215,24.215,12,One philosophy subject,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW2.30-4']]}
+24.221,24.221,12,One philosophy subject,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW10-11.30']]}
+24.231,24.231,12,One philosophy subject,['Spring'],HH,,"{'RecitationSession': [['F1']], 'LectureSession': [['MW1']]}"
+24.237,24.237,12,,['Spring'],HH,,{'LectureSession': [['TR2-3.30']]}
+24.241,24.241,12,,['Spring'],HH,,{'LectureSession': [['R10-11.30']]}
+24.251,24.251,12,One philosophy subject,['Spring'],HH,,{'LectureSession': [['MW11.30-1']]}
+24.253,24.253,12,One philosophy subject or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR2.30-4']]}
+24.900,24.900,12,,"['Fall', 'Spring']",HS,,"{'RecitationSession': [['F11']], 'LectureSession': [['TR11-12.30']]}"
+24.903,24.903,12,24.900 or 24.9000,['Spring'],HS,,{'LectureSession': [['MW11-12.30']]}
+24.904,24.904,12,"24.900, 24.9000, or permission of instructor",['Spring'],HS,,"{'LectureSession': [['TR11']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}"
+24.908,24.908,12,,['Spring'],HS,,{'LectureSession': [['W12-3']]}
+24.912,24.912,12,,['Spring'],"HA,HH",,{'LectureSession': [['T2-5']]}
+24.914,24.914,12,24.900 or 24.9000,['Spring'],HS,,{'LectureSession': [['TR2.30-4']]}
+24.918,24.918,12,"(24.901, 24.902, and 24.903) or permission of instructor",['Spring'],HS,,{'LectureSession': [['MW1-2.30']]}
+3.094,3.094,9,,['Spring'],HS,,"{'LectureSession': [['TR4']], 'LabSession': [['W', 'EVE', '(7-10', 'PM)']]}"
+3.095,3.095,9,,['Spring'],HA,,"{'LabSession': [['M', 'EVE', '(7-10', 'PM)']], 'LectureSession': [['MW', '1-2PM']]}"
+3.985,3.985,9,GIR:CHEM or GIR:PHY1,['Spring'],HS,,"{'LectureSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+3.987,3.987,12,,['Spring'],HS,,"{'LectureSession': [['MW3-4.30']], 'LabSession': [['F3-4.30']]}"
+3.993,3.993,9,,['Spring'],HS,,{'LectureSession': [['MW1-2.30']]}
+4.021,4.021,12,,"['Fall', 'Spring']",HA,,"{'RecitationSession': [['MTWRF2-5']], 'LectureSession': [['MW2-5']]}"
+4.110,4.110,12,,['Spring'],HA,,"{'LectureSession': [['M10-12']], 'LabSession': [['M', 'EVE', '(7-9', 'PM)']]}"
+4.250,4.250,12,,['Spring'],HH,,{'LectureSession': [['MW11-12.30']]}
+4.301,4.301,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': [['TR2-5']], 'RecitationSession': [['R9-12']]}"
+4.314,4.314,12,"4.301, 4.302, or permission of instructor","['Fall', 'Spring']",HA,,"{'LectureSession': [['TR9.30-12.30']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}"
+4.320,4.320,12,,['Spring'],HA,,{'LectureSession': [['MW9-12']]}
+4.341,4.341,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['TR2-5']]}
+4.344,4.344,12,4.341 or permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': [['T9.30-12.30']]}
+4.354,4.354,12,,"['Fall', 'Spring']",HA,,"{'LectureSession': [['MW9.30-12.30']], 'RecitationSession': [['W', 'EVE', '(7-10', 'PM)']]}"
+4.356,4.356,12,"4.301, 4.302, 4.354, or permission of instructor",['Spring'],HA,,"{'LectureSession': [['TW', 'EVE', '(7-10', 'PM)']]}"
+4.368,4.368,12,4.301 or 4.302,['Spring'],HA,,{'LectureSession': [['MW9.30-12.30']]}
+4.373,4.373,12,"4.301, 4.302, or permission of instructor",['Spring'],HA,,{'LectureSession': [['TR9.30-12.30']]}
+4.602,4.602,12,,['Spring'],HA,,"{'LectureSession': [['MW9.30-11']], 'RecitationSession': [['W12']]}"
+4.605,4.605,12,,['Spring'],HA,,"{'RecitationSession': [['F11']], 'LectureSession': [['MW11-12.30']]}"
+4.609,4.609,12,Permission of instructor,['Spring'],HA,,{'LectureSession': [['F2-5']]}
+4.657,4.657,12,,['Spring'],HA,,"{'RecitationSession': [['W9']], 'LectureSession': [['TR2-3.30']]}"
+5.24,5.24,9,GIR:CHEM or GIR:PHY1,['Spring'],HS,,"{'LectureSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+6.073,6.073,12,"6.01, CMS.301, or CMS.608",['Spring'],HA,,"{'LectureSession': [['T2-5']], 'LabSession': [['R2-5']]}"
+6.207,6.207,12,6.041 or 14.30,['Spring'],HS,,"{'RecitationSession': [['F2']], 'LectureSession': [['MW1-2.30']]}"
+6.809,6.809,12,(6.009 and 21M.301) or permission of instructor,"['Fall', 'Spring']",HA,,{'LectureSession': [['MW11-12.30']]}
+9.00,9.00,12,,['Spring'],HS,,"{'RecitationSession': [['R', 'EVE', '(7', 'PM)']], 'LectureSession': [['TR2-3.30']]}"
+CC.111,CC.111,12,,['Spring'],HH,,"{'RecitationSession': [['T3-5']], 'LectureSession': [['R3-5']]}"
+CC.120,CC.120,12,,"['Fall', 'Spring']",HA,,{'LectureSession': [['TR9.30-11']]}
+CMS.100,CMS.100,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['TR10-11.30']]}
+CMS.150,CMS.150,12,,['Spring'],"HA,HH",,{'LectureSession': [['T2-5']]}
+CMS.301,CMS.301,12,,['Spring'],HA,,{'LectureSession': [['TR11-12.30']]}
+CMS.334,CMS.334,12,,['Spring'],HH,,"{'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+CMS.339,CMS.339,12,Permission of instructor,['Spring'],HA,,{'LectureSession': [['M12-3']]}
+CMS.356,CMS.356,12,,['Spring'],HH,,"{'LectureSession': [['MW', 'EVE', '(7-8.30', 'PM)']]}"
+CMS.361,CMS.361,12,,['Spring'],HS,,{'LectureSession': [['TR10.30-12']]}
+CMS.375,CMS.375,12,,['Spring'],HH,,"{'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+CMS.400,CMS.400,12,One subject in Comparative Media Studies or permission of instructor,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+CMS.405,CMS.405,12,21L.011 or CMS.100,['Spring'],HH,,{'LectureSession': [['MW2-3.30']]}
+CMS.587,CMS.587,12,,['Spring'],HS,,"{'LectureSession': [['TR2.30-4']], 'LabSession': [['*TO', 'BE', 'ARRANGED']]}"
+CMS.590,CMS.590,12,,['Spring'],HH,,"{'LabSession': [['*TO', 'BE', 'ARRANGED']], 'LectureSession': [['TR1-2.30']]}"
+CMS.593,CMS.593,12,CMS.592,['Spring'],HS,,{'LectureSession': [['TR4-5.30']]}
+CMS.611,CMS.611,12,"6.01, CMS.301, or CMS.608",['Spring'],HA,,"{'LectureSession': [['T2-5']], 'LabSession': [['R2-5']]}"
+CMS.614,CMS.614,12,,['Spring'],HH,,{'LectureSession': [['TR3.30-5']]}
+CMS.615,CMS.615,12,,['Spring'],HH,,{'LectureSession': [['MW10.30-12']]}
+CMS.621,CMS.621,12,,['Spring'],HH,,{'LectureSession': [['MW9-10.30']]}
+CMS.636,CMS.636,12,,['Spring'],HH,,{'LectureSession': [['TR2-3.30']]}
+CMS.701,CMS.701,12,CMS.100,"['Fall', 'Spring']",HH,,{'LectureSession': [['W2-5']]}
+EC.310,EC.310,9,,['Spring'],HE,,{'LectureSession': [['R2-5']]}
+ES.9112,ES.9112,12,,['Spring'],HH,,{'LectureSession': [['MF2-3.30']]}
+IDS.055,IDS.055,12,,['Spring'],HS,,"{'LectureSession': [['MW1.30-3']], 'RecitationSession': [['R', 'EVE', '(7.30', 'PM)']]}"
+IDS.060,IDS.060,12,,['Spring'],HS,,{'LectureSession': [['TR3.30-5']]}
+MAS.241,MAS.241,9,,['Spring'],HS,,{'LectureSession': [['T1-4']]}
+SP.360,SP.360,12,,['Spring'],HA,,{'LectureSession': [['TR2-5']]}
+STS.004,STS.004,12,,['Spring'],HH,,{'LectureSession': [['MW2.30-4']]}
+STS.011,STS.011,12,,['Spring'],HH,,{'LectureSession': [['TR11-12.30']]}
+STS.012,STS.012,12,,['Spring'],HS,,{'LectureSession': [['TR1-2.30']]}
+STS.022,STS.022,12,,['Spring'],HS,,{'LectureSession': [['F1-4']]}
+STS.023,STS.023,12,,['Spring'],HH,,{'LectureSession': [['TR9.30-11']]}
+STS.027,STS.027,12,Permission of instructor,['Spring'],HH,,"{'LectureSession': [['W', 'EVE', '(7-10', 'PM)']]}"
+STS.030,STS.030,12,,['Spring'],HS,,{'LectureSession': [['MW9.30-11']]}
+STS.031,STS.031,12,,['Spring'],HS,,{'LectureSession': [['MW1-2.30']]}
+STS.047,STS.047,12,,['Spring'],HS,,{'LectureSession': [['TR2.30-4']]}
+STS.048,STS.048,12,,['Spring'],HH,,"{'LectureSession': [['M', 'EVE', '(7-10', 'PM)']]}"
+STS.065,STS.065,12,,['Spring'],HS,,{'LectureSession': [['TR2.30-4']]}
+STS.075,STS.075,9,,"['Fall', 'Spring']",HS,,{'LectureSession': [['F11-1']]}
+STS.082,STS.082,12,,['Spring'],HS,,"{'RecitationSession': [['R', 'EVE', '(7.30', 'PM)']], 'LectureSession': [['MW1.30-3']]}"
+WGS.101,WGS.101,12,,"['Fall', 'Spring']",HH,,{'LectureSession': [['MW3-4.30']]}
+WGS.110,WGS.110,12,,['Spring'],HH,,"{'LectureSession': [['T', 'EVE', '(7-9', 'PM)']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}"
+WGS.151,WGS.151,12,,['Spring'],HS,,"{'LectureSession': [['M', 'EVE', '(8-10', 'PM)']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}"
+WGS.181,WGS.181,12,,['Spring'],HH,,"{'LectureSession': [['T', 'EVE', '(7-10', 'PM)']]}"
+WGS.190,WGS.190,12,,['Spring'],"HA,HH",,{'LectureSession': [['T2-5']]}
+WGS.220,WGS.220,12,,['Spring'],HH,,"{'LectureSession': [['W2-4']], 'RecitationSession': [['*TO', 'BE', 'ARRANGED']]}"
+WGS.224,WGS.224,12,,['Spring'],HS,,{'LectureSession': [['W10-1']]}
+WGS.226,WGS.226,12,,['Spring'],HH,,{'LectureSession': [['TR9.30-11']]}
+WGS.229,WGS.229,12,,['Spring'],HS,,"{'LectureSession': [['R', 'EVE', '(7-10', 'PM)']]}"
+WGS.245,WGS.245,12,,['Spring'],HH,,{'LectureSession': [['MW9.30-11']]}
+WGS.275,WGS.275,12,,['Spring'],HS,,{'LectureSession': [['F1-4']]}
+WGS.301,WGS.301,12,,['Spring'],HH,,{'LectureSession': [['TR2-3.30']]}
