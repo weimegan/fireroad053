@@ -12,12 +12,30 @@
         "sections": {
             "LectureSession": [
                 [
-                    "TR11,F2"
+                    [
+                        36,
+                        2
+                    ],
+                    [
+                        96,
+                        2
+                    ],
+                    [
+                        132,
+                        2
+                    ]
                 ]
             ],
             "RecitationSession": [
                 [
-                    "MW2"
+                    [
+                        12,
+                        2
+                    ],
+                    [
+                        72,
+                        2
+                    ]
                 ]
             ]
         }
@@ -35,12 +53,30 @@
         "sections": {
             "LectureSession": [
                 [
-                    "TR11,F2"
+                    [
+                        36,
+                        2
+                    ],
+                    [
+                        96,
+                        2
+                    ],
+                    [
+                        132,
+                        2
+                    ]
                 ]
             ],
             "RecitationSession": [
                 [
-                    "MW3"
+                    [
+                        14,
+                        2
+                    ],
+                    [
+                        74,
+                        2
+                    ]
                 ]
             ]
         }
@@ -59,18 +95,22 @@
         "sections": {
             "LectureSession": [
                 [
-                    "TR11,F2",
-                    "(BEGINS",
-                    "APR",
-                    "5)"
+                    [
+                        36,
+                        2
+                    ],
+                    [
+                        96,
+                        2
+                    ],
+                    [
+                        132,
+                        2
+                    ]
                 ]
             ],
             "RecitationSession": [
-                [
-                    "*TO",
-                    "BE",
-                    "ARRANGED"
-                ]
+                []
             ]
         }
     },
@@ -87,12 +127,30 @@
         "sections": {
             "RecitationSession": [
                 [
-                    "TR4"
+                    [
+                        46,
+                        2
+                    ],
+                    [
+                        106,
+                        2
+                    ]
                 ]
             ],
             "LectureSession": [
                 [
-                    "MWF11"
+                    [
+                        6,
+                        2
+                    ],
+                    [
+                        66,
+                        2
+                    ],
+                    [
+                        126,
+                        2
+                    ]
                 ]
             ]
         }
@@ -110,12 +168,30 @@
         "sections": {
             "RecitationSession": [
                 [
-                    "TR1"
+                    [
+                        40,
+                        2
+                    ],
+                    [
+                        100,
+                        2
+                    ]
                 ]
             ],
             "LectureSession": [
                 [
-                    "MWF12"
+                    [
+                        8,
+                        2
+                    ],
+                    [
+                        68,
+                        2
+                    ],
+                    [
+                        128,
+                        2
+                    ]
                 ]
             ]
         }
@@ -132,12 +208,22 @@
         "sections": {
             "LabSession": [
                 [
-                    "F10"
+                    [
+                        124,
+                        2
+                    ]
                 ]
             ],
             "LectureSession": [
                 [
-                    "MW12-2"
+                    [
+                        8,
+                        4
+                    ],
+                    [
+                        68,
+                        4
+                    ]
                 ]
             ]
         }
@@ -155,7 +241,18 @@
         "sections": {
             "LectureSession": [
                 [
-                    "TRF10"
+                    [
+                        34,
+                        2
+                    ],
+                    [
+                        94,
+                        2
+                    ],
+                    [
+                        124,
+                        2
+                    ]
                 ]
             ]
         }
@@ -173,12 +270,26 @@
         "sections": {
             "RecitationSession": [
                 [
-                    "TR11"
+                    [
+                        36,
+                        2
+                    ],
+                    [
+                        96,
+                        2
+                    ]
                 ]
             ],
             "LectureSession": [
                 [
-                    "MW2.30-4"
+                    [
+                        13,
+                        3
+                    ],
+                    [
+                        73,
+                        3
+                    ]
                 ]
             ]
         }
@@ -195,12 +306,26 @@
         "sections": {
             "RecitationSession": [
                 [
-                    "TR1"
+                    [
+                        40,
+                        2
+                    ],
+                    [
+                        100,
+                        2
+                    ]
                 ]
             ],
             "LectureSession": [
                 [
-                    "MW1-2.30"
+                    [
+                        10,
+                        3
+                    ],
+                    [
+                        70,
+                        3
+                    ]
                 ]
             ]
         }
@@ -217,12 +342,26 @@
         "sections": {
             "LectureSession": [
                 [
-                    "MW1-2.30"
+                    [
+                        10,
+                        3
+                    ],
+                    [
+                        70,
+                        3
+                    ]
                 ]
             ],
             "RecitationSession": [
                 [
-                    "TR2"
+                    [
+                        42,
+                        2
+                    ],
+                    [
+                        102,
+                        2
+                    ]
                 ]
             ]
         }
@@ -240,12 +379,30 @@
         "sections": {
             "LectureSession": [
                 [
-                    "MTWR1"
+                    [
+                        10,
+                        2
+                    ],
+                    [
+                        40,
+                        2
+                    ],
+                    [
+                        70,
+                        2
+                    ],
+                    [
+                        100,
+                        2
+                    ]
                 ]
             ],
             "RecitationSession": [
                 [
-                    "F2"
+                    [
+                        132,
+                        2
+                    ]
                 ]
             ]
         }
@@ -263,12 +420,30 @@
         "sections": {
             "RecitationSession": [
                 [
-                    "F12"
+                    [
+                        128,
+                        2
+                    ]
                 ]
             ],
             "LectureSession": [
                 [
-                    "MTWR12"
+                    [
+                        8,
+                        2
+                    ],
+                    [
+                        38,
+                        2
+                    ],
+                    [
+                        68,
+                        2
+                    ],
+                    [
+                        98,
+                        2
+                    ]
                 ]
             ]
         }
@@ -285,12 +460,30 @@
         "sections": {
             "LectureSession": [
                 [
-                    "MTWR3"
+                    [
+                        14,
+                        2
+                    ],
+                    [
+                        44,
+                        2
+                    ],
+                    [
+                        74,
+                        2
+                    ],
+                    [
+                        104,
+                        2
+                    ]
                 ]
             ],
             "RecitationSession": [
                 [
-                    "F2"
+                    [
+                        132,
+                        2
+                    ]
                 ]
             ]
         }
@@ -307,12 +500,30 @@
         "sections": {
             "LectureSession": [
                 [
-                    "MTWR2"
+                    [
+                        12,
+                        2
+                    ],
+                    [
+                        42,
+                        2
+                    ],
+                    [
+                        72,
+                        2
+                    ],
+                    [
+                        102,
+                        2
+                    ]
                 ]
             ],
             "RecitationSession": [
                 [
-                    "F2"
+                    [
+                        132,
+                        2
+                    ]
                 ]
             ]
         }

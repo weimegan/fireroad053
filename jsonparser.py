@@ -1,6 +1,7 @@
 import json
 import csv
 import pandas as pd
+import itertools
 
 # json extracted from http://coursews.mit.edu/coursews/?term=2021SP
 
@@ -29,7 +30,7 @@ def filter_classes(data):
                 # create dictionary of recitation : time(s) / lab : time(s) / lecture : time(s)
                 if 'type' not in output[sec]['sections']:
                     output[sec]['sections'][d['type']] = []
-                class_time = parse_time(d['timeAndPlace'])
+                class_time = tsp(d['timeAndPlace'], d['section-of'])
                 output[sec]['sections'][d['type']].append(class_time) # TODO: parse timeAndPlace
     return output
 
@@ -42,6 +43,103 @@ def parse_class(class_dict):
     d['hass_attribute'] = class_dict['hass_attribute']
     d['gir_attribute'] = class_dict['gir_attribute']
     return d
+
+timeslots = 30
+days = {'M': 0,
+        'T': timeslots,
+        'W': timeslots * 2,
+        'R': timeslots * 3,
+        'F': timeslots * 4}
+times = {'8': 0,
+         '8.30': 1,
+         '9': 2,
+         '9.30': 3,
+         '10': 4,
+         '10.30': 5,
+         '11': 6,
+         '11.30': 7,
+         '12': 8,
+         '12.30': 9,
+         '1': 10,
+         '1.30': 11,
+         '2': 12,
+         '2.30': 13,
+         '3': 14,
+         '3.30': 15,
+         '4': 16,
+         '4.30': 17,
+         '5': 18,
+         '5.30': 19,
+         '6': 20,
+         '6.30': 21,
+         '7': 22,
+         '7.30': 23}
+
+eve_times = {'1': 10,
+             '1.30': 11,
+             '2': 12,
+             '2.30': 13,
+             '3': 14,
+             '3.30': 15,
+             '4': 16,
+             '4.30': 17,
+             '5': 18,
+             '5.30': 19,
+             '6': 20,
+             '6.30': 21,
+             '7': 22,
+             '7.30': 23,
+             '8': 24,
+             '8.30': 25,
+             '9': 26,
+             '9.30': 27,
+             '10': 28,
+             '10.30': 29}
+
+def tsp_eve(t, number):
+    wdays = t.split()[0]
+    t = t[t.find("(")+1:t.find(")")].rstrip(' PM')
+    
+    slots = []
+    startendtime = t.split('-')
+    try:
+        for d in wdays:
+            if len(startendtime) > 1:
+                length = eve_times[startendtime[1]] - times[startendtime[0]]
+            else:
+                length = 2
+            slots.append((days[d] + eve_times[startendtime[0]], length))
+    except Exception as e:
+        print(e, t, number)
+
+    return slots
+
+def tsp(t, number):
+    if '*' in t:
+        return []
+    
+    if 'EVE' in t:
+        return tsp_eve(t, number)
+
+    t = t.split()[0]
+    slots = []
+    
+    try:
+        for t in t.split(','):
+
+            split = [''.join(x) for _, x in itertools.groupby(t, key=str.isalpha)]
+            startendtime = split[1].split('-')
+
+            for d in split[0]:
+                if len(startendtime) > 1:
+                    length = times[startendtime[1]] - times[startendtime[0]]
+                else:
+                    length = 2
+                slots.append((days[d] + times[startendtime[0]], length))
+    except Exception as e:
+        print(e, t, number)
+
+    return slots
 
 def parse_time(s):
     s = s.split(' ')[:-1] # extract time from timeAndPlace
@@ -106,6 +204,6 @@ def write_json_parsed_hass():
 #write_json_parsed_gir()
 #write_json_parsed_hass()
 
-df = pd.read_json('data/parsedsp21_gir.json')
-df.to_csv('data/parsedsp21_gir.csv')
+# df = pd.read_json('data/parsedsp21_gir.json')
+# df.to_csv('data/parsedsp21_gir.csv')
 
