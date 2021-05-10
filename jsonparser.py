@@ -2,16 +2,24 @@ import json
 import csv
 import pandas as pd
 import itertools
+import numpy as np
 
 # json extracted from http://coursews.mit.edu/coursews/?term=2021SP
 
 f = open('sp21classes.json')
 data = json.load(f)['items']
 gir = {"BIO", "CHEM", "CAL1", "CAL2", "PHY1", "PHY2"}
-
+gir_to_course = {
+    'GIR:CAL1': 'Calculus I (GIR)',
+    'GIR:CAL2': 'Calculus II (GIR)',
+    'GIR:PHY1': 'Physics I (GIR)',
+    'GIR:PHY2': 'Physics II (GIR)',
+    'GIR:CHEM': 'Chemistry (GIR)',
+    'GIR:BIOL': 'Biology (GIR)',
+}
 
 # filter for id, total-units, prereqs, offering, semester, hass_attribute, gir_attribute, sections
-def filter_classes(data):
+def filter_classes(data, timearr=True):
     class_set = set()
     output = dict()
     for d in data:
@@ -30,8 +38,12 @@ def filter_classes(data):
                 # create dictionary of recitation : time(s) / lab : time(s) / lecture : time(s)
                 if 'type' not in output[sec]['sections']:
                     output[sec]['sections'][d['type']] = []
-                class_time = tsp(d['timeAndPlace'], d['section-of'])
-                output[sec]['sections'][d['type']].append(class_time) # TODO: parse timeAndPlace
+                class_time = parse_time(d['timeAndPlace'], d['section-of'])
+                if timearr:
+                    class_vec = convert_time_to_vector(class_time)
+                    output[sec]['sections'][d['type']].append(class_vec)
+                else:
+                    output[sec]['sections'][d['type']].append(class_time)
     return output
 
 def parse_class(class_dict):
@@ -43,6 +55,24 @@ def parse_class(class_dict):
     d['hass_attribute'] = class_dict['hass_attribute']
     d['gir_attribute'] = class_dict['gir_attribute']
     return d
+
+# parse prereqs
+def parse_prereq(prereq):
+
+    pass
+
+# parse time
+def convert_time_to_vector(class_time):
+
+    if len(class_time) > 0:
+        vecs = []
+        for time in class_time:
+            vec = np.zeros(150)
+            vec[time[0]:time[0]+time[1]] = 1
+            vecs.append(vec.tolist())
+        return vecs
+    else:
+        return np.zeros(150).tolist()
 
 timeslots = 30
 days = {'M': 0,
@@ -96,7 +126,7 @@ eve_times = {'1': 10,
              '10': 28,
              '10.30': 29}
 
-def tsp_eve(t, number):
+def parse_time_eve(t, number):
     wdays = t.split()[0]
     t = t[t.find("(")+1:t.find(")")].rstrip(' PM')
     
@@ -110,22 +140,22 @@ def tsp_eve(t, number):
                 length = 2
             slots.append((days[d] + eve_times[startendtime[0]], length))
     except Exception as e:
-        print(e, t, number)
-
+        #print(e, t, number)
+        return [] #skipping the few classes that have weird grammar
     return slots
 
-def tsp(t, number):
-    if '*' in t:
+def parse_time(time, number):
+    if '*' in time or 'TBD' in time or 'TBA' in time or 'null' in time or 'Scheduled' in time: 
         return []
     
-    if 'EVE' in t:
-        return tsp_eve(t, number)
+    if 'EVE' in time:
+        return parse_time_eve(time, number)
 
-    t = t.split()[0]
+    time = time.split()[0]
     slots = []
     
     try:
-        for t in t.split(','):
+        for t in time.split(','):
 
             split = [''.join(x) for _, x in itertools.groupby(t, key=str.isalpha)]
             startendtime = split[1].split('-')
@@ -137,16 +167,10 @@ def tsp(t, number):
                     length = 2
                 slots.append((days[d] + times[startendtime[0]], length))
     except Exception as e:
-        print(e, t, number)
+        #print(e, time, number)
+        return [] #skipping classes with weird grammar
 
     return slots
-
-def parse_time(s):
-    s = s.split(' ')[:-1] # extract time from timeAndPlace
-    if s == 'TBD':
-        return ""
-    else:
-        return s
 
 # n (string): course number
 def filter_by_course(n, data):
@@ -211,7 +235,7 @@ def convert_json_to_csv(filename):
     filename_head = filename.split('.')[0]
     df.to_csv(f'{filename_head}.csv')
 
-#convert_json_to_csv('data/parsedsp21_gir.json')
+convert_json_to_csv('data/parsedsp21_gir.json')
 #convert_json_to_csv('data/parsedsp21_hass.json')
 #convert_json_to_csv('data/parsedsp21_15.json')
 #convert_json_to_csv('data/parsedsp21_5.json')
