@@ -8,6 +8,10 @@ import numpy as np
 
 f = open('sp21classes.json')
 data = json.load(f)['items']
+
+f20 = open('f20classes.json')
+dataf20 = json.load(f20)['items']
+
 gir = {"BIO", "CHEM", "CAL1", "CAL2", "PHY1", "PHY2", "BIO"}
 gir_to_course = {
     'GIR:CAL1': 'Calculus I (GIR)',
@@ -18,13 +22,22 @@ gir_to_course = {
     'GIR:BIOL': 'Biology (GIR)',
 }
 
+# extract essential F20 classes
+essentialf20 = {'5.13', '15.780', '15.312', '5.07', '8.01'}
+def extract_f20():
+    f20c = filter_classes(dataf20)
+    f20d = dict()
+    for c in essentialf20:
+        f20d[c] = f20c[c]
+    return f20d
+
 # filter for id, total-units, prereqs, offering, semester, hass_attribute, gir_attribute, sections
 def filter_classes(data, timearr=True):
     class_set = set()
     output = dict()
     for d in data:
         if 'offering' in d:
-            if d['offering'] == 'Y' and d['level'] == 'Undergraduate':
+            if d['offering'] == 'Y':
                 new_dict = parse_class(d)
                 class_set.add(d['id'])
                 output[d['id']] = new_dict
@@ -247,6 +260,8 @@ def filter_actual_classes(classes, data):
     for d in data:
         if d in classes:
             output[d] = data[d]
+    f20classes = extract_f20()
+    output.update(f20classes)
     return output
 
 def write_json_parsed_final():
@@ -260,3 +275,15 @@ def write_json_parsed_final():
 
 #write_json_parsed_final()
 convert_json_to_csv('finaldata/parsedsp21_actual_classes.json')
+
+#check missing data from f20
+"""
+fi = open('finaldata/parsedsp21_actual_classes.json')
+datas = json.load(fi)
+k = set(datas.keys())
+with open('Class_List.csv') as f:
+        classes = list(csv.reader(f))
+        cl = [c[0] for c in classes]
+        cl = set(cl)
+        print(cl-k)
+"""
