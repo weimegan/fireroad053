@@ -231,7 +231,6 @@ def write_json_parsed_hass():
 def convert_json_to_csv(filename):
     df = pd.read_json(filename)
     df = df.T
-    print(df)
     filename_head = filename.split('.')[0]
     df.to_csv(f'{filename_head}.csv')
 
@@ -260,4 +259,4 @@ def write_json_parsed_final():
             json.dump(new_dict, output_file)
 
 #write_json_parsed_final()
-#convert_json_to_csv('finaldata/parsedsp21_actual_classes.json')
+convert_json_to_csv('finaldata/parsedsp21_actual_classes.json')
