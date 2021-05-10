@@ -241,10 +241,19 @@ def write_json_parsed_hass():
 #write_json_parsed_gir()
 #write_json_parsed_hass()
 
-def convert_json_to_csv(filename):
+def convert_json_to_csv(filename, ordered_like_class_list=False):
     df = pd.read_json(filename)
     df = df.T
     filename_head = filename.split('.')[0]
+    if ordered_like_class_list:
+        df1 = pd.DataFrame()
+        with open('Class_List.csv') as f:
+            classes = list(csv.reader(f))
+            classes = [c[0] for c in classes]
+            for c in classes:
+                df1 = df1.append(df.loc[c])
+        df = df1
+
     df.to_csv(f'{filename_head}.csv')
 
 #convert_json_to_csv('data/parsedsp21_gir.json')
@@ -274,7 +283,7 @@ def write_json_parsed_final():
             json.dump(new_dict, output_file)
 
 #write_json_parsed_final()
-convert_json_to_csv('finaldata/parsedsp21_actual_classes.json')
+convert_json_to_csv('finaldata/parsedsp21_actual_classes.json', True)
 
 #check missing data from f20
 """
