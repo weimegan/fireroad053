@@ -8,7 +8,7 @@ import numpy as np
 
 f = open('sp21classes.json')
 data = json.load(f)['items']
-gir = {"BIO", "CHEM", "CAL1", "CAL2", "PHY1", "PHY2"}
+gir = {"BIO", "CHEM", "CAL1", "CAL2", "PHY1", "PHY2", "BIO"}
 gir_to_course = {
     'GIR:CAL1': 'Calculus I (GIR)',
     'GIR:CAL2': 'Calculus II (GIR)',
@@ -235,9 +235,29 @@ def convert_json_to_csv(filename):
     filename_head = filename.split('.')[0]
     df.to_csv(f'{filename_head}.csv')
 
-convert_json_to_csv('data/parsedsp21_gir.json')
+#convert_json_to_csv('data/parsedsp21_gir.json')
 #convert_json_to_csv('data/parsedsp21_hass.json')
 #convert_json_to_csv('data/parsedsp21_15.json')
 #convert_json_to_csv('data/parsedsp21_5.json')
 #convert_json_to_csv('data/parsedsp21_6.json')
 #convert_json_to_csv('data/parsedsp21.json')
+
+# ACTUAL CLASSES
+def filter_actual_classes(classes, data):
+    output = dict()
+    for d in data:
+        if d in classes:
+            output[d] = data[d]
+    return output
+
+def write_json_parsed_final():
+    with open('Class_List.csv') as f:
+        classes = list(csv.reader(f))
+        classes = [c[0] for c in classes]
+        d = filter_classes(data)
+        new_dict = filter_actual_classes(classes, d)
+        with open('finaldata/parsedsp21_actual_classes.json', 'w') as output_file:
+            json.dump(new_dict, output_file)
+
+#write_json_parsed_final()
+#convert_json_to_csv('finaldata/parsedsp21_actual_classes.json')
