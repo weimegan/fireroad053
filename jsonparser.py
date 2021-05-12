@@ -49,7 +49,7 @@ def filter_classes(data, timearr=True):
                 if 'sections' not in output[sec]:
                     output[sec]['sections'] = dict()
                 # create dictionary of recitation : time(s) / lab : time(s) / lecture : time(s)
-                if 'type' not in output[sec]['sections']:
+                if d['type'] not in output[sec]['sections']:
                     output[sec]['sections'][d['type']] = []
                 class_time = parse_time(d['timeAndPlace'], d['section-of'])
                 if timearr:
@@ -71,7 +71,11 @@ def parse_class(class_dict):
 
 # parse prereqs
 def parse_prereq(prereq):
-
+    if len(prereq) == 0:
+        return []
+    permission = 'permission of instructor' 
+    if permission in prereq:
+        prereq = prereq.replace(permission, '')
     pass
 
 # parse time
@@ -273,18 +277,27 @@ def filter_actual_classes(classes, data):
     output.update(f20classes)
     return output
 
-def write_json_parsed_final():
+def write_json_parsed_final(path):
     with open('Class_List.csv') as f:
         classes = list(csv.reader(f))
         classes = [c[0] for c in classes]
         d = filter_classes(data)
         new_dict = filter_actual_classes(classes, d)
-        with open('finaldata/parsedsp21_actual_classes.json', 'w') as output_file:
+        with open(path, 'w') as output_file:
             json.dump(new_dict, output_file)
+#write_json_parsed_final('finaldata/parsedsp21_actual_classes.json')
+#write_json_parsed_final('finaldata/parsedsp21_dummy.json')
+#convert_json_to_csv('finaldata/parsedsp21_actual_classes.json', True)
+#convert_json_to_csv('finaldata/parsedsp21_dummy.json', True)
 
-#write_json_parsed_final()
-convert_json_to_csv('finaldata/parsedsp21_actual_classes.json', True)
+def replace_column(in_csv, out_csv):
+    df_in = pd.read_csv(in_csv)
+    df_out = pd.read_csv(out_csv)
+    for i in range(len(df_out)):
+        df_out.loc[i, 'sections'] = df_in.loc[i, 'sections']
+    df_out.to_csv('finaldata/parsedclasses.csv', index=False)
 
+#replace_column('finaldata/parsedsp21_dummy.csv', 'finaldata/parsedsp21_actual_classes.csv')
 #check missing data from f20
 """
 fi = open('finaldata/parsedsp21_actual_classes.json')
@@ -296,3 +309,25 @@ with open('Class_List.csv') as f:
         cl = set(cl)
         print(cl-k)
 """
+
+def csv_to_json(csvFilePath, jsonFilePath):
+    jsonArray = []
+      
+    #read csv file
+    with open(csvFilePath, encoding='utf-8') as csvf: 
+        #load csv file data using csv library's dictionary reader
+        csvReader = csv.DictReader(csvf) 
+
+        #convert each csv row into python dict
+        for row in csvReader: 
+            #add this python dict to json array
+            jsonArray.append(row)
+  
+    #convert python jsonArray to JSON String and write to file
+    with open(jsonFilePath, 'w', encoding='utf-8') as jsonf: 
+        jsonString = json.dumps(jsonArray, indent=4)
+        jsonf.write(jsonString)
+
+#csv_to_json('finaldata/students_data.csv', 'finaldata/students_data.json')
+
+#csv_to_json('finaldata/parsedclasses.csv', 'finaldata/parsedclasses.json')
