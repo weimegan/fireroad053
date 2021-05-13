@@ -4,7 +4,7 @@ import numpy as np
 with open('model_results/results_stud1.csv', newline='') as csvfile:
     data = list(csv.reader(csvfile))
 
-with open('Class_List.csv', newline='') as csvfile2:
+with open('Class_Rename.csv', newline='') as csvfile2:
     data2 = list(csv.reader(csvfile2))
 
 results = np.array(data[1:])
